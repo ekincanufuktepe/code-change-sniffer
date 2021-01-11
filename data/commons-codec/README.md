@@ -1,4 +1,4 @@
-[Link to Commits] (https://github.com/apache/commons-codec/compare/commons-codec-1.14...rel/commons-codec-1.15)
+[Link to Commits](https://github.com/apache/commons-codec/compare/commons-codec-1.14...rel/commons-codec-1.15)
 
 | Commit ID | SHA                                                                                         | Type of Change                              | MC_CG_Precision     | MC_CG_Recall | MC_CG_F-Measure |
 |-----------|---------------------------------------------------------------------------------------------|---------------------------------------------|---------------------|--------------|-----------------|
