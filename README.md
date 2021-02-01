@@ -39,8 +39,8 @@ Dataset is organized as the following:
 data
 └── project
     ├── version + commit_number
-    |   └── EIS_FS_CG.txt (Estimated Impact Set of Call Graph)
-    |   └── EIS_FS_EG.txt (Estimated Impact Set of Effect Graph)
+    |   └── EIS_Markov_FS_CG.txt (Estimated Impact Set of Call Graph)
+    |   └── EIS_Markov_FS_EG.txt (Estimated Impact Set of Effect Graph)
     ├── ...
     ├── README.md (table of precision, recall, f-measure results, and change types for each commit)
     ├── charts
