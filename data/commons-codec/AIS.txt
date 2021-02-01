@@ -1,0 +1,156 @@
+Method: org.apache.commons.codec.binary.Base32Test:testIsInAlphabet:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64:<init>:4:[int, byte[], boolean, org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$TestData:<init>:7:[java.lang.String, boolean, int, java.lang.String, int, int, boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32:validateTrailingCharacters:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32:<init>:2:[boolean, byte] Change Percentage: 0.36363636363636365
+Method: org.apache.commons.codec.binary.Base32:<init>:4:[int, byte[], boolean, byte] Change Percentage: 0.8689655172413793
+Method: org.apache.commons.codec.binary.Base64Test:testConstructor_Int_ByteArray_Boolean_UrlSafe:0:[] Change Percentage: 0.03076923076923077
+Method: org.apache.commons.codec.binary.Base32:decode:4:[byte[], int, int, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.045368620037807186
+Method: org.apache.commons.codec.CodecPolicy:valueOf:1:[java.lang.String] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16:validateTrailingCharacter:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32:<clinit>:0:[] Change Percentage: 0.008885298869143781
+Method: org.apache.commons.codec.binary.Base64TestData:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16InputStream:<init>:3:[java.io.InputStream, boolean, boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.digest.MurmurHash3:hash128x64Internal:4:[byte[], int, int, long] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32:validateCharacter:2:[long, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.5
+Method: org.apache.commons.codec.binary.Base64OutputStreamTest:testStrictDecoding:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64OutputStreamTest:testBase64OutputStreamByChunk:0:[] Change Percentage: 0.32
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest:testConstructor:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16:decode:4:[byte[], int, int, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Hex:decodeHex:1:[char[]] Change Percentage: 0.8170731707317073
+Method: org.apache.commons.codec.binary.Base32OutputStreamTest:<clinit>:0:[] Change Percentage: 0.09090909090909091
+Method: org.apache.commons.codec.binary.Base32TestData:bytesContain:2:[byte[], byte] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64TestData:resizeArray:1:[byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64TestData:randomData:2:[int, boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Hex:decodeHex:3:[char[], byte[], int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$3:<init>:2:[org.apache.commons.codec.binary.CharSequenceUtilsTest, org.apache.commons.codec.binary.CharSequenceUtilsTest$TestData] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16:decodeOctet:1:[byte] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16InputStream:<init>:4:[java.io.InputStream, boolean, boolean, org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Hex:encodeHex:2:[byte[], char[]] Change Percentage: 0.6142857142857143
+Method: org.apache.commons.codec.binary.Base32Test:testBase32AtBufferStart:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.digest.MurmurHash3Test:testHash128WithOffsetLengthAndNegativeSeed:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$RunTest:run:2:[org.apache.commons.codec.binary.CharSequenceUtilsTest$TestData, java.lang.String] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64:decode:4:[byte[], int, int, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.06741573033707865
+Method: org.apache.commons.codec.digest.MurmurHash3:hash128x64:4:[byte[], int, int, long] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase32ImpossibleSamples:0:[] Change Percentage: 0.3684210526315789
+Method: org.apache.commons.codec.binary.Base32Test:testBase64AtBufferStart:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64Test:testEmptyBase64:0:[] Change Percentage: 0.3380281690140845
+Method: org.apache.commons.codec.binary.BaseNCodec:getChunkSeparator:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$RunTest:invoke:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16TestData:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16InputStream:<init>:2:[java.io.InputStream, boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$TestData:toString:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNTestData:bytesContain:2:[byte[], byte] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64Test:testConstructor_Int_ByteArray_Boolean:0:[] Change Percentage: 0.04
+Method: org.apache.commons.codec.binary.Base64InputStream:<init>:5:[java.io.InputStream, boolean, int, byte[], org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNCodecOutputStream:isStrictDecoding:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNCodec:<init>:5:[int, int, int, int, byte] Change Percentage: 0.5671641791044776
+Method: org.apache.commons.codec.binary.Base16:isInAlphabet:1:[byte] Change Percentage: 0.99
+Method: org.apache.commons.codec.net.BCodec:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testRandomBytes:0:[] Change Percentage: 0.017857142857142856
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNTestData:streamToBytes:1:[java.io.InputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32:<init>:5:[int, byte[], boolean, byte, org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64OutputStream:<init>:5:[java.io.OutputStream, boolean, int, byte[], org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32TestData:streamToBytes:1:[java.io.InputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16InputStream:<init>:1:[java.io.InputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase32InBuffer:2:[int, int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testConstructors:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$2:<init>:2:[org.apache.commons.codec.binary.CharSequenceUtilsTest, org.apache.commons.codec.binary.CharSequenceUtilsTest$TestData] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64Test:assertBase64DecodingOfTrailingBits:1:[int] Change Percentage: 0.6261682242990654
+Method: org.apache.commons.codec.binary.Base64Test:testUrlSafe:0:[] Change Percentage: 0.46153846153846156
+Method: org.apache.commons.codec.digest.MurmurHash3:hash128:4:[byte[], int, int, int] Change Percentage: 0.13043478260869565
+Method: org.apache.commons.codec.CodecPolicy:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64OutputStreamTest:testBase64OutputStreamByteByByte:0:[] Change Percentage: 0.32
+Method: org.apache.commons.codec.CodecPolicy:values:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.net.BCodec:<init>:2:[java.nio.charset.Charset, org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testByteByByte:3:[byte[], byte[], boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testByChunk:3:[byte[], byte[], boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.CodecPolicy:<init>:2:[java.lang.String, int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNCodec:<init>:6:[int, int, int, int, byte, org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Hex:encodeHex:6:[byte[], int, int, boolean, char[], int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64TestData:fill:3:[byte[], int, java.io.InputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testByChunk:2:[byte[], byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNTestData:resizeArray:1:[byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNTestData:fill:3:[byte[], int, java.io.InputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStream:<init>:2:[java.io.OutputStream, boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64:<init>:3:[int, byte[], boolean] Change Percentage: 0.831858407079646
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testBase16OutputStreamByteByByte:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testRandomBytesChunked:0:[] Change Percentage: 0.03508771929824561
+Method: org.apache.commons.codec.binary.Base16:<init>:1:[boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16:encode:4:[byte[], int, int, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64TestData:streamToBytes:1:[java.io.InputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$1:invoke:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$3:invoke:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase32DecodingOfTrailing5Bits:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testRandomBytesHex:0:[] Change Percentage: 0.03508771929824561
+Method: org.apache.commons.codec.binary.Hex:encodeHex:6:[byte[], int, int, char[], char[], int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64:validateCharacter:2:[int, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.53125
+Method: org.apache.commons.codec.binary.Base32OutputStreamTest:testByteByByte:4:[byte[], byte[], int, byte[]] Change Percentage: 0.1469387755102041
+Method: org.apache.commons.codec.binary.Base32Test:testBase32ImpossibleChunked:0:[] Change Percentage: 0.3157894736842105
+Method: org.apache.commons.codec.binary.Base32OutputStreamTest:testBase32OutputStreamByteByByte:0:[] Change Percentage: 0.05970149253731343
+Method: org.apache.commons.codec.binary.Base64TestData:bytesContain:2:[byte[], byte] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16:<init>:2:[boolean, org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32OutputStreamTest:testStrictDecoding:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64:validateTrailingCharacter:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testEmptyBase32:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$1:<init>:2:[org.apache.commons.codec.binary.CharSequenceUtilsTest, org.apache.commons.codec.binary.CharSequenceUtilsTest$TestData] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32OutputStream:<init>:5:[java.io.OutputStream, boolean, int, byte[], org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.digest.MurmurHash3:hash128x64:4:[byte[], int, int, int] Change Percentage: 0.08333333333333333
+Method: org.apache.commons.codec.binary.Base64:<clinit>:0:[] Change Percentage: 0.010752688172043012
+Method: org.apache.commons.codec.binary.Hex:encodeHex:4:[byte[], int, int, boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32InputStream:<init>:5:[java.io.InputStream, boolean, int, byte[], org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testByteByByte:2:[byte[], byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32TestData:streamToBytes:2:[java.io.InputStream, byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase64InBuffer:2:[int, int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32TestData:resizeArray:1:[byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase32HexImpossibleSamples:0:[] Change Percentage: 0.2631578947368421
+Method: org.apache.commons.codec.binary.Base64Test:testChunkedEncodeMultipleOf76:0:[] Change Percentage: 0.058823529411764705
+Method: org.apache.commons.codec.binary.BaseNCodec:ensureBufferSize:2:[int, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.05660377358490566
+Method: org.apache.commons.codec.binary.BaseNTestData:streamToBytes:2:[java.io.InputStream, byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64TestData:streamToBytes:2:[java.io.InputStream, byte[]] Change Percentage: 0.99
+Method: org.apache.commons.codec.net.BCodec:isStrictDecoding:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStream:<init>:4:[java.io.OutputStream, boolean, boolean, org.apache.commons.codec.CodecPolicy] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32TestData:randomData:2:[org.apache.commons.codec.binary.BaseNCodec, int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNCodec:isStrictDecoding:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.net.RFC1522Codec:encodeText:2:[java.lang.String, java.nio.charset.Charset] Change Percentage: 0.10606060606060606
+Method: org.apache.commons.codec.binary.Base32TestData:fill:3:[byte[], int, java.io.InputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.net.BCodec:<init>:1:[java.nio.charset.Charset] Change Percentage: 0.3125
+Method: org.apache.commons.codec.binary.Base64Test:testEncodeOverMaxSize:1:[int] Change Percentage: 0.06451612903225806
+Method: org.apache.commons.codec.binary.Base64OutputStreamTest:testBase64EmptyOutputStream:1:[int] Change Percentage: 0.11428571428571428
+Method: org.apache.commons.codec.binary.Base32OutputStreamTest:testBase32OutputStreamByChunk:0:[] Change Percentage: 0.05970149253731343
+Method: org.apache.commons.codec.binary.Base64OutputStreamTest:testByChunk:4:[byte[], byte[], int, byte[]] Change Percentage: 0.1484375
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest:testRegionMatches:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNCodec:getCodecPolicy:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNTestData:randomData:2:[org.apache.commons.codec.binary.BaseNCodec, int] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStream:<init>:3:[java.io.OutputStream, boolean, boolean] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testBase16EmptyOutputStream:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.net.BCodec:doDecoding:1:[byte[]] Change Percentage: 0.4
+Method: org.apache.commons.codec.binary.Base32Test:testBase64AtBufferMiddle:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64:encode:4:[byte[], int, int, org.apache.commons.codec.binary.BaseNCodec$Context] Change Percentage: 0.07547169811320754
+Method: org.apache.commons.codec.binary.BaseNTestData:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase64AtBufferEnd:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNCodecInputStream:isStrictDecoding:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testWriteOutOfBounds:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStream:<init>:1:[java.io.OutputStream] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64Test:testBase64ImpossibleSamples:0:[] Change Percentage: 0.2982456140350877
+Method: org.apache.commons.codec.binary.Base64OutputStreamTest:<clinit>:0:[] Change Percentage: 0.09090909090909091
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$TestData:<init>:7:[java.lang.String, boolean, int, java.lang.String, int, int, java.lang.Class] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.BaseNCodec:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base64OutputStreamTest:testByteByByte:4:[byte[], byte[], int, byte[]] Change Percentage: 0.1469387755102041
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testWriteToNullCoverage:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase32AtBufferEnd:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base16OutputStreamTest:testBase16OutputStreamByChunk:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32OutputStreamTest:testBase32EmptyOutputStream:1:[int] Change Percentage: 0.11428571428571428
+Method: org.apache.commons.codec.binary.Base32Test:assertBase32DecodingOfTrailingBits:1:[int] Change Percentage: 0.6412556053811659
+Method: org.apache.commons.codec.binary.BaseNTestData:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$RunTest:<init>:1:[org.apache.commons.codec.binary.CharSequenceUtilsTest$RunTest] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32OutputStreamTest:testByChunk:4:[byte[], byte[], int, byte[]] Change Percentage: 0.1484375
+Method: org.apache.commons.codec.binary.Base64Test:testBase64DecodingOfTrailing6Bits:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.Base32Test:testBase32AtBufferMiddle:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$RunTest:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.codec.binary.CharSequenceUtilsTest$2:invoke:0:[] Change Percentage: 0.99

@@ -1,0 +1,40 @@
+Method: org.apache.commons.csv.PerformanceTest$1:createParser:0:[] Change Percentage: 0.99
+Method: org.apache.commons.csv.CSVFormat:printWithQuotes:4:[java.lang.Object, java.lang.CharSequence, java.lang.Appendable, boolean] Change Percentage: 0.31683168316831684
+Method: org.apache.commons.csv.ExtendedBufferedReaderTest:testEmptyInput:0:[] Change Percentage: 0.4888888888888889
+Method: org.apache.commons.csv.CSVRecord:getHeaderMapRaw:0:[] Change Percentage: 0.4375
+Method: org.apache.commons.csv.issues.JiraCsv248Test:testJiraCsv248:0:[] Change Percentage: 0.99
+Method: org.apache.commons.csv.issues.JiraCsv198Test:test:0:[] Change Percentage: 0.03389830508474576
+Method: org.apache.commons.csv.issues.JiraCsv203Test:testQuoteModeNonNumeric:0:[] Change Percentage: 0.01639344262295082
+Method: org.apache.commons.csv.PerformanceTest$1:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.csv.issues.JiraCsv213Test:createEndChannel:1:[java.io.File] Change Percentage: 0.49261083743842365
+Method: org.apache.commons.csv.CSVFormat:hashCode:0:[] Change Percentage: 0.3092369477911647
+Method: org.apache.commons.csv.CSVParser:createHeaders:0:[] Change Percentage: 0.3895582329317269
+Method: org.apache.commons.csv.issues.JiraCsv203Test:testWithEmptyValues:0:[] Change Percentage: 0.01639344262295082
+Method: org.apache.commons.csv.CSVFormatPredefinedTest:test:2:[org.apache.commons.csv.CSVFormat, java.lang.String] Change Percentage: 0.17391304347826086
+Method: org.apache.commons.csv.TokenMatchersTest:testIsReady:0:[] Change Percentage: 0.17391304347826086
+Method: org.apache.commons.csv.CSVRecord:get:1:[java.lang.Enum] Change Percentage: 0.13333333333333333
+Method: org.apache.commons.csv.issues.JiraCsv203Test:testQuoteModeMinimal:0:[] Change Percentage: 0.01639344262295082
+Method: org.apache.commons.csv.Utils:compare:3:[java.lang.String, java.lang.String[][], java.util.List] Change Percentage: 0.44155844155844154
+Method: org.apache.commons.csv.issues.JiraCsv164Test:testJiraCsv154_withHeaderComments:0:[] Change Percentage: 0.03007518796992481
+Method: org.apache.commons.csv.CSVRecord:isSet:1:[int] Change Percentage: 0.99
+Method: org.apache.commons.csv.issues.JiraCsv203Test:testWithoutQuoteMode:0:[] Change Percentage: 0.016666666666666666
+Method: org.apache.commons.csv.TokenMatchersTest:testHasContent:0:[] Change Percentage: 0.19047619047619047
+Method: org.apache.commons.csv.ExtendedBufferedReaderTest:testReadLine:0:[] Change Percentage: 0.3027027027027027
+Method: org.apache.commons.csv.ExtendedBufferedReaderTest:testReadLookahead2:0:[] Change Percentage: 0.4147727272727273
+Method: org.apache.commons.csv.PerformanceTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.csv.CSVFormat:validate:0:[] Change Percentage: 0.05504587155963303
+Method: org.apache.commons.csv.TokenMatchersTest:testHasType:0:[] Change Percentage: 0.22857142857142856
+Method: org.apache.commons.csv.issues.JiraCsv203Test:testWithoutNullString:0:[] Change Percentage: 0.016666666666666666
+Method: org.apache.commons.csv.TokenMatchersTest:testMatches:0:[] Change Percentage: 0.20512820512820512
+Method: org.apache.commons.csv.issues.JiraCsv203Test:testQuoteModeAll:0:[] Change Percentage: 0.01639344262295082
+Method: org.apache.commons.csv.issues.JiraCsv248Test:<init>:0:[] Change Percentage: 0.99
+Method: org.apache.commons.csv.issues.JiraCsv167Test:parse:0:[] Change Percentage: 0.025559105431309903
+Method: org.apache.commons.csv.CSVFormat:equals:1:[java.lang.Object] Change Percentage: 0.37890625
+Method: org.apache.commons.csv.issues.JiraCsv203Test:testQuoteModeAllNonNull:0:[] Change Percentage: 0.01639344262295082
+Method: org.apache.commons.csv.TokenMatchers:matches:2:[org.apache.commons.csv.Token$Type, java.lang.String] Change Percentage: 0.43478260869565216
+Method: org.apache.commons.csv.ExtendedBufferedReaderTest:testReadChar:0:[] Change Percentage: 0.0392156862745098
+Method: org.apache.commons.csv.issues.JiraCsv248Test:getTestInput:0:[] Change Percentage: 0.99
+Method: org.apache.commons.csv.perf.PerformanceTest:testReadBigFile:0:[] Change Percentage: 0.38190954773869346
+Method: org.apache.commons.csv.CSVFormat:toString:0:[] Change Percentage: 0.16751269035532995
+Method: org.apache.commons.csv.ExtendedBufferedReaderTest:testReadLookahead1:0:[] Change Percentage: 0.5809768637532133
+Method: org.apache.commons.csv.issues.JiraCsv164Test:testJiraCsv154_withCommentMarker:0:[] Change Percentage: 0.03007518796992481

@@ -1,0 +1,1541 @@
+Method: org.junit.internal.runners.model.EachTestNotifier:fireTestIgnored:0:[] Change Percentage: 0.3076923076923077
+Method: org.junit.runner.Result$SerializedForm:access$2:1:[org.junit.runner.Result$SerializedForm] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SupplierWithTestClassConstructor:<init>:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParameters:notNull:2:[java.lang.Object, java.lang.String] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories:computeTestMethods:0:[] Change Percentage: 0.09375
+Method: org.junit.ComparisonFailure$ComparisonCompactor:computeCommonSuffix:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListFieldWithOverlyGenericTypes:theory:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getAnnotations:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.runners.model.FrameworkField:getDeclaringClass:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.ParameterSignature:canAcceptArrayType:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidator:validateAnnotatedMethod:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:before:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce$Dummy:apply:3:[org.junit.runners.model.Statement, org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.runner.Result$Listener:testFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.23529411764705882
+Method: org.junit.Assert:assertEquals:4:[java.lang.String, double, double, double] Change Percentage: 0.29411764705882354
+Method: org.junit.runner.notification.RunNotifierTest$ThreadSafeListener:<init>:1:[org.junit.runner.notification.RunNotifierTest$ThreadSafeListener] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:dataPointMethodsMustBeStatic:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParameters:getTestClass:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:access$2:1:[org.junit.rules.ExpectedException] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.TheoryTestUtils:potentialAssignments:1:[java.lang.reflect.Method] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:runClasses:1:[java.lang.Class[]] Change Percentage: 0.38461538461538464
+Method: org.junit.Assert:assertNotEquals:4:[java.lang.String, double, double, double] Change Percentage: 0.631578947368421
+Method: org.junit.experimental.categories.Categories$CategoryFilter:toString:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest$TestClassWithNamedDataPoints:getSingleOtherValue:0:[] Change Percentage: 0.99
+Method: org.junit.Assert:assertNotEquals:4:[java.lang.String, float, float, float] Change Percentage: 0.99
+Method: org.junit.Assume:assumeNoException:2:[java.lang.String, java.lang.Throwable] Change Percentage: 0.47058823529411764
+Method: org.junit.tests.running.classes.ParentRunnerTest:assertionErrorAtParentLevelTest:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeARule:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:isStatic:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$WithoutDebugArgumentsTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$AbstractDisableOnDebugTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.BooleanSupplier:getValueSources:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsArrayWithMatchingButInaccurateTypes:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:findCommonSuffix:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$PostJava5DebugArgumentsTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.PublicClassValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:equalsDelegates:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithExtendedParameterSources:shouldFilterOutNullSingleDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$DummySortWithoutAnnotation:epsilon:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:access$2:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getAnnotatedMembers:3:[java.util.Map, java.lang.Class, boolean] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier$MethodParameterValue:getDescription:0:[] Change Percentage: 0.2
+Method: org.junit.runners.model.FrameworkFieldTest:presentAnnotationIsAvailable:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener:<init>:1:[boolean] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoryParams:getArgs:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactoryTest:exceptionWhenAnnotationWithNullClassIsPassedIn:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$UseCustomMessageWithPlaceHolder:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:runtimeDuringTestShouldReturnTimeSinceStart:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.ClassRoadie:runUnprotected:0:[] Change Percentage: 0.2
+Method: org.junit.runners.model.TestClassTest$OuterClass2:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:runMain:2:[org.junit.internal.JUnitSystem, java.lang.String[]] Change Percentage: 0.782051282051282
+Method: org.junit.runners.parameterized.TestWithParametersTest:hasMeaningfulToString:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:testStarted:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:declaredMethods:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getJavaClass:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.runner.FilterOptionIntegrationTest$DummyTestClass:dummyTest:0:[] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlapingMatchesContext:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.FailingDataPointMethods:shouldIgnoreSingleDataPointMethodExceptionsOnRequest:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:apply:2:[org.junit.runners.model.Statement, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$HasUnfilteredTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getSortedDeclaredFields:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:testRunStarted:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:access$1:1:[long] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopStuckInMainThreadTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.IgnoredClassRunner:<init>:1:[java.lang.Class] Change Percentage: 0.13333333333333333
+Method: org.junit.runner.notification.SynchronizedRunListener:testIgnored:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest:runsAllMethodRulesThatAreReturnedByMethods:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:run5:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:isAssignableToAnyOf:2:[java.lang.Class[], java.lang.Object] Change Percentage: 0.99
+Method: org.junit.runners.model.NoGenericTypeParametersValidator:validate:1:[java.util.List] Change Percentage: 0.05405405405405406
+Method: org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest$ErrorRememberingListener:addError:2:[junit.framework.Test, java.lang.Throwable] Change Percentage: 0.3333333333333333
+Method: org.junit.runners.model.TestClassTest$TwoConstructors:<init>:1:[int] Change Percentage: 0.99
+Method: org.junit.runner.Result$SerializedForm:<init>:1:[java.io.ObjectInputStream$GetField] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories$TheoryAnchor$1:createTest:0:[] Change Percentage: 0.5384615384615384
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleMethodThatReturnsMethodRule$1:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsArrayField:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$DeclaringClassMustBePublic:isDeclaringClassPublic:1:[org.junit.runners.model.FrameworkMember] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:getAnnotatedFieldsByParameter:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:describeMultipleCategoryFilter:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest$DummyTest:dummyTest:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidator:validateAnnotatedField:1:[org.junit.runners.model.FrameworkField] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest$TestListener:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:access$2:1:[org.junit.internal.runners.statements.FailOnTimeout$Builder] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCoreTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.requests.SortingRequest:getRunner:0:[] Change Percentage: 0.17391304347826086
+Method: org.junit.validator.AnnotationsValidatorTest$AnnotationValidatorFieldTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest:topLevelTestClassWithAnnotation_isRunWithAnnotatedRunner:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:getSingleDataPointMethods:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:build:1:[org.junit.runners.model.Statement] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$CallableStatement:<init>:1:[org.junit.internal.runners.statements.FailOnTimeout] Change Percentage: 0.99
+Method: junit.tests.runner.ResultTest$ResultWithFixedRunTime:getFailureCount:0:[] Change Percentage: 0.99
+Method: org.junit.internal.requests.FilterRequest:<init>:2:[org.junit.runner.Request, org.junit.runner.manipulation.Filter] Change Percentage: 0.4
+Method: org.junit.runners.ParentRunner:access$1:1:[org.junit.runners.ParentRunner] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest:succeeds:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$TimeoutSubclass:getTimeoutFromSuperclass:1:[java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: junit.framework.TestFailure:toString:0:[] Change Percentage: 0.3870967741935484
+Method: org.junit.runner.FilterFactoriesTest:shouldPassOnDescriptionToFilterFactory:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$SkippedTest:skippedTest:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.IncludeCategories$IncludesAny:<init>:1:[java.util.Set] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$ConcurrentRunListener:testStarted:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectClassRuleInNonPublicClass:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TestWatcher:skippedQuietly:3:[org.junit.internal.AssumptionViolatedException, org.junit.runner.Description, java.util.List] Change Percentage: 0.4583333333333333
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest$1:starting:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleMethodReturnsAnArbitraryObject:arbitraryObject:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result$Listener:testRunStarted:1:[org.junit.runner.Description] Change Percentage: 0.2
+Method: org.junit.experimental.max.MaxCore:sortRequest:1:[org.junit.runner.Request] Change Percentage: 0.06451612903225806
+Method: org.junit.validator.AnnotationValidatorFactory:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsArrayMethodMayContainNullValue:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier:shouldRejectSuppliersWithTwoConstructors:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:getIncludedCategory:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:access$3:1:[org.junit.ComparisonFailure$ComparisonCompactor] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParametersFactory:createRunnerForTestWithParameters:1:[org.junit.runners.parameterized.TestWithParameters] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints$ENUM:valueOf:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest$2:<init>:1:[org.junit.tests.experimental.theories.PotentialAssignmentTest] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$ExpectAssertionErrorWhichIsNotThrown:fails:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithProtectedClassRule:getTemporaryFolder:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheories$StubbedTheoryAnchor:runWithIncompleteAssignment:1:[org.junit.experimental.theories.internal.Assignments] Change Percentage: 0.05
+Method: org.junit.experimental.categories.Categories$ExcludeCategory:matchAny:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:methodWantingNamedMethodString:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:runClassAndVerifyNoFailures:2:[java.lang.Class, java.lang.String] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getSupplier:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.4594594594594595
+Method: org.junit.tests.experimental.categories.MultiCategoryTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.RunBefores:<init>:3:[org.junit.runners.model.Statement, java.util.List, java.lang.Object] Change Percentage: 0.20689655172413793
+Method: org.junit.internal.runners.JUnit38ClassRunner:getAnnotations:1:[junit.framework.TestCase] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:<init>:3:[int, java.lang.String, java.lang.String] Change Percentage: 0.20689655172413793
+Method: org.junit.internal.runners.MethodValidator:validateNoArgConstructor:0:[] Change Percentage: 0.13333333333333333
+Method: org.junit.runners.ParentRunner:comparator:1:[org.junit.runner.manipulation.Sorter] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:hasNull:1:[java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:exclude:1:[java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$3:<init>:2:[org.junit.runner.notification.ConcurrentRunNotifierTest, org.junit.runner.notification.ConcurrentRunNotifierTest] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.VerifierRuleTest$UsesErrorCollectorCheckSucceeds:example:0:[] Change Percentage: 0.41025641025641024
+Method: org.junit.rules.Timeout$Builder:withTimeout:2:[long, java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest$ExampleAnnotationValidator:validateAnnotatedField:1:[org.junit.runners.model.FrameworkField] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:getDeclaredMethodNames:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactories:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:access$2:1:[org.junit.rules.Stopwatch] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest$ThreadSafeListener:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories:validateParameterSupplier:2:[java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:globalTimeoutAvoidsInfiniteLoop:0:[] Change Percentage: 0.99
+Method: org.junit.validator.PublicClassValidatorTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.Assert:failNotSame:3:[java.lang.String, java.lang.Object, java.lang.Object] Change Percentage: 0.0425531914893617
+Method: org.junit.runners.model.FrameworkField:getAnnotation:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMember:getDeclaringClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.internal.runners.statements.FailOnTimeoutTest:throwsTestTimedOutException:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$MethodComparator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException$ExpectedExceptionStatement:<init>:2:[org.junit.rules.ExpectedException, org.junit.runners.model.Statement] Change Percentage: 0.1111111111111111
+Method: org.junit.runners.model.FrameworkMethod:isPublic:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:access$1:1:[org.junit.runners.model.FrameworkMember] Change Percentage: 0.99
+Method: org.junit.validator.PublicClassValidatorTest:acceptsPublicClass:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:validateMember:2:[org.junit.runners.model.FrameworkMember, java.util.List] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMultipleMethodsReturningMethodRule:methodRule2:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsCollectionShouldBeRecognizedIgnoringStrangeTypes:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$ConcurrentRunListener:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$CallableStatement:<init>:2:[org.junit.internal.runners.statements.FailOnTimeout, org.junit.internal.runners.statements.FailOnTimeout$CallableStatement] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsArrayShouldBeRecognized:0:[] Change Percentage: 0.99
+Method: org.junit.internal.TextListener:getWriter:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.internal.runners.statements.FailOnTimeout:<init>:3:[org.junit.internal.runners.statements.FailOnTimeout$Builder, org.junit.runners.model.Statement, org.junit.internal.runners.statements.FailOnTimeout] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlappingMatches2Context:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories:validateDataPointMethods:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeARule:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$DummySortWithoutAnnotation:delta:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getMethodArguments:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:dataPointFieldsMustBePublic:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest:errorIsAddedWhenCategoryIsUsedWithAfterClass:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilder:<init>:1:[org.junit.runners.model.RunnerBuilder] Change Percentage: 0.13333333333333333
+Method: org.junit.experimental.theories.Theories$TheoryAnchor:runWithCompleteAssignment:1:[org.junit.experimental.theories.internal.Assignments] Change Percentage: 0.17391304347826086
+Method: org.junit.rules.ExpectedExceptionMatcherBuilder:castedMatchers:0:[] Change Percentage: 0.16666666666666666
+Method: junit.framework.Assert:assertEquals:3:[java.lang.String, short, short] Change Percentage: 0.3333333333333333
+Method: org.junit.rules.Timeout$Builder:getTimeUnit:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest:shouldCreateFilterWithNoArguments:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.MethodRoadie$1:run:0:[] Change Percentage: 0.20652173913043478
+Method: org.junit.internal.matchers.ThrowableMessageMatcher:matchesSafely:1:[java.lang.Throwable] Change Percentage: 0.13333333333333333
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest$CategoryFilterFactoryStub:createFilter:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.experimental.categories.ExcludeCategories$ExcludesAny:<init>:1:[java.util.Set] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.TheoryTestUtils:runTheoryClass:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.EnumSupplier:getValueSources:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:access$1:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories$TheoryAnchor:getTestClass:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.ComparisonFailure$ComparisonCompactor:access$4:1:[org.junit.ComparisonFailure$ComparisonCompactor] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:getType:0:[] Change Percentage: 0.2
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest$TestClassWithNamedDataPoints:getSingleValue:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest:topLevelTestClassWithoutAnnotation_isRunWithDefaultRunner:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor:actualDiff:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$DeclaringClassMustBePublic:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:whenRunWithPostJava5DebugArgumentsTestShouldFail:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$UseNoCustomMessage:noThrow:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest$1:finished:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleMethodThatReturnsMethodRule$1:apply:3:[org.junit.runners.model.Statement, org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$AnnotatableValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidator:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:isNotEqualToTestWithDifferentTestClass:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:isPublic:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectProtectedClassRule:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$DurationAfterTestTest:afterStopwatchRule:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Timeout:builder:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$NonFilterFactory:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithProtectedClassRule:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMultipleMethodsReturningMethodRule:doNothing:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest:shouldReturnGivenValue:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactory:createFilter:1:[org.junit.runner.FilterFactoryParams] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:rules:1:[java.lang.Object] Change Percentage: 0.3103448275862069
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:createTestUsingFieldInjection:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$ExcludeCategory:value:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:getStuckThread:1:[java.lang.Thread] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlapingMatches:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$FilterFactoryStub:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectStaticMethodRule:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest:parentRunnerTestMethods:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:cannotBeCreatedWithoutAName:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.SpecificDataPointsSupplier:<init>:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithArbitraryObjectWithRuleAnnotation:getArbitraryObject:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.model.EachTestNotifier:fireTestFinished:0:[] Change Percentage: 0.3076923076923077
+Method: org.junit.runners.model.TestClass:getAnnotatedMethodValues:3:[java.lang.Object, java.lang.Class, java.lang.Class] Change Percentage: 0.22340425531914893
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$NamedListener:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BeforeClassWithIgnoredClass:beforeClass:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:runsTopToBottom:1:[java.lang.Class] Change Percentage: 0.5862068965517241
+Method: org.junit.rules.DisableOnDebug:<init>:1:[org.junit.rules.TestRule] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:acceptMethodStaticTestRuleThatIsAlsoClassRule:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:acceptNonStaticTestRule:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithExtendedParameterSources:shouldFilterNull:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:sort:1:[org.junit.runner.manipulation.Sorter] Change Percentage: 0.1111111111111111
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest:access$0:1:[org.junit.runner.notification.ConcurrentRunNotifierTest] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$TestTest:ignore:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest$DummyTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:validatePublicVoid:2:[boolean, java.util.List] Change Percentage: 0.38345864661654133
+Method: org.junit.internal.runners.ClassRoadie:addFailure:1:[java.lang.Throwable] Change Percentage: 0.2
+Method: org.junit.rules.Stopwatch$InternalWatcher:<init>:2:[org.junit.rules.Stopwatch, org.junit.rules.Stopwatch$InternalWatcher] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getOnlyConstructor:0:[] Change Percentage: 0.09090909090909091
+Method: org.junit.rules.Stopwatch$InternalWatcher:<init>:1:[org.junit.rules.Stopwatch] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest:shouldUseQuotedValueInDescription:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.ParameterSignature:putSymmetrically:3:[java.util.Map, java.lang.Object, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest$AnnotationValidatorClassTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest$TestClassWithNamedDataPoints:getOtherValues:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$1:run:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest$Inherited:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.NoGenericTypeParametersValidator:validateNoTypeParameterOnType:2:[java.lang.reflect.Type, java.util.List] Change Percentage: 0.028985507246376812
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeStatic:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:toStringDelegates:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TestWatcher:succeededQuietly:2:[org.junit.runner.Description, java.util.List] Change Percentage: 0.1935483870967742
+Method: org.junit.rules.Timeout$Builder:build:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener:startTest:1:[junit.framework.Test] Change Percentage: 0.125
+Method: org.junit.experimental.theories.internal.Assignments:isComplete:0:[] Change Percentage: 0.13333333333333333
+Method: org.junit.internal.ComparisonCriteria:arrayEquals:3:[java.lang.String, java.lang.Object, java.lang.Object] Change Percentage: 0.30718954248366015
+Method: org.junit.tests.experimental.categories.MultiCategoryTest$Z:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:toString:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:shouldReturnOnlyTheNamedDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch$InternalWatcher:skipped:2:[org.junit.AssumptionViolatedException, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactory:createFilter:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints$ENUM:<init>:2:[java.lang.String, int] Change Percentage: 0.99
+Method: junit.framework.Assert:assertEquals:3:[java.lang.String, byte, byte] Change Percentage: 0.3333333333333333
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:<init>:0:[] Change Percentage: 0.38461538461538464
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$AfterClassWithIgnoredTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParametersFactory:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$FailBeforeExpectingException:fails:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TestName:starting:1:[org.junit.runner.Description] Change Percentage: 0.14285714285714285
+Method: junit.runner.BaseTestRunner:getTest:1:[java.lang.String] Change Percentage: 0.011428571428571429
+Method: org.junit.internal.MethodSorterTest$DummySortWithoutAnnotation:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:testCountWithMultipleExcludeFilter:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:access$2:1:[org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest:timeoutFailureMultithreaded:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.ErrorReportingRunner:getDescription:0:[] Change Percentage: 0.10526315789473684
+Method: org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithoutOwnRunWith$MostInnerClass:test:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest$FilterFactoryStub:createFilter:1:[org.junit.runner.FilterFactoryParams] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:acceptStaticTestRuleThatIsAlsoClassRule:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:access$0:1:[org.junit.rules.Stopwatch] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilder:runnerForClass:1:[java.lang.Class] Change Percentage: 0.5217391304347826
+Method: org.junit.runner.FilterOptionIntegrationTest:shouldRunAllTests:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BeforeClassWithIgnoredClass:test:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest$Inherited:a:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addMultiPointMethods:2:[org.junit.experimental.theories.ParameterSignature, java.util.List] Change Percentage: 0.6666666666666666
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:validateFields:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithStaticTestRule:<init>:0:[] Change Percentage: 0.99
+Method: junit.tests.runner.ResultTest:assertSerializedCorrectly:2:[org.junit.runner.Result, org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest:assertWasRun:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:noIncludeCategoryAnnotation:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SupplierWithTestClassConstructor:getValueSources:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.Assume:assumeThat:2:[java.lang.Object, org.hamcrest.Matcher] Change Percentage: 0.18181818181818182
+Method: org.junit.runners.ParentRunner:getRunnerAnnotations:0:[] Change Percentage: 0.2
+Method: org.junit.internal.runners.TestMethod:invoke:1:[java.lang.Object] Change Percentage: 0.11764705882352941
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$FailedAssumptionAndExpectException:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.TestMethod:getBefores:0:[] Change Percentage: 0.18181818181818182
+Method: org.junit.experimental.ParallelComputer:<init>:2:[boolean, boolean] Change Percentage: 0.18181818181818182
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BrokenRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addArrayValues:3:[java.lang.String, java.util.List, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:withPotentialTimeout:3:[org.junit.runners.model.FrameworkMethod, java.lang.Object, org.junit.runners.model.Statement] Change Percentage: 0.28888888888888886
+Method: org.junit.runner.FilterOptionIntegrationTest:assertWasNotRun:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$TestTest:fail:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$FieldValidator:getAnnotatablesForTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopStuckInMainThreadTest:failure:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest:shouldIncludeSomeTests:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:throwTimeoutException:1:[org.junit.internal.runners.statements.FailOnTimeout$StatementThread] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$MethodComparator:compare:2:[java.lang.Object, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.experimental.theories.PotentialAssignment$1:getDescription:0:[] Change Percentage: 0.9027777777777778
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest:access$0:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:run:1:[org.junit.runner.Runner] Change Percentage: 0.13793103448275862
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsWithObjectParameter:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.MultiCategoryTest$Q:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$TwoConstructors:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.StacktracePrintingMatcher:matchesSafely:1:[java.lang.Throwable] Change Percentage: 0.14285714285714285
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsFieldWithNullValue:<init>:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:testInheritance:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$FailOnExecution:<init>:1:[org.junit.rules.DisableOnDebugTest$FailOnExecution] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:access$2:1:[org.junit.ComparisonFailure$ComparisonCompactor] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:createSet:1:[java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:getName:0:[] Change Percentage: 0.1111111111111111
+Method: org.junit.runners.model.FrameworkMethod:validateNoTypeParametersOnArgs:1:[java.util.List] Change Percentage: 0.11764705882352941
+Method: org.junit.runners.ParentRunner:sortChild:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$ClassValidator:validateAnnotatable:2:[org.junit.validator.AnnotationValidator, org.junit.runners.model.Annotatable] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithNonStaticTestRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TestWatchman$1:evaluate:0:[] Change Percentage: 0.09375
+Method: org.junit.experimental.ParallelComputer:getSuite:2:[org.junit.runners.model.RunnerBuilder, java.lang.Class[]] Change Percentage: 0.06666666666666667
+Method: org.junit.internal.runners.MethodValidator:assertValid:0:[] Change Percentage: 0.21052631578947367
+Method: org.junit.runners.ParentRunner:withBeforeClasses:1:[org.junit.runners.model.Statement] Change Percentage: 0.06451612903225806
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier:access$0:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:createTestClass:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebug:isDebugging:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest$CountingListener:<init>:1:[org.junit.runner.notification.RunNotifierTest$CountingListener] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest$CountingListener:testStarted:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:getName:0:[] Change Percentage: 0.2
+Method: org.junit.runner.Result$SerializedForm:access$1:1:[org.junit.runner.Result$SerializedForm] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:<init>:1:[org.junit.rules.Stopwatch$Clock] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$FieldValidator:validateAnnotatable:2:[org.junit.validator.AnnotationValidator, org.junit.runners.model.FrameworkField] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce:doNothing:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:<init>:1:[java.lang.Class] Change Percentage: 0.43478260869565216
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addDataPointsValues:5:[java.lang.Class, org.junit.experimental.theories.ParameterSignature, java.lang.String, java.util.List, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.ExpectException:<init>:2:[org.junit.runners.model.Statement, java.lang.Class] Change Percentage: 0.18181818181818182
+Method: org.junit.internal.runners.MethodRoadie:<init>:4:[java.lang.Object, org.junit.internal.runners.TestMethod, org.junit.runner.notification.RunNotifier, org.junit.runner.Description] Change Percentage: 0.2222222222222222
+Method: org.junit.internal.ArrayComparisonFailure:getMessage:0:[] Change Percentage: 0.27848101265822783
+Method: org.junit.runners.ParentRunner:run:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.16666666666666666
+Method: org.junit.experimental.categories.Categories$CategoryFilter:exclude:2:[boolean, java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:reportBadParams:0:[] Change Percentage: 0.15384615384615385
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:isCorrectlyTyped:2:[org.junit.experimental.theories.ParameterSignature, java.lang.Class] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$Super:testOne:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$MethodSignature:toString:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectArbitraryObjectWithRuleAnnotation:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:wrapIfNotThreadSafeShouldNotWrapThreadSafeListeners:0:[] Change Percentage: 0.99
+Method: org.junit.runner.RunnerSpy:getDescription:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:createTestUsingConstructorInjection:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:whenRunWithoutDebugFlagsTestShouldPass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$AnnotatableValidator:validateTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:testFinished:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:sort:1:[org.junit.runner.manipulation.Sorter] Change Percentage: 0.725
+Method: org.junit.rules.ExpectedException:expect:1:[org.hamcrest.Matcher] Change Percentage: 0.14285714285714285
+Method: org.junit.Assume:assumeTrue:2:[java.lang.String, boolean] Change Percentage: 0.21052631578947367
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule$1$1:<init>:2:[org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule$1, org.junit.runners.model.Statement] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest$AnnotationValidatorMethodTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch$Clock:nanoTime:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:getAllDeclaredMethods:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$AbstractDisableOnDebugTest:<init>:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:classBlock:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:applyValidators:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:addFirstAndRemoveWithNonThreadSafeListener:0:[] Change Percentage: 0.99
+Method: org.junit.AssumptionViolatedException:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$FailedAssumptionAndExpectException:failedAssumption:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.StacktracePrintingMatcher:describeMismatchSafely:2:[java.lang.Throwable, org.hamcrest.Description] Change Percentage: 0.07142857142857142
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldStopParsingOptionsUponNonOption:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getSuperClasses:1:[java.lang.Class] Change Percentage: 0.5227272727272727
+Method: org.junit.rules.ExpectedException:access$3:3:[org.junit.rules.ExpectedException, java.lang.Throwable, boolean] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest$TestListener:testFinished:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:addListener:1:[org.junit.runner.notification.RunListener] Change Percentage: 0.14285714285714285
+Method: org.junit.validator.AnnotationsValidator$MethodValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner:filter:1:[org.junit.runner.manipulation.Filter] Change Percentage: 0.1276595744680851
+Method: org.junit.experimental.categories.Categories:hasAssignableTo:2:[java.util.Set, java.lang.Class] Change Percentage: 0.99
+Method: org.junit.rules.Timeout:<init>:1:[int] Change Percentage: 0.3333333333333333
+Method: org.junit.runners.model.TestClassTest$DummyClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories$TheoryAnchor:<init>:2:[org.junit.runners.model.FrameworkMethod, org.junit.runners.model.TestClass] Change Percentage: 0.35294117647058826
+Method: org.junit.runners.ParentRunner$4:<init>:2:[org.junit.runners.ParentRunner, org.junit.runner.manipulation.Sorter] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectClassRuleIsAnArbitraryObject:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$FailOnExecution:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$PreJava5DebugArgumentsTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$ExpectAssertionErrorWhichIsNotThrown:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:sharedSuffix:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.requests.FilterRequest:getRunner:0:[] Change Percentage: 0.0784313725490196
+Method: org.junit.rules.ExpectedExceptionMatcherBuilder:<init>:0:[] Change Percentage: 0.14285714285714285
+Method: org.junit.runners.parameterized.TestWithParametersTest:isNotEqualToObjectWithDifferentClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:theoryAnnotationsAreRetained:0:[] Change Percentage: 0.1
+Method: org.junit.internal.runners.rules.RuleMemberValidator:access$0:1:[org.junit.runners.model.FrameworkMember] Change Percentage: 0.99
+Method: org.junit.internal.runners.TestClass:getJavaClass:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.validator.AnnotationValidatorFactoryTest$ValidatorThatThrowsException:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier:shouldAcceptSuppliersWithTestClassConstructor:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactory:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:<init>:1:[org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener] Change Percentage: 0.99
+Method: org.junit.rules.Timeout$1:evaluate:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsArrayWithMatchingButInaccurateTypes:theory:1:[java.lang.Integer] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$ClassRuleWithIgnoredTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$MethodValidator:<init>:1:[org.junit.validator.AnnotationsValidator$MethodValidator] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListMethod:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:methodWantingNamedSingleMethodString:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.MethodValidator:<init>:1:[org.junit.internal.runners.TestClass] Change Percentage: 0.19047619047619047
+Method: org.junit.experimental.categories.Categories$CategoryFilter:<init>:4:[boolean, java.util.Set, boolean, java.util.Set] Change Percentage: 0.99
+Method: org.junit.validator.PublicClassValidator:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$DummySortWithoutAnnotation:alpha:3:[int, double, java.lang.Thread] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.VerifierRuleTest$UsesErrorCollectorCheckSucceeds$3:<init>:1:[org.junit.tests.experimental.rules.VerifierRuleTest$UsesErrorCollectorCheckSucceeds] Change Percentage: 0.99
+Method: org.junit.Assert:format:3:[java.lang.String, java.lang.Object, java.lang.Object] Change Percentage: 0.022988505747126436
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopMultithreaded:failure:1:[boolean] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest:errorIsNotAddedWhenCategoryIsNotCombinedWithIllegalCombination:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:emptyCategoriesSuite:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor:<init>:2:[org.junit.ComparisonFailure$ComparisonCompactor, org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor] Change Percentage: 0.99
+Method: org.junit.Assert:assertEquals:3:[java.lang.String, long, long] Change Percentage: 0.2916666666666667
+Method: org.junit.experimental.theories.internal.Assignments:getAllArguments:1:[boolean] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkFieldTest:cannotBeCreatedWithoutUnderlyingField:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoryParams:getTopLevelDescription:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest$DummyFilter:<init>:1:[org.junit.experimental.categories.CategoryFilterFactoryTest$DummyFilter] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethodTest:cannotBeCreatedWithoutUnderlyingField:0:[] Change Percentage: 0.99
+Method: org.junit.internal.ArrayComparisonFailure:<init>:3:[java.lang.String, java.lang.AssertionError, int] Change Percentage: 0.09090909090909091
+Method: org.junit.tests.running.classes.EnclosedTest:enclosedRunnerPlansConcreteEnclosedClasses:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.TestedOnSupplierTest:descriptionStatesParameterName:0:[] Change Percentage: 0.06451612903225806
+Method: org.junit.experimental.theories.internal.Assignments:buildParameterSupplierFromClass:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsArrayWithMatchingButInaccurateTypes:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.StacktracePrintingMatcher:describeTo:1:[org.hamcrest.Description] Change Percentage: 0.14285714285714285
+Method: org.junit.validator.AnnotationsValidatorTest$ExampleAnnotationValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.ThrowableMessageMatcher:<init>:1:[org.hamcrest.Matcher] Change Percentage: 0.13333333333333333
+Method: org.junit.internal.builders.AnnotatedBuilder:getEnclosingClassForNonStaticMemberClass:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:getChildren:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.validator.AnnotationsValidator$AnnotatableValidator:<init>:1:[org.junit.validator.AnnotationsValidator$AnnotatableValidator] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$DummyFilter:shouldRun:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: junit.samples.money.Money:toString:0:[] Change Percentage: 0.36363636363636365
+Method: org.junit.runners.ParentRunner:collectInitializationErrors:1:[java.util.List] Change Percentage: 0.12
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBePublic:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$FailBeforeExpectingException:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:sameAsNoIncludeCategoryAnnotation:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$DummySortWithoutAnnotation:gamma:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedExceptionMatcherBuilder:expectsThrowable:0:[] Change Percentage: 0.125
+Method: org.junit.internal.runners.TestClass:<init>:1:[java.lang.Class] Change Percentage: 0.13333333333333333
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleIsAnArbitraryObject:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.NoGenericTypeParametersValidator:<init>:1:[java.lang.reflect.Method] Change Percentage: 0.13333333333333333
+Method: org.junit.internal.runners.statements.FailOnTimeout:builder:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactoryTest$Validator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:hasCorrectCategoryAnnotation:1:[org.junit.runner.Description] Change Percentage: 0.5932203389830508
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:classRuleShouldNotBeAppliedWhenAllTestsAreIgnored:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$2:failed:3:[long, java.lang.Throwable, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMember:isStatic:0:[] Change Percentage: 0.2
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest:shouldIncludeFailureInDescriptionIfToStringFails:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getAnnotatedSupplier:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:stopping:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.MethodRoadie:runBefores:0:[] Change Percentage: 0.05333333333333334
+Method: org.junit.tests.experimental.rules.VerifierRuleTest$UsesErrorCollectorCheckSucceeds$3:call:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithStaticClassAndTestRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:allMembersFailsOnFailingDataPointsArrayMethod:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:access$0:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getAnnotatedFields:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:methodWantingNamedSingleFieldString:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:testFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.99
+Method: junit.tests.runner.ResultTest$ResultWithFixedRunTime:getIgnoreCount:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor:compactPrefix:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:isPublic:0:[] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest$DerivedAnnotatedMethod:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.ThrowableCauseMatcher:describeMismatchSafely:2:[java.lang.Throwable, org.hamcrest.Description] Change Percentage: 0.08695652173913043
+Method: org.junit.runners.model.TestClassTest$PublicClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:access$4:1:[long] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethodTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:toString:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:access$3:1:[org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BeforeClassWithIgnoredClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Timeout$Builder:getTimeout:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:isIgnored:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$FieldAnnotated:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$DurationDuringTestTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SupplierWithTwoConstructors:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$MethodSignature:hashCode:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:validate:2:[org.junit.runners.model.TestClass, java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.Result$Listener:testRunFinished:1:[org.junit.runner.Result] Change Percentage: 0.3333333333333333
+Method: org.junit.internal.runners.TestMethod:getExpectedException:0:[] Change Percentage: 0.07142857142857142
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:withLookingForStuckThread:1:[boolean] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:access$5:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:removeListener:1:[org.junit.runner.notification.RunListener] Change Percentage: 0.14285714285714285
+Method: org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener:addError:2:[junit.framework.Test, java.lang.Throwable] Change Percentage: 0.23333333333333334
+Method: org.junit.internal.runners.rules.RuleMemberValidator:isTestRule:1:[org.junit.runners.model.FrameworkMember] Change Percentage: 0.99
+Method: org.junit.runner.Result:readObject:1:[java.io.ObjectInputStream] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$FailingTest:succeeds:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.internal.matchers.ThrowableMessageMatcher:describeMismatchSafely:2:[java.lang.Throwable, org.hamcrest.Description] Change Percentage: 0.08695652173913043
+Method: org.junit.internal.MethodSorterTest:testJvmMethodSorter:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:applyFilterSpecs:1:[org.junit.runner.Request] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:simulateTimePassing:1:[long] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest$1:<init>:1:[org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.MethodSorters:getComparator:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.runners.model.FrameworkMethod:getDeclaringClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:testAssumptionFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeATestRule:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeATestRule] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:dataPointMethodsMustBePublic:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TemporaryFolder:validateFolderName:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParameters:equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$MethodComparator:compare:2:[org.junit.runners.model.FrameworkMethod, org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.EventCollector:toString:0:[] Change Percentage: 0.40229885057471265
+Method: org.junit.runner.Result:access$0:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:access$6:1:[org.junit.rules.StopwatchTest$Record] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMultipleMethodsReturningMethodRule:methodRule1:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.ParametersRunnerFactory:createRunnerForTestWithParameters:1:[org.junit.runners.parameterized.TestWithParameters] Change Percentage: 0.99
+Method: org.junit.runner.notification.Failure:getTrace:0:[] Change Percentage: 0.23529411764705882
+Method: org.junit.tests.running.classes.ParameterizedTestTest$UseParameterizedFactoryTest:parameterizedTest:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:errorReport:1:[java.lang.Throwable] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$MethodsAnnotated:methodC:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Suite:getChildren:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithMethodRule:getTemporaryFolder:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectMethodStaticTestRule:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:run2:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$IncludeCategory:matchAny:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethodTest:missingAnnotationIsNotAvailable:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$1:nanoTime:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:testIgnored:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.BooleanSupplier:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:runTest:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithMethodRule$1:<init>:1:[org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithMethodRule] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$DummyFilter:getTopLevelDescription:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:getIgnoreCount:0:[] Change Percentage: 0.2
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$HasNullTimeUnit:wouldPass:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod$1:runReflectiveCall:0:[] Change Percentage: 0.13333333333333333
+Method: org.junit.rules.StopwatchTest$TestStatus:valueOf:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:whenRunWithPreJava5DebugArgumentsTestShouldFail:0:[] Change Percentage: 0.99
+Method: org.junit.internal.requests.SortingRequest:<init>:2:[org.junit.runner.Request, java.util.Comparator] Change Percentage: 0.18181818181818182
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SimpleSupplier:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce:methodRule:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.StacktracePrintingMatcher:<init>:1:[org.hamcrest.Matcher] Change Percentage: 0.13333333333333333
+Method: org.junit.rules.Stopwatch:failed:3:[long, java.lang.Throwable, org.junit.runner.Description] Change Percentage: 0.99
+Method: junit.tests.runner.ResultTest$ResultWithFixedRunTime:getFailures:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldCreateFailureUponUncreatedFilter:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.ParameterSignature:buildConvertableTypesMap:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$OuterClass2$StaticInnerClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:access$3:2:[org.junit.runner.Result, long] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints:shouldAutomaticallyGenerateBooleanDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:methodRejectProtectedClassRule:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:testDefaultMethodSorter:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$TestStatus:values:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectMethodStaticMethodRule:0:[] Change Percentage: 0.99
+Method: junit.tests.runner.ResultTest:assertResultSerializable:1:[org.junit.runner.Result] Change Percentage: 0.45348837209302323
+Method: org.junit.tests.experimental.theories.runner.FailingDataPointMethods:shouldFailFromExceptionsInDataPointArrayMethods:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories$TheoryAnchor:evaluate:0:[] Change Percentage: 0.45652173913043476
+Method: org.junit.runner.FilterOptionIntegrationTest$TestListener:testFinished:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:addFirstAndRemoveWithThreadSafeListener:0:[] Change Percentage: 0.99
+Method: org.junit.Assert:assertNotEquals:3:[java.lang.String, long, long] Change Percentage: 0.7
+Method: org.junit.Assert:assertArrayEquals:3:[java.lang.String, boolean[], boolean[]] Change Percentage: 0.99
+Method: org.junit.experimental.categories.ExcludeCategories:createFilter:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner$4:compare:2:[java.lang.Object, java.lang.Object] Change Percentage: 0.12
+Method: org.junit.runners.model.TestClass:getName:0:[] Change Percentage: 0.42105263157894735
+Method: org.junit.runner.FilterFactory:createFilter:1:[org.junit.runner.FilterFactoryParams] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addFields:2:[org.junit.experimental.theories.ParameterSignature, java.util.List] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest:timeoutFailureMultithreadedStuckInMain:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.ThrowableCauseMatcherTest:shouldAllowCauseOfDifferentClassFromRoot:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListFieldWithOverlyGenericTypes:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithNonStaticClassRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.MethodValidator:validateInstanceMethods:0:[] Change Percentage: 0.1
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:createTest:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:classBlock:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.12121212121212122
+Method: org.junit.tests.junit3compatibility.ForwardCompatibilityTest$1:addFailure:2:[junit.framework.Test, junit.framework.AssertionFailedError] Change Percentage: 0.32
+Method: org.junit.tests.experimental.categories.JavadocTest:fastSmokeTests:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.EventCollector$1:describeMismatchSafely:2:[java.lang.Object, org.hamcrest.Description] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryValidator:addErrorMessage:2:[java.util.List, java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule$1$1:evaluate:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:testMethodsNullSorterSub:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsMethodWithNullValue:getObjects:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$Record:<init>:3:[long, org.junit.rules.StopwatchTest$TestStatus, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest:validatorIsCalledForAClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleIsAnArbitraryObject:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:isMethodRule:1:[org.junit.runners.model.FrameworkMember] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$3:finished:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor:<init>:1:[org.junit.ComparisonFailure$ComparisonCompactor] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:access$0:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithMethodRule$1:<init>:1:[org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithMethodRule] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.ForwardCompatibilityTest$1:endTest:1:[junit.framework.Test] Change Percentage: 0.36363636363636365
+Method: org.junit.runner.notification.RunNotifier:fireTestStarted:1:[org.junit.runner.Description] Change Percentage: 0.08
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithStaticClassAndTestRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithProtectedClassRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener:<init>:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.99
+Method: org.junit.experimental.max.MaxCore:run:2:[org.junit.runner.Request, org.junit.runner.JUnitCore] Change Percentage: 0.08333333333333333
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$ClassRuleWithIgnoredTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch$InternalWatcher:finished:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:run6:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$IncludeCategory:value:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactories:createFilter:2:[java.lang.Class, org.junit.runner.FilterFactoryParams] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:addToAnnotationLists:2:[org.junit.runners.model.FrameworkMember, java.util.Map] Change Percentage: 0.6326530612244898
+Method: org.junit.tests.running.methods.TimeoutTest$TimeOutOneSecond:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListField:theory:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectNonStaticClassRule:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:copyArray:3:[java.lang.String[], int, int] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$AnotherDummyClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:access$1:2:[org.junit.ComparisonFailure$ComparisonCompactor, java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeATestRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:createTestsForParameters:2:[java.lang.Iterable, java.lang.String] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addArrayValues:4:[org.junit.experimental.theories.ParameterSignature, java.lang.String, java.util.List, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.internal.runners.TestMethod:getAfters:0:[] Change Percentage: 0.18181818181818182
+Method: org.junit.validator.AnnotationsValidator$FieldValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:getParametersRunnerFactory:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:methodWantingAllNamedStrings:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:afterClassShouldNotRunWhenAllTestsAreIgnored:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$TestStatus:<init>:2:[java.lang.String, int] Change Percentage: 0.99
+Method: org.junit.Assert:floatIsDifferent:3:[float, float, float] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithDataPointMethod:ignoreExceptionsFromDataPointMethods:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$FieldComparator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule:doNothing:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldCreateFailureUponUnknownTestClass:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:<init>:2:[java.lang.Class, org.junit.runners.model.RunnerBuilder] Change Percentage: 0.5844155844155844
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleMethodThatReturnsMethodRule:methodRule:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:isANonStaticInnerClass:0:[] Change Percentage: 0.18181818181818182
+Method: org.junit.internal.runners.rules.RuleMemberValidator:isRuleType:1:[org.junit.runners.model.FrameworkMember] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:access$1:1:[org.junit.runners.Parameterized] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner:setTest:1:[junit.framework.Test] Change Percentage: 0.15384615384615385
+Method: org.junit.validator.AnnotationsValidator$FieldValidator:validateAnnotatable:2:[org.junit.validator.AnnotationValidator, org.junit.runners.model.Annotatable] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:beforeClassShouldNotRunWhenAllTestsAreIgnored:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$UseCustomMessageWithoutPlaceHolder:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParameterizedTestTest$ExceptionThrowingRunnerFactory:createRunnerForTestWithParameters:1:[org.junit.runners.parameterized.TestWithParameters] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:wrapIfNotThreadSafeShouldWrapNonThreadSafeListeners:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule$1:apply:3:[org.junit.runners.model.Statement, org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedExceptionMatcherBuilder:allOfTheMatchers:0:[] Change Percentage: 0.16
+Method: org.junit.rules.DisableOnDebugTest$FailOnExecution$1:<init>:1:[org.junit.rules.DisableOnDebugTest$FailOnExecution] Change Percentage: 0.99
+Method: org.junit.rules.TestWatcher:finishedQuietly:2:[org.junit.runner.Description, java.util.List] Change Percentage: 0.1935483870967742
+Method: org.junit.experimental.ParallelComputer:getRunner:2:[org.junit.runners.model.RunnerBuilder, java.lang.Class] Change Percentage: 0.06666666666666667
+Method: org.junit.validator.PublicClassValidator:validateTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:access$4:1:[org.junit.rules.ExpectedException] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlapingMatches2:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:isAnyExceptionExpected:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:access$0:1:[java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.ParameterizedAssertionError:<init>:3:[java.lang.Throwable, java.lang.String, java.lang.Object[]] Change Percentage: 0.1388888888888889
+Method: org.junit.ComparisonFailure$ComparisonCompactor:compactString:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest:reportConcurrentFailuresAfterAddListener:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:<init>:2:[org.junit.internal.runners.statements.FailOnTimeout$Builder, org.junit.runners.model.Statement] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopWithStuckThreadTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithStaticClassAndTestRule:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:runChildren:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.6153846153846154
+Method: org.junit.internal.runners.TestClass:getName:0:[] Change Percentage: 0.2
+Method: org.junit.runner.FilterOptionIntegrationTest$TestListener:testStarted:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener:<init>:2:[org.junit.runner.notification.RunNotifier, org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethodTest:hasToStringWhichPrintsMethodName:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactory:createAnnotationValidator:1:[org.junit.validator.ValidateWith] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.ParameterizedAssertionError:join:2:[java.lang.String, java.util.Collection] Change Percentage: 0.3389830508474576
+Method: org.junit.tests.running.methods.TimeoutTest:stackForException:1:[java.lang.Throwable] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$Sub:subBowser:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result$Listener:testIgnored:1:[org.junit.runner.Description] Change Percentage: 0.13333333333333333
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener:testFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.ParameterizedAssertionError:equals:1:[java.lang.Object] Change Percentage: 0.391304347826087
+Method: org.junit.rules.Timeout:millis:1:[long] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$Increment:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:validatePublicVoidNoArg:2:[boolean, java.util.List] Change Percentage: 0.0975609756097561
+Method: org.junit.tests.internal.runners.statements.FailOnTimeoutTest:throwsExceptionWithTimeoutValueAndTimeUnitSet:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:isStatic:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor:expectedDiff:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactory$FilterNotCreatedException:<init>:1:[java.lang.Exception] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithOwnRunWith$MostInnerClass:test:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:hashCode:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$Builder] Change Percentage: 0.99
+Method: org.junit.rules.Timeout$Builder:getLookingForStuckThread:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.InvokeMethod:<init>:2:[org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.18181818181818182
+Method: org.junit.runner.Description:<init>:4:[java.lang.Class, java.lang.String, java.io.Serializable, java.lang.annotation.Annotation[]] Change Percentage: 0.21875
+Method: org.junit.runner.JUnitCommandLineParseResult:parseParameters:1:[java.lang.String[]] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$MethodsAnnotated:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.TextListener:<init>:1:[java.io.PrintStream] Change Percentage: 0.13333333333333333
+Method: org.junit.runners.model.TestClass:getAnnotation:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.experimental.theories.DataPoint:value:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:<init>:1:[org.junit.runner.Result$SerializedForm] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:anyMethodWithExcludedCategoryWillBeExcluded:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:<init>:2:[java.lang.Class, org.junit.internal.runners.rules.RuleMemberValidator$Builder] Change Percentage: 0.99
+Method: org.junit.internal.runners.MethodRoadie:addFailure:1:[java.lang.Throwable] Change Percentage: 0.2
+Method: org.junit.rules.Stopwatch$InternalWatcher:failed:2:[java.lang.Throwable, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.MultiCategoryTest$Y:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:computeCommonPrefix:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:access$1:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasFailingDataPointsArrayMethod:<init>:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.internal.Classes:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier$SafeNotifier:<init>:2:[org.junit.runner.notification.RunNotifier, java.util.List] Change Percentage: 0.1111111111111111
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithStaticTestRule:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest:assertClassHasFailureMessage:2:[java.lang.Class, java.lang.String] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:testRunFinished:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getActualValues:2:[int, int] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories$TheoryAnchor:nullsOk:0:[] Change Percentage: 0.08333333333333333
+Method: org.junit.experimental.theories.ParameterSignature:canAcceptValue:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:getThreadArray:1:[java.lang.ThreadGroup] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParameterizedTestTest$ExceptionThrowingRunnerFactory:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:cannotBeCreatedWithoutTestClass:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.AllDefaultPossibilitiesBuilder:suiteMethodBuilder:0:[] Change Percentage: 0.1111111111111111
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$FailOnExecution$1:evaluate:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParameters:hashCode:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParameters:getName:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$2:succeeded:2:[long, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithDataPointMethod:ignoreDataPointMethodsWithWrongTypes:0:[] Change Percentage: 0.045454545454545456
+Method: org.junit.internal.builders.AllDefaultPossibilitiesBuilder:<init>:1:[boolean] Change Percentage: 0.13333333333333333
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectClassRuleThatReturnsImplementationOfMethodRule:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BeforeClassWithIgnoredTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:testStarted:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:include:1:[java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.internal.AssumptionViolatedException:<init>:4:[java.lang.String, boolean, java.lang.Object, org.hamcrest.Matcher] Change Percentage: 0.5
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:access$0:1:[org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SupplierWithUnknownConstructor:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.RunAfters:<init>:3:[org.junit.runners.model.Statement, java.util.List, java.lang.Object] Change Percentage: 0.20689655172413793
+Method: org.junit.internal.MethodSorterTest:testSortWithJvm:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactories:createFilterFactory:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithMethodRule$1:apply:3:[org.junit.runners.model.Statement, org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$TestTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:doesNotAllowToModifyProvidedParameters:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:allParameters:0:[] Change Percentage: 0.24242424242424243
+Method: org.junit.tests.running.classes.ParentRunnerTest:runTestWithParentRunner:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$2:skipped:3:[long, org.junit.AssumptionViolatedException, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest$DummyFilter:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:overridesAllMethodsInRunListener:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest:validatorIsCalledForAMethod:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:nextUnassigned:0:[] Change Percentage: 0.09090909090909091
+Method: org.junit.runner.RunnerSpy:<init>:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:methodRejectArbitraryObjectWithRuleAnnotation:0:[] Change Percentage: 0.99
+Method: org.junit.Assert:assertNotEquals:2:[java.lang.Object, java.lang.Object] Change Percentage: 0.7619047619047619
+Method: org.junit.runner.JUnitCommandLineParseResult:getFilterSpecs:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeARule:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeARule] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:<init>:0:[] Change Percentage: 0.14285714285714285
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule:methodRule:0:[] Change Percentage: 0.99
+Method: junit.tests.runner.BaseTestRunnerTest$MockRunner:testFailed:3:[int, junit.framework.Test, java.lang.Throwable] Change Percentage: 0.3333333333333333
+Method: org.junit.rules.ExpectedException:reportMissingExceptionWithMessage:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener:<init>:2:[org.junit.internal.runners.JUnit38ClassRunner, org.junit.runner.notification.RunNotifier] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest:shouldThrowExceptionIfNotInstantiable:0:[] Change Percentage: 0.99
+Method: org.junit.tests.internal.runners.statements.FailOnTimeoutTest:throwExceptionIfTheSecondCallToEvaluateNeedsTooMuchTime:0:[] Change Percentage: 0.21052631578947367
+Method: org.junit.tests.running.classes.ParameterizedTestTest$UseParameterizedFactoryTest:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.validator.PublicClassValidatorTest$NonPublicClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListMethod:theory:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleIsImplementationOfMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.AssumingInTheoriesTest$TheoryWithNoUnassumedParameters:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier$SafeNotifier:run:0:[] Change Percentage: 0.6302521008403361
+Method: org.junit.runners.model.FrameworkMethod:access$1:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:skipped:3:[long, org.junit.AssumptionViolatedException, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:missingExceptionMessage:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:getParameterTypes:0:[] Change Percentage: 0.1111111111111111
+Method: org.junit.internal.runners.statements.FailOnTimeout:access$1:1:[org.junit.internal.runners.statements.FailOnTimeout] Change Percentage: 0.99
+Method: org.junit.rules.Timeout$1:<init>:2:[org.junit.rules.Timeout, java.lang.Exception] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:givenPostJava5DebugArgumentsIsDebuggingShouldReturnTrue:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:hasNoProblemsWithFailingListeners:0:[] Change Percentage: 0.3111111111111111
+Method: org.junit.rules.DisableOnDebugTest:givenPreJava5DebugArgumentsInReverseIsDebuggingShouldReturnTrue:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParameters:getParameters:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getConstructorArguments:1:[boolean] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest:access$1:1:[org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethodTest$ClassWithDummyMethod:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$DummyFilter:describe:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:run1:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener:endTest:1:[junit.framework.Test] Change Percentage: 0.125
+Method: org.junit.rules.ExpectedException:access$1:1:[org.junit.rules.ExpectedException] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoryParams:<init>:2:[org.junit.runner.Description, java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.ParameterizedNamesTest:parameterizedTestsWithSpecialCharsInName:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Description:<clinit>:0:[] Change Percentage: 0.08695652173913043
+Method: org.junit.runner.Description:addChild:1:[org.junit.runner.Description] Change Percentage: 0.25
+Method: org.junit.internal.MethodSorterTest$Sub:testTwo:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:hashCodeDelegates:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.TestClass:getConstructor:0:[] Change Percentage: 0.16666666666666666
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:testFinished:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:runMainAndExit:2:[org.junit.internal.JUnitSystem, java.lang.String[]] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:exclude:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:access$0:1:[org.junit.rules.ExpectedException] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.FailingDataPointMethods:shouldFailFromExceptionsInSingleDataPointMethods:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestMethodWithStaticTestRule:getTemporaryFolder:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$2:<init>:2:[org.junit.runner.notification.ConcurrentRunNotifierTest, org.junit.runner.notification.ConcurrentRunNotifierTest] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:matchesAllParentCategories:2:[java.util.Set, java.util.Set] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest$RejectAllTestsFilter:shouldRun:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactories:createFilter:2:[java.lang.String, org.junit.runner.FilterFactoryParams] Change Percentage: 0.99
+Method: org.junit.experimental.categories.IncludeCategories:createFilter:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.FailingDataPointMethods:shouldNotIgnoreNonMatchingMultipleDataPointExceptions:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.ThrowableCauseMatcher:<init>:1:[org.hamcrest.Matcher] Change Percentage: 0.5263157894736842
+Method: org.junit.rules.StopwatchTest$Record:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:getName:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.IncludeCategories$IncludesAny:describe:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$DummySortWithoutAnnotation:gamma:1:[boolean] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:skipped:0:[] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:<init>:1:[java.lang.Class] Change Percentage: 0.29411764705882354
+Method: org.junit.internal.runners.MethodValidator:validateTestMethods:2:[java.lang.Class, boolean] Change Percentage: 0.07058823529411765
+Method: org.junit.internal.runners.model.EachTestNotifier:fireTestStarted:0:[] Change Percentage: 0.3076923076923077
+Method: org.junit.experimental.theories.internal.AllMembersSupplier$MethodParameterValue:<init>:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.13333333333333333
+Method: org.junit.runners.MethodSorters:<init>:3:[java.lang.String, int, java.util.Comparator] Change Percentage: 0.11764705882352941
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:getValueSources:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.22857142857142856
+Method: org.junit.experimental.categories.Categories$CategoryFilter:<init>:2:[java.lang.Class, java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:describeChild:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.5263157894736842
+Method: org.junit.rules.StopwatchTest$DurationDuringTestTest:duration:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Description:getChildren:0:[] Change Percentage: 0.4166666666666667
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$ConcurrentRunListener:<init>:1:[org.junit.runner.notification.ConcurrentRunNotifierTest$ConcurrentRunListener] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:getDataPointsMethods:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.Assert:assertEquals:4:[java.lang.String, float, float, float] Change Percentage: 0.5
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SimplePotentialAssignment:getDescription:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleMethodThatReturnsMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getAnnotatedFieldValues:3:[java.lang.Object, java.lang.Class, java.lang.Class] Change Percentage: 0.10256410256410256
+Method: org.junit.validator.AnnotationsValidatorTest$ExampleAnnotationValidator:validateAnnotatedClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:handleException:1:[java.lang.Throwable] Change Percentage: 0.3333333333333333
+Method: org.junit.runner.Result:<init>:0:[] Change Percentage: 0.029411764705882353
+Method: org.junit.Assert:failNotNull:2:[java.lang.String, java.lang.Object] Change Percentage: 0.0975609756097561
+Method: org.junit.tests.running.classes.EnclosedTest:enclosedRunnerRunsConcreteEnclosedClasses:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:<init>:1:[java.lang.Class] Change Percentage: 0.16
+Method: org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithOwnRunWith$MostInnerClass:<init>:1:[org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithOwnRunWith] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest:errorIsAddedWhenCategoryIsUsedWithAfter:0:[] Change Percentage: 0.99
+Method: org.junit.runner.RunnerSpy:getInvokedRunnerBuilder:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:allUnassigned:2:[java.lang.reflect.Method, org.junit.runners.model.TestClass] Change Percentage: 0.06666666666666667
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest$TestClassWithNamedDataPoints:getValues:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.ClassRoadie:runBefores:0:[] Change Percentage: 0.0273972602739726
+Method: org.junit.runner.manipulation.Sorter:<init>:1:[java.util.Comparator] Change Percentage: 0.13333333333333333
+Method: org.junit.runner.JUnitCoreTest:shouldAddFailuresToResult:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:copyAndRefine:1:[java.util.Set] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest:runJUnit:1:[java.lang.String[]] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.JavadocTest:slowTests:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:getTestClass:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.tests.experimental.rules.LoggingTestWatcher:skipped:2:[org.junit.AssumptionViolatedException, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:<init>:1:[org.junit.runners.parameterized.TestWithParameters] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest:annotatedMemberClassInsideAnnotatedTopLevelClass_isRunWithOwnRunner:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier:pleaseStop:0:[] Change Percentage: 0.2
+Method: org.junit.ComparisonFailure$ComparisonCompactor:sharedPrefix:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest:memberClassDeepInsideAnnotatedMemberClass_isRunWithParentMemberClassRunner:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:getDescription:0:[] Change Percentage: 0.1
+Method: org.junit.validator.AnnotationValidatorFactoryTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethodTest:presentAnnotationIsAvailable:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:<init>:2:[org.junit.runners.model.Statement, long] Change Percentage: 0.71875
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest:errorIsAddedWhenCategoryIsUsedWithBeforeClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest:shouldNotUseQuotesForNullValueDescriptions:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.SpecificDataPointsSupplier:getSingleDataPointMethods:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.SpecificDataPointsSupplier:getDataPointsMethods:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:getDataPointsFields:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMember:getModifiers:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointMethodShouldBeRecognizedForOverlyGeneralParameters:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$3:<init>:1:[org.junit.rules.StopwatchTest$AbstractStopwatchTest] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest:shouldThrowException:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier:addFirstListener:1:[org.junit.runner.notification.RunListener] Change Percentage: 0.48
+Method: org.junit.rules.StopwatchTest$DurationAfterTestTest:duration:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$FieldComparator:<init>:1:[org.junit.runners.model.TestClass$FieldComparator] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsArrayShouldBeRecognizedOnValueTypeNotFieldType:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithProtectedClassRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:givenArgumentsWithoutDebugFlagsIsDebuggingShouldReturnFalse:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$MethodValidator:validateAnnotatable:2:[org.junit.validator.AnnotationValidator, org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.runners.model.RunnerBuilderStub:runnerForClass:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest$InnerRunner:<init>:2:[java.lang.Class, org.junit.runners.model.RunnerBuilder] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithDataPointMethod:ignoreDataPointMethodsWithoutAnnotation:0:[] Change Percentage: 0.12
+Method: org.junit.internal.runners.MethodRoadie:run:0:[] Change Percentage: 0.2898550724637681
+Method: org.junit.runners.model.FrameworkField:getModifiers:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:scanAnnotatedMembers:2:[java.util.Map, java.util.Map] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.EnumSupplier:<init>:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:wrap:1:[org.junit.runner.notification.RunListener] Change Percentage: 0.99
+Method: junit.framework.TestResult:addFailure:2:[junit.framework.Test, junit.framework.AssertionFailedError] Change Percentage: 0.2127659574468085
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest:shouldCreateFilter:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopMultithreaded:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier:wrapIfNotThreadSafe:1:[org.junit.runner.notification.RunListener] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$MultipleRuleTest:<init>:0:[] Change Percentage: 0.3333333333333333
+Method: org.junit.rules.Timeout:getLookingForStuckThread:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest$1:<init>:1:[org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:<init>:1:[java.lang.reflect.Field] Change Percentage: 0.43478260869565216
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$ClassRuleWithIgnoredTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.Assert:assertNotEquals:3:[double, double, double] Change Percentage: 0.64
+Method: org.junit.tests.running.classes.EnclosedTest:enclosedRunnerRunsEnclosedClasses:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest$ExampleAnnotationValidator:validateAnnotatedMethod:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:<init>:1:[java.lang.reflect.Method] Change Percentage: 0.4090909090909091
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:shouldReturnOnlyTheNamedSingleMethodDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:assertNoDescendantsHaveCategoryAnnotations:1:[org.junit.runner.Description] Change Percentage: 0.4897959183673469
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:testFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:methodWantingAnyString:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$2:<init>:2:[org.junit.rules.StopwatchTest$AbstractStopwatchTest, org.junit.rules.Stopwatch$Clock] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$NonPublicTestWithClassRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.RunnerSpy:run:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.99
+Method: org.junit.internal.runners.ClassRoadie:<init>:4:[org.junit.runner.notification.RunNotifier, org.junit.internal.runners.TestClass, org.junit.runner.Description, java.lang.Runnable] Change Percentage: 0.2222222222222222
+Method: org.junit.rules.Stopwatch:runtime:1:[java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$UseCustomMessageWithoutPlaceHolder:noThrow:0:[] Change Percentage: 0.99
+Method: junit.textui.ResultPrinter:addError:2:[junit.framework.Test, java.lang.Throwable] Change Percentage: 0.3157894736842105
+Method: org.junit.runners.model.FrameworkMethod:getModifiers:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$TimeOutOneSecond:test:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$AnnotatableValidator:validateAnnotatable:2:[org.junit.validator.AnnotationValidator, org.junit.runners.model.Annotatable] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:getResult:2:[java.util.concurrent.FutureTask, java.lang.Thread] Change Percentage: 0.99
+Method: org.junit.runner.Result$SerializedForm:serialize:1:[java.io.ObjectOutputStream] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$3:addListener:1:[org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories:validateDataPointFields:1:[java.util.List] Change Percentage: 0.15463917525773196
+Method: org.junit.internal.MethodSorterTest:toString:2:[java.lang.Class, java.lang.reflect.Method[]] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:succeeded:2:[long, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories:collectInitializationErrors:1:[java.util.List] Change Percentage: 0.16666666666666666
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopWithStuckThreadTest:failure:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$DeclaringClassMustBePublic:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$DeclaringClassMustBePublic] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithArbitraryObjectWithRuleAnnotation:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:testDefaultSorter:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$AssertionErrorAtParentLevelTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$NamedListener:hashCode:0:[] Change Percentage: 0.99
+Method: org.junit.validator.PublicClassValidatorTest$PublicClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:<init>:3:[java.util.List, java.util.List, org.junit.runners.model.TestClass] Change Percentage: 0.42424242424242425
+Method: org.junit.validator.AnnotationsValidator$ClassValidator:<init>:1:[org.junit.validator.AnnotationsValidator$ClassValidator] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:forMethods:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:<init>:1:[org.junit.runners.model.TestClass] Change Percentage: 0.13333333333333333
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:fieldsAreAnnotated:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor:compactSuffix:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$SuccessfulTest:successfulTest:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:describe:0:[] Change Percentage: 0.1111111111111111
+Method: org.junit.tests.experimental.theories.AssumingInTheoriesTest$TheoryWithNoUnassumedParameters:theoryWithNoUnassumedParameters:1:[boolean] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:getField:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBePublic:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactory:parseCategories:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.ErrorReportingRunner:<init>:2:[java.lang.Class, java.lang.Throwable] Change Percentage: 0.375
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:run3:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:shouldReturnOnlyTheNamedFieldDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithMethodRule$1:apply:3:[org.junit.runners.model.Statement, org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest$1:skipped:2:[org.junit.internal.AssumptionViolatedException, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:validateFields:1:[java.util.List] Change Percentage: 0.25
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$HasNullTimeUnit:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.MethodValidator:validateMethodsForDefaultRunner:0:[] Change Percentage: 0.13333333333333333
+Method: org.junit.runners.model.FrameworkMethodTest$ClassWithDummyMethod:dummyMethod:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest$DummyFilter:shouldRun:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$TestStatus:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$HasUnfilteredTest:unfilteredTest:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsFieldWithNullValue:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListFieldWithOverlyGenericTypes:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier:shouldRejectSuppliersWithUnknownConstructors:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.DataPoints:ignoredExceptions:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner:createAdaptingListener:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.06666666666666667
+Method: org.junit.Assume:assumeThat:3:[java.lang.String, java.lang.Object, org.hamcrest.Matcher] Change Percentage: 0.15384615384615385
+Method: org.junit.internal.runners.model.EachTestNotifier:addFailure:1:[java.lang.Throwable] Change Percentage: 0.13333333333333333
+Method: junit.tests.runner.ResultTest$ResultWithFixedRunTime:getRunCount:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:getAnnotation:1:[java.lang.Class] Change Percentage: 0.07692307692307693
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:access$0:2:[java.lang.Class[], java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:nullTimeUnit:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.Failure:toString:0:[] Change Percentage: 0.3870967741935484
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:validateConstructor:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:failDueToMissingException:0:[] Change Percentage: 0.6521739130434783
+Method: org.junit.tests.running.classes.ParentRunnerTest$TestTest:pass:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:isNotEqualToTestWithDifferentName:0:[] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest$JUnit3ClassWithAnnotatedMethod:testAnnotated:0:[] Change Percentage: 0.99
+Method: org.junit.runner.RunnerSpy:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebug:apply:2:[org.junit.runners.model.Statement, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:beforeClassShouldNotRunWhenAllTestsAreFiltered:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest:addListener:1:[org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest:shouldCreateFilterWithArguments:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TestWatcher:failedQuietly:3:[java.lang.Throwable, org.junit.runner.Description, java.util.List] Change Percentage: 0.358974358974359
+Method: org.junit.internal.runners.model.EachTestNotifier:<init>:2:[org.junit.runner.notification.RunNotifier, org.junit.runner.Description] Change Percentage: 0.18181818181818182
+Method: org.junit.rules.ExpectedException$ExpectedExceptionStatement:evaluate:0:[] Change Percentage: 0.7123287671232876
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce$Dummy$1:evaluate:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasFailingDataPointsArrayMethod:objects:0:[] Change Percentage: 0.99
+Method: junit.framework.Assert:assertEquals:3:[java.lang.String, char, char] Change Percentage: 0.3333333333333333
+Method: org.junit.validator.AnnotationsValidator$MethodValidator:getAnnotatablesForTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest$CountingListener:<init>:2:[org.junit.runner.notification.RunNotifierTest$CountingListener, org.junit.runner.notification.RunNotifierTest$CountingListener] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListField:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:createRequest:1:[org.junit.runner.Computer] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier:addListener:1:[org.junit.runner.notification.RunListener] Change Percentage: 0.48
+Method: org.junit.internal.runners.JUnit38ClassRunner:makeDescription:1:[junit.framework.Test] Change Percentage: 0.15873015873015872
+Method: org.junit.runner.Result$SerializedForm:access$4:1:[org.junit.runner.Result$SerializedForm] Change Percentage: 0.99
+Method: org.junit.experimental.categories.IncludeCategories$IncludesAny:<init>:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeATestRule:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeATestRule] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints:shouldNotAutogenerateBooleanDataPointsWhenSpecificDataPointGiven:0:[] Change Percentage: 0.99
+Method: org.junit.Assert:assertNotEquals:3:[java.lang.String, java.lang.Object, java.lang.Object] Change Percentage: 0.6206896551724138
+Method: org.junit.experimental.theories.Theories$TheoryAnchor$2:evaluate:0:[] Change Percentage: 0.5641025641025641
+Method: org.junit.tests.experimental.rules.TestWatcherTest:neitherLogSuccessNorFailedForViolatedAssumption:0:[] Change Percentage: 0.08
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:methodAcceptMethodRuleMethod:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$AssertionErrorAtParentLevelTest:beforeClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:assertOneErrorWithMessage:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithExtendedParameterSources:shouldFilterOutNullElementsFromDataPointArrays:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:getNanos:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest$AnnotationValidatorMethodTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result$Listener:testFinished:1:[org.junit.runner.Description] Change Percentage: 0.13333333333333333
+Method: org.junit.runners.parameterized.TestWithParametersTest:isNotEqualToTestWithDifferentParameters:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest:testGetTimeout:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:access$0:2:[org.junit.ComparisonFailure$ComparisonCompactor, java.lang.String] Change Percentage: 0.99
+Method: org.junit.validator.TestClassValidator:validateTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBePublic:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBePublic] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlappingMatchesContext:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest:callsMethodReturningRuleOnlyOnce:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:access$2:0:[] Change Percentage: 0.99
+Method: org.junit.Assert:assertArrayEquals:2:[boolean[], boolean[]] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMethod:equals:1:[java.lang.Object] Change Percentage: 0.16666666666666666
+Method: org.junit.tests.experimental.rules.TestWatcherTest:internalViolatedAssumption:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:generateAssignmentsFromTypeAlone:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.rules.TestWatcher:startingQuietly:2:[org.junit.runner.Description, java.util.List] Change Percentage: 0.1935483870967742
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:timeUnitTimeout:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.ExcludeCategories$ExcludesAny:describe:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:methodWantingWrongNamedString:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest$SampleCategory:<init>:0:[] Change Percentage: 0.99
+Method: junit.framework.Assert:assertEquals:3:[java.lang.String, int, int] Change Percentage: 0.3333333333333333
+Method: org.junit.rules.Timeout:<init>:1:[org.junit.rules.Timeout$Builder] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactoryTest:exceptionWhenAnnotationValidatorCantBeCreated:0:[] Change Percentage: 0.99
+Method: org.junit.validator.ValidateWith:value:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints:shouldNotAutogenerateEnumDataPointsWhenSpecificDataPointGiven:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$TimeOutZero:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$Increment:apply:3:[org.junit.runners.model.Statement, org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebug:isDebugging:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.FailingDataPointMethods:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleMethodReturnsAnArbitraryObject:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$SuccessfulTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:testRuleValidatorBuilder:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$HasGlobalTimeUnitTimeout:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SimplePotentialAssignment:<init>:2:[java.lang.Object, java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkFieldTest:missingAnnotationIsNotAvailable:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestTimedOutException:getTimeUnit:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:createTestWithParameters:4:[org.junit.runners.model.TestClass, java.lang.String, int, java.lang.Object[]] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.EnclosedTest$Enclosing$C:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.MethodRoadie:runAfters:0:[] Change Percentage: 0.06349206349206349
+Method: org.junit.runners.model.TestTimedOutException:<init>:2:[long, java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$DummyTest:passes:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest:countReportedTestFailures:1:[org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener[]] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getConstructorParameterCount:0:[] Change Percentage: 0.09090909090909091
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:withValidator:1:[org.junit.internal.runners.rules.RuleMemberValidator$RuleValidator] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.ParameterizedAssertionError:hashCode:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getConstructorArguments:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithNonStaticClassRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result$SerializedForm:access$0:1:[org.junit.runner.Result$SerializedForm] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$FieldComparator:compare:2:[java.lang.reflect.Field, java.lang.reflect.Field] Change Percentage: 0.99
+Method: org.junit.tests.TestSystem:exit:1:[int] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:describeACategoryFilter:0:[] Change Percentage: 0.038461538461538464
+Method: org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest$RejectAllTestsFilter:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Description:testCount:0:[] Change Percentage: 0.18181818181818182
+Method: org.junit.runners.Parameterized:createTestWithNotNormalizedParameters:3:[java.lang.String, int, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest:assumptionViolatedAtParentLevel:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:init:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$NonInstantiableFilterFactory:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:addAndRemoveWithNonThreadSafeListener:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$UseNoCustomMessage:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleIsImplementationOfMethodRule:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMember:getAnnotations:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:ignoredTest:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:dataPointsMustBePublic:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkMember:isPublic:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.runner.Result:access$6:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidator:validateAnnotatedClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:hasSameHashCodeAsEqualTest:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:assignNext:1:[org.junit.experimental.theories.PotentialAssignment] Change Percentage: 0.20512820512820512
+Method: org.junit.runners.model.TestClass:hashCode:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest:validatorIsCalledForAField:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest$AnotherDummyClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:access$0:1:[org.junit.internal.runners.rules.RuleMemberValidator$Builder] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized$UseParametersRunnerFactory:value:0:[] Change Percentage: 0.99
+Method: junit.runner.Version:id:0:[] Change Percentage: 0.2
+Method: org.junit.tests.experimental.rules.MethodRulesTest$Increment$1:evaluate:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldParseFilterArgInWhichValueIsASeparateArg:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestMethodWithStaticMethodRule:getTestWatchman:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$SubclassWithField:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$CallableStatement:call:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.TestMethod:isIgnored:0:[] Change Percentage: 0.125
+Method: org.junit.runner.JUnitCommandLineParseResultTest$FilterFactoryStub:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.SpecificDataPointsSupplier:getDataPointsFields:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.rules.Timeout:<init>:2:[long, java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: org.junit.internal.runners.ErrorReportingRunner:run:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.06451612903225806
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestMethodWithNonStaticTestRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.internal.runners.statements.FailOnTimeoutTest:throwExceptionWithNiceMessageOnTimeout:0:[] Change Percentage: 0.13333333333333333
+Method: junit.textui.TestRunner:testFailed:3:[int, junit.framework.Test, java.lang.Throwable] Change Percentage: 0.3333333333333333
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addIterableValues:4:[org.junit.experimental.theories.ParameterSignature, java.lang.String, java.util.List, java.lang.Iterable] Change Percentage: 0.99
+Method: org.junit.runner.Result$SerializedForm:<init>:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getAnnotatedMembers:2:[java.util.Map, java.lang.Class] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeATestRule:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest:<init>:1:[org.junit.runner.notification.ConcurrentRunNotifierTest] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.EnclosedTest:enclosedRunnerPlansEnclosedClasses:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$AssertionErrorAtParentLevelTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.MultiCategoryTest:inheritanceAnyIncluded:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListMethod:getList:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest:cannotBeCreatedWithNonPublicTestClass:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TemporaryFolder:newFolder:1:[java.lang.String[]] Change Percentage: 0.1267605633802817
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addSinglePointFields:2:[org.junit.experimental.theories.ParameterSignature, java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.Result:access$5:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:whenRunWithPreJava5DebugArgumentsInReverseOrderTestShouldFail:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.MultipleFailureException:assertEmpty:1:[java.util.List] Change Percentage: 0.17857142857142858
+Method: org.junit.internal.runners.statements.FailOnTimeout:evaluate:0:[] Change Percentage: 0.8208955223880597
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:getSingleDataPointFields:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.rules.TestWatcher$1:evaluate:0:[] Change Percentage: 0.05555555555555555
+Method: org.junit.internal.Classes:getClass:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$SuperclassWithField:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:getTestMethods:0:[] Change Percentage: 0.2
+Method: org.junit.tests.experimental.categories.CategoryTest:allIncludedSuiteCategoriesMustBeMatched:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:access$1:1:[org.junit.internal.runners.rules.RuleMemberValidator$Builder] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest:setUp:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactoryTest$ValidatorWithNullValue:annotationType:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories$TheoryAnchor:reportParameterizedError:2:[java.lang.Throwable, java.lang.Object[]] Change Percentage: 0.07407407407407407
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:starting:0:[] Change Percentage: 0.99
+Method: org.junit.runner.RunnerSpy:<init>:2:[java.lang.Class, org.junit.runners.model.RunnerBuilder] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:access$1:1:[org.junit.rules.Stopwatch] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addMultiPointFields:2:[org.junit.experimental.theories.ParameterSignature, java.util.List] Change Percentage: 0.99
+Method: org.junit.AssumptionViolatedException:<init>:2:[java.lang.String, java.lang.Throwable] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$Record:<init>:2:[long, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addMultiPointArrayValues:4:[org.junit.experimental.theories.ParameterSignature, java.lang.String, java.util.List, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:testMethodsNullSorterSelf:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldAddToClasses:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithArbitraryObjectWithRuleAnnotation:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$MethodsAnnotated:methodB:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$AssumptionViolatedAtParentLevelTest:beforeClass:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$CallableStatement:awaitStarted:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:access$5:2:[org.junit.rules.ExpectedException, java.lang.Throwable] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints$ENUM:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$Increment$1:<init>:2:[org.junit.tests.experimental.rules.MethodRulesTest$Increment, org.junit.runners.model.Statement] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithStaticMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$HasGlobalLongTimeout:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:<init>:1:[java.lang.Class] Change Percentage: 0.8367346938775511
+Method: org.junit.Assert:assertNotEquals:2:[long, long] Change Percentage: 0.631578947368421
+Method: org.junit.tests.experimental.categories.MultiCategoryTest:inheritanceAllAny:0:[] Change Percentage: 0.99
+Method: org.junit.rules.TestWatcher:skipped:2:[org.junit.AssumptionViolatedException, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$MethodSignature:equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:access$0:1:[org.junit.ComparisonFailure$ComparisonCompactor] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilder:buildRunner:2:[java.lang.Class, java.lang.Class] Change Percentage: 0.02197802197802198
+Method: org.junit.rules.DisableOnDebug:<init>:2:[org.junit.rules.TestRule, java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldCreateFailureUponUnfoundFilterFactory:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.RunBefores:evaluate:0:[] Change Percentage: 0.16666666666666666
+Method: org.junit.rules.DisableOnDebugTest$FailOnExecution:apply:2:[org.junit.runners.model.Statement, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.ExpectedExceptionTest$UseCustomMessageWithPlaceHolder:noThrow:0:[] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest$JUnit3ClassWithAnnotatedMethod:testNotAnnotated:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.ParameterSignature:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.ThrowableCauseMatcher:matchesSafely:1:[java.lang.Throwable] Change Percentage: 0.13333333333333333
+Method: junit.samples.money.MoneyBag:toString:0:[] Change Percentage: 0.45614035087719296
+Method: org.junit.rules.Timeout$Builder:withLookingForStuckThread:1:[boolean] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce$Dummy:<init>:1:[org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce$Dummy] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.IgnoredClassRunner:getDescription:0:[] Change Percentage: 0.2
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeATestRule:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.InvokeMethod:evaluate:0:[] Change Percentage: 0.25
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithStaticMethodRule:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.ForwardCompatibilityTest$1:addError:2:[junit.framework.Test, java.lang.Throwable] Change Percentage: 0.23076923076923078
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce$Dummy:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:classRuleValidatorBuilder:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:shouldReturnOnlyTheNamedMethodDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.Annotatable:getAnnotation:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.AllMembersSupplier$MethodParameterValue:getValue:0:[] Change Percentage: 0.44
+Method: org.junit.internal.runners.rules.ValidationError:<init>:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.Fail:<init>:1:[java.lang.Throwable] Change Percentage: 0.13333333333333333
+Method: org.junit.tests.junit3compatibility.ForwardCompatibilityTest$1:startTest:1:[junit.framework.Test] Change Percentage: 0.36363636363636365
+Method: org.junit.internal.matchers.ThrowableMessageMatcher:describeTo:1:[org.hamcrest.Description] Change Percentage: 0.10526315789473684
+Method: org.junit.internal.runners.TestMethod:getTimeout:0:[] Change Percentage: 0.07142857142857142
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:getRunnerAnnotations:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor$DiffExtractor:extractDiff:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.TestMethod:<init>:2:[java.lang.reflect.Method, org.junit.internal.runners.TestClass] Change Percentage: 0.18181818181818182
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:access$3:1:[org.junit.internal.runners.statements.FailOnTimeout$Builder] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:run:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.08333333333333333
+Method: org.junit.rules.StopwatchTest:failed:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest:testZeroTimeoutIsIgnored:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:access$0:1:[org.junit.runners.Parameterized] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest:namedListenerCorrectlyImplementsEqualsAndHashCode:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:cpuTime:1:[java.lang.Thread] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlappingMatches:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:classRules:0:[] Change Percentage: 0.14285714285714285
+Method: org.junit.rules.StopwatchTest$FailedTest:failedTest:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest$TestListener:testStarted:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest$DummyClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:build:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:parseOptions:1:[java.lang.String[]] Change Percentage: 0.99
+Method: org.junit.rules.TestName:getMethodName:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.runners.ParentRunner:getTestClass:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsMethodWithNullValue:<init>:1:[java.lang.Integer] Change Percentage: 0.99
+Method: org.junit.tests.experimental.AssumptionTest$HasAssumeWithMessageAndCause:testMethod:0:[] Change Percentage: 0.18181818181818182
+Method: org.junit.tests.experimental.categories.MultiCategoryTest$W:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest$TestClassWithNamedDataPoints:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$2:finished:2:[long, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectClassRuleMethodReturnsAnArbitraryObject:0:[] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:runChild:2:[org.junit.runners.model.FrameworkMethod, org.junit.runner.notification.RunNotifier] Change Percentage: 0.24390243902439024
+Method: org.junit.tests.junit3compatibility.SuiteMethodTest$OldTest:suite:0:[] Change Percentage: 0.4090909090909091
+Method: org.junit.runners.parameterized.ParameterizedNamesTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch$Clock:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeARule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsArrayField:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest$PreJava5DebugArgumentsReversedTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactoryTest$ValidatorWithNullValue:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$FieldValidator:<init>:1:[org.junit.validator.AnnotationsValidator$FieldValidator] Change Percentage: 0.99
+Method: junit.framework.TestFailure:trace:0:[] Change Percentage: 0.23529411764705882
+Method: org.junit.experimental.max.MaxCore:<init>:1:[java.io.File] Change Percentage: 0.125
+Method: org.junit.validator.AnnotationsValidator$AnnotatableValidator:getAnnotatablesForTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:access$4:1:[org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:isAnyIncluded:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.internal.runners.statements.FailOnTimeoutTest:throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException:0:[] Change Percentage: 0.07692307692307693
+Method: org.junit.runner.FilterFactoriesTest$DummyCategory:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithStaticClassAndTestRule:getTemporaryFolder:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:access$1:2:[java.util.Set, java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.MultiCategoryTest:inheritanceAnyAll:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest$AbstractTimeoutTest:run4:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:getAnnotatedFieldsByParameter:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.core.MainRunner:runWithCheckForSystemExit:1:[java.lang.Runnable] Change Percentage: 0.13636363636363635
+Method: org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithoutOwnRunWith:<init>:1:[org.junit.internal.builders.AnnotatedBuilderTest$OuterClass] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:isAnyExcluded:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.TheoryTestUtils:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.MultiCategoryTest:inheritanceAllIncluded:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.runners.Enclosed:<init>:2:[java.lang.Class, org.junit.runners.model.RunnerBuilder] Change Percentage: 0.05263157894736842
+Method: org.junit.internal.runners.JUnit4ClassRunner:filter:1:[org.junit.runner.manipulation.Filter] Change Percentage: 0.08163265306122448
+Method: org.junit.runner.notification.RunNotifierTest:notifiesSecondListenerIfFirstThrowsException:0:[] Change Percentage: 0.3333333333333333
+Method: org.junit.tests.running.classes.ParentRunnerTest$AssumptionViolatedAtParentLevelTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointMethodWithOverlyGeneralTypes:theory:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:validateClassRules:1:[java.util.List] Change Percentage: 0.34782608695652173
+Method: org.junit.internal.runners.rules.RuleMemberValidator$RuleValidator:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest:shouldThrowExceptionIfNotFilterFactory:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.FailingDataPointMethods:shouldIgnoreMultipleDataPointMethodExceptionsOnRequest:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:getMethodsNullSorter:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:setScheduler:1:[org.junit.runners.model.RunnerScheduler] Change Percentage: 0.15384615384615385
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleIsImplementationOfMethodRule$1:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest:afterStopwatchRule:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryValidator:validateAnnotatedMethod:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.internal.RealSystem:exit:1:[int] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:access$2:1:[org.junit.internal.runners.rules.RuleMemberValidator$Builder] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopMultithreaded$ThreadTest:<init>:1:[boolean] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:cannotBeCreatedWithoutParameters:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.ErrorReportingRunner:describeCause:1:[java.lang.Throwable] Change Percentage: 0.14285714285714285
+Method: org.junit.runners.model.TestClass:getAnnotatedMethods:1:[java.lang.Class] Change Percentage: 0.3888888888888889
+Method: org.junit.internal.runners.statements.FailOnTimeout:getStackTrace:1:[java.lang.Thread] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:include:2:[boolean, java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest$DummyTestClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:assertNumberOfErrors:1:[int] Change Percentage: 0.99
+Method: junit.framework.Assert:assertEquals:3:[java.lang.String, long, long] Change Percentage: 0.3333333333333333
+Method: org.junit.runners.model.TestClassTest$SimpleClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:getExcludedCategory:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getAnnotatedFields:1:[java.lang.Class] Change Percentage: 0.3888888888888889
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$MethodSignature:<init>:1:[java.lang.reflect.Method] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:parse:1:[java.lang.String[]] Change Percentage: 0.99
+Method: org.junit.internal.requests.ClassRequest:<init>:2:[java.lang.Class, boolean] Change Percentage: 0.14814814814814814
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:getStringValuesFromAssignments:1:[java.util.List] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:potentialsForNextUnassigned:0:[] Change Percentage: 0.36666666666666664
+Method: org.junit.runners.model.TestClass:makeDeeplyUnmodifiable:1:[java.util.Map] Change Percentage: 0.99
+Method: org.junit.internal.runners.ClassRoadie:runAfters:0:[] Change Percentage: 0.03278688524590164
+Method: org.junit.internal.runners.statements.ExpectException:evaluate:0:[] Change Percentage: 0.09090909090909091
+Method: org.junit.runner.FilterOptionIntegrationTest:shouldCombineFilters:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:isEqualToTestWithSameNameAndTestClassAndParameters:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:access$0:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:readResolve:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories$TheoryAnchor:runWithIncompleteAssignment:1:[org.junit.experimental.theories.internal.Assignments] Change Percentage: 0.0625
+Method: org.junit.experimental.categories.IncludeCategories:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithNamedDataPoints:onlyUseSpecificDataPointsIfSpecified:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints:shouldAutomaticallyGenerateEnumDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener:testStarted:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest$CategoryFilterFactoryStub:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$FailedTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryTest:oneRunnableOthersAvoided:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:longTimeout:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryValidator:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestTimedOutException:getTimeout:0:[] Change Percentage: 0.99
+Method: org.junit.runner.manipulation.Sorter:compare:2:[org.junit.runner.Description, org.junit.runner.Description] Change Percentage: 0.1111111111111111
+Method: org.junit.rules.Timeout:seconds:1:[long] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$AnnotatedClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator:access$2:1:[org.junit.runners.model.FrameworkMember] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactoryTest:createAnnotationValidator:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule$1:<init>:1:[org.junit.tests.experimental.rules.MethodRulesTest$HasMethodReturningMethodRule] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest$2:toString:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:shouldReturnNothingIfTheNamedDataPointsAreMissing:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$OuterClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$DummyTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsListField:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:getRunCount:0:[] Change Percentage: 0.2
+Method: org.junit.validator.AnnotationValidatorFactoryTest$ValidatorWithNullValue:value:0:[] Change Percentage: 0.99
+Method: org.junit.Assume:assumeNoException:1:[java.lang.Throwable] Change Percentage: 0.6153846153846154
+Method: org.junit.experimental.runners.Enclosed:filterAbstractClasses:1:[java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsWithObjectParameter:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest:runsMethodRuleThatIsReturnedByMethod:0:[] Change Percentage: 0.99
+Method: org.junit.internal.AssumptionViolatedException:<init>:2:[java.lang.String, java.lang.Throwable] Change Percentage: 0.4444444444444444
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldParseFilterArgWithEqualsSyntax:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier:<init>:0:[] Change Percentage: 0.11764705882352941
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$2:addListener:1:[org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener] Change Percentage: 0.99
+Method: junit.runner.BaseTestRunner:addFailure:2:[junit.framework.Test, junit.framework.AssertionFailedError] Change Percentage: 0.38095238095238093
+Method: org.junit.experimental.categories.ExcludeCategories$ExcludesAny:<init>:1:[java.util.List] Change Percentage: 0.99
+Method: junit.framework.TestResult:addError:2:[junit.framework.Test, java.lang.Throwable] Change Percentage: 0.2127659574468085
+Method: org.junit.runner.Description:isTest:0:[] Change Percentage: 0.36363636363636365
+Method: org.junit.runner.FilterFactories:createFilterFromFilterSpec:2:[org.junit.runner.Request, java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest$1:toString:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Timeout:getTimeout:1:[java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:get:1:[java.lang.Object] Change Percentage: 0.14285714285714285
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsArrayField:theory:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest$CountingListener:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:createTimeoutException:1:[java.lang.Thread] Change Percentage: 0.99
+Method: org.junit.internal.runners.model.EachTestNotifier:addFailedAssumption:1:[org.junit.internal.AssumptionViolatedException] Change Percentage: 0.2
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointMethodWithOverlyGeneralTypes:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:findCommonPrefix:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:getFailureCount:0:[] Change Percentage: 0.36363636363636365
+Method: org.junit.internal.MethodSorterTest:testNameAsc:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:evaluateStatement:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:givenPreJava5DebugArgumentsIsDebuggingShouldReturnTrue:0:[] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:isIgnored:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:categories:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:analyseResult:2:[org.junit.runner.Result, java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParameters:testName:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass:getAnnotatedMethods:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.VerifierRuleTest$UsesErrorCollectorCheckSucceeds$2:call:0:[] Change Percentage: 0.9285714285714286
+Method: org.junit.runners.BlockJUnit4ClassRunner:isIgnored:1:[org.junit.runners.model.FrameworkMethod] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest:access$1:1:[org.junit.runner.notification.ConcurrentRunNotifierTest$ExaminedListener[]] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest:reportConcurrentFailuresAfterAddFirstListener:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:compact:1:[java.lang.String] Change Percentage: 0.7692307692307693
+Method: org.junit.runners.ParentRunner:areAllChildrenIgnored:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldCreateFailureUponBaldFilterOptionNotFollowedByValue:0:[] Change Percentage: 0.99
+Method: junit.tests.runner.ResultTest$ResultWithFixedRunTime:getRunTime:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner:getTest:0:[] Change Percentage: 0.1111111111111111
+Method: org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce$Dummy$1:<init>:2:[org.junit.tests.experimental.rules.MethodRulesTest$CallsMethodReturningRuleOnlyOnce$Dummy, org.junit.runners.model.Statement] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:testMethodsNullSorterSuper:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedExceptionMatcherBuilder:add:1:[org.hamcrest.Matcher] Change Percentage: 0.13333333333333333
+Method: org.junit.experimental.theories.PotentialAssignment$CouldNotGenerateValueException:<init>:1:[java.lang.Throwable] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$FieldMustBeATestRule:<init>:0:[] Change Percentage: 0.99
+Method: junit.runner.BaseTestRunner:readPreferences:0:[] Change Percentage: 0.527027027027027
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:theoryClassMethodsShowUp:0:[] Change Percentage: 0.1
+Method: junit.framework.TestSuite:exceptionToString:1:[java.lang.Throwable] Change Percentage: 0.26666666666666666
+Method: org.junit.tests.experimental.categories.JavadocTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.TextListener:testStarted:1:[org.junit.runner.Description] Change Percentage: 0.13333333333333333
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest$1:<init>:4:[org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest, java.util.concurrent.CyclicBarrier, java.util.concurrent.atomic.AtomicBoolean, java.util.concurrent.CountDownLatch] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints$ENUM:values:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.ParameterSignature:canAcceptType:1:[java.lang.Class] Change Percentage: 0.48
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SimplePotentialAssignment:getValue:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:optionallyHandleException:2:[java.lang.Throwable, boolean] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationValidatorFactory:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeARule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:getClasses:0:[] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:nameFor:3:[java.lang.String, int, java.lang.Object[]] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$ClassValidator:validateAnnotatable:2:[org.junit.validator.AnnotationValidator, org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$1:<init>:1:[org.junit.runner.notification.ConcurrentRunNotifierTest] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkFieldTest$ClassWithDummyField:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch$InternalWatcher:starting:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$Increment:<init>:1:[org.junit.tests.experimental.rules.MethodRulesTest$Increment] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:shouldReturnOnlyTheNamedSingleFieldDataPoints:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:writeObject:1:[java.io.ObjectOutputStream] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure$ComparisonCompactor:areStringsEqual:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifierTest:addAndRemoveWithThreadSafeListener:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.SpecificDataPointsSupplier:getSingleDataPointFields:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$AnnotatableValidator:validateAnnotatable:1:[org.junit.runners.model.Annotatable] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getMethodArguments:1:[boolean] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:acceptMethodRule:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithDataPointMethod:potentialValues:1:[java.lang.reflect.Method] Change Percentage: 0.99
+Method: org.junit.experimental.theories.ParameterSignature:canPotentiallyAcceptType:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult:parseArgs:1:[java.lang.String[]] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:access$1:1:[org.junit.internal.runners.statements.FailOnTimeout$Builder] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestMethodWithStaticTestRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkFieldTest:hasToStringWhichPrintsFieldName:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:filter:1:[org.junit.runner.manipulation.Filter] Change Percentage: 0.6428571428571429
+Method: org.junit.Assert:assertNotEquals:3:[float, float, float] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:fieldsAreAnnotated:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest$TestListener:wasRun:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TestWatcherTest$TestWatcherFailedAndFinishedThrowsExceptionTest$1:failed:2:[java.lang.Throwable, org.junit.runner.Description] Change Percentage: 0.3157894736842105
+Method: org.junit.internal.JUnitSystem:exit:1:[int] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest$JUnit3ClassWithAnnotatedMethod:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.ComparisonFailure:getMessage:0:[] Change Percentage: 0.1111111111111111
+Method: org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithoutOwnRunWith$MostInnerClass:<init>:1:[org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithoutOwnRunWith] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:allMemberValuesFor:2:[java.lang.Class, java.lang.Class[]] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener:access$1:1:[org.junit.tests.running.classes.ParentRunnerTest$CountingRunListener] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.Fail:evaluate:0:[] Change Percentage: 0.2222222222222222
+Method: org.junit.tests.experimental.categories.CategoryTest:testCountWithMultipleIncludeFilter:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier:access$0:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.3333333333333333
+Method: org.junit.runners.Parameterized:<clinit>:0:[] Change Percentage: 0.4444444444444444
+Method: org.junit.Assert:formatClassAndValue:2:[java.lang.Object, java.lang.String] Change Percentage: 0.05714285714285714
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestMethodWithNonStaticTestRule:getTemporaryFolder:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:<init>:0:[] Change Percentage: 0.4090909090909091
+Method: org.junit.rules.Timeout:createFailOnTimeoutStatement:1:[org.junit.runners.model.Statement] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParametersTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsCollectionFieldsShouldBeRecognized:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.TestClass:getAnnotatedMethods:1:[java.lang.Class] Change Percentage: 0.02197802197802198
+Method: org.junit.internal.runners.MethodRoadie:runTestMethod:0:[] Change Percentage: 0.12173913043478261
+Method: org.junit.runners.parameterized.TestWithParameters:toString:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$DummyFilter:<init>:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.experimental.theories.DataPoint:ignoredExceptions:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest$AbstractStopwatchTest$1:<init>:1:[org.junit.rules.StopwatchTest$AbstractStopwatchTest] Change Percentage: 0.99
+Method: org.junit.runner.Result:access$3:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$NamedListener:toString:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest:shouldExcludeSomeTests:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.RunAfters:evaluate:0:[] Change Percentage: 0.08917197452229299
+Method: org.junit.internal.builders.AnnotatedBuilderTest:memberClassDeepInsideAnnotatedTopLevelClass_isRunWithTopLevelRunner:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$FieldComparator:compare:2:[java.lang.Object, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:methodRejectNonStaticClassRule:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.EventCollector$3:describeMismatchSafely:2:[org.junit.tests.experimental.rules.EventCollector, org.hamcrest.Description] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:createRunnersForParameters:3:[java.lang.Iterable, java.lang.String, org.junit.runners.parameterized.ParametersRunnerFactory] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestMethodWithStaticMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.EventCollector$1:describeMismatchSafely:2:[org.junit.tests.experimental.rules.EventCollector, org.hamcrest.Description] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$MethodsAnnotated:methodA:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BrokenRule:apply:2:[org.junit.runners.model.Statement, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsArrayFieldMayContainNullValue:0:[] Change Percentage: 0.99
+Method: org.junit.internal.TextListener:testFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.13333333333333333
+Method: org.junit.runners.parameterized.TestWithParametersTest:doesNotConsiderParametersWhichChangedAfterTestInstantiation:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:testAssumptionFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$TimeOutZero:test:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:handleAssertionErrors:0:[] Change Percentage: 0.2727272727272727
+Method: org.junit.rules.StopwatchTest:access$2:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$AfterClassWithIgnoredTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$ClassValidator:getAnnotatablesForTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.experimental.theories.DataPoints:value:0:[] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$FilterFactoryStub:createFilter:1:[org.junit.runner.FilterFactoryParams] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.MultiCategoryTest$X:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:comparator:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$DummySortWithoutAnnotation:beta:1:[int[][]] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListenerTest$NamedListener:equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: junit.tests.runner.ResultTest$ResultWithFixedRunTime:<init>:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.runner.notification.RunNotifier:fireTestFailure:1:[org.junit.runner.notification.Failure] Change Percentage: 0.09523809523809523
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:dataPointsMustBeStatic:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$AssumptionViolatedAtParentLevelTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest$AnnotationValidatorFieldTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result:access$1:1:[org.junit.runner.Result] Change Percentage: 0.99
+Method: org.junit.runners.Parameterized:createRunnersForParameters:2:[java.lang.Iterable, java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.model.Annotatable:getAnnotations:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:throwExceptionForUnfinishedThread:1:[org.junit.internal.runners.statements.FailOnTimeout$StatementThread] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest$TestListener:<init>:1:[org.junit.runner.FilterOptionIntegrationTest$TestListener] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest:createSuiteRequest:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:beforeClassShouldNotRunWhenWholeClassIsIgnored:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$NonPublicTestWithClassRule:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCore:main:1:[java.lang.String[]] Change Percentage: 0.6428571428571429
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectStaticTestRule:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:access$3:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.internal.Assignments:getActualValues:3:[int, int, boolean] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsAnnotationMeansTreatAsArrayOnly:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:withAfterClasses:1:[org.junit.runners.model.Statement] Change Percentage: 0.06451612903225806
+Method: org.junit.tests.running.classes.EnclosedTest$Enclosing$C:a:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:getFilteredChildren:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest:errorIsAddedWhenCategoryIsUsedWithBefore:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories:assertNoCategorizedDescendentsOfUncategorizeableParents:1:[org.junit.runner.Description] Change Percentage: 0.66
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldCreateFailureUponUnknownOption:0:[] Change Percentage: 0.99
+Method: org.junit.internal.builders.AnnotatedBuilderTest$InnerRunner:<init>:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule:validate:3:[org.junit.runners.model.FrameworkMember, java.lang.Class, java.util.List] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeStatic:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.Theories:validateTestMethods:1:[java.util.List] Change Percentage: 0.49382716049382713
+Method: org.junit.rules.StopwatchTest$SkippedTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.DisableOnDebugTest:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BeforeClassWithIgnoredTest:beforeClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:signature:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryValidator:<init>:0:[] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlapingMatches2Context:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.MethodRulesTest$HasMultipleMethodsReturningMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:access$0:2:[org.junit.rules.ExpectedException, java.lang.Throwable] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:canRunTheories:0:[] Change Percentage: 0.15384615384615385
+Method: org.junit.runner.JUnitCore:run:1:[java.lang.Class[]] Change Percentage: 0.2
+Method: org.junit.runners.model.FrameworkMethodTest$ClassWithDummyMethod:annotatedDummyMethod:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointMethodWithOverlyGeneralTypes:object:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:acceptMethodNonStaticTestRule:0:[] Change Percentage: 0.99
+Method: org.junit.internal.requests.ClassRequest:getRunner:0:[] Change Percentage: 0.4727272727272727
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest$HasDataPointsWithObjectParameter:theory:1:[java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest:analyzeFailure:2:[org.junit.runner.notification.Failure, java.lang.String] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:wrapMethod:1:[java.lang.reflect.Method] Change Percentage: 0.125
+Method: org.junit.runner.notification.RunNotifier:removeListener:1:[org.junit.runner.notification.RunListener] Change Percentage: 0.48
+Method: org.junit.rules.StopwatchTest$DurationAfterTestTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:access$3:1:[org.junit.rules.StopwatchTest$Record] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest$DummyFilter:describe:0:[] Change Percentage: 0.99
+Method: org.junit.rules.StopwatchTest:succeeded:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$BeforeClassWithIgnoredTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithMethodRule:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.rules.Timeout:apply:2:[org.junit.runners.model.Statement, org.junit.runner.Description] Change Percentage: 0.5757575757575758
+Method: org.junit.rules.Stopwatch$InternalWatcher:succeeded:1:[org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$MethodValidator:validateAnnotatable:2:[org.junit.validator.AnnotationValidator, org.junit.runners.model.Annotatable] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.TimeoutRuleTest:after:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.CategoryFilterFactoryTest$CategoryFilterFactoryStub:<init>:1:[org.junit.experimental.categories.CategoryFilterFactoryTest$CategoryFilterFactoryStub] Change Percentage: 0.99
+Method: org.junit.AssumptionViolatedException:<init>:2:[java.lang.Object, org.hamcrest.Matcher] Change Percentage: 0.99
+Method: org.junit.runner.RunnerSpy:getInvokedTestClass:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest$TestClassWithNamedDataPoints:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithExtendedParameterSources:ShouldRejectTheoriesWithOnlyDisallowedNullData:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClass$MethodComparator:<init>:1:[org.junit.runners.model.TestClass$MethodComparator] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest:shouldCreateFilter:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$TestTest:assumptionFail:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$InfiniteLoopMultithreaded$ThreadTest:run:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener:<init>:3:[org.junit.internal.runners.JUnit38ClassRunner, org.junit.runner.notification.RunNotifier, org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest$1:call:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:<init>:2:[org.junit.runner.notification.RunListener, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.runner.Result$SerializedForm:deserialize:1:[java.io.ObjectInputStream] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout:copyThreads:2:[java.lang.Thread[], int] Change Percentage: 0.99
+Method: org.junit.rules.Timeout$Builder:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest:realUsage:0:[] Change Percentage: 0.99
+Method: org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest$RejectAllTestsFilter:describe:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest$AfterClassWithIgnoredTest:afterClass:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:getDescription:0:[] Change Percentage: 0.045454545454545456
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SupplierWithUnknownConstructor:getValueSources:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.runner.Result:access$0:2:[org.junit.runner.Result, long] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SupplierWithTwoConstructors:getValueSources:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:classAnnotations:0:[] Change Percentage: 0.18181818181818182
+Method: org.junit.tests.experimental.rules.TestWatcherTest$InternalViolatedAssumptionTest:access$1:1:[java.lang.StringBuilder] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:withTimeout:2:[long, java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: org.junit.AssumptionViolatedException:<init>:3:[java.lang.String, java.lang.Object, org.hamcrest.Matcher] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$TestWithClassRuleIsImplementationOfMethodRule$1:apply:3:[org.junit.runners.model.Statement, org.junit.runners.model.FrameworkMethod, java.lang.Object] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.FailingDataPointMethods:shouldNotIgnoreNonMatchingSingleDataPointExceptions:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.statements.FailOnTimeout$Builder:<init>:1:[org.junit.internal.runners.statements.FailOnTimeout$Builder] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:matchesAnyParentCategories:2:[java.util.Set, java.util.Set] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.EventCollector$3:describeMismatchSafely:2:[java.lang.Object, org.hamcrest.Description] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$ClassValidator:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest$MethodTestWithNonStaticClassRule:getTemporaryFolder:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.TestClassTest$NonPublicClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.categories.Categories$CategoryFilter:categoryFilter:4:[boolean, java.util.Set, boolean, java.util.Set] Change Percentage: 0.99
+Method: org.junit.runner.FilterOptionIntegrationTest:<init>:0:[] Change Percentage: 0.99
+Method: junit.runner.BaseTestRunner:getFilteredTrace:1:[java.lang.Throwable] Change Percentage: 0.4090909090909091
+Method: org.junit.experimental.theories.internal.AllMembersSupplier:addSinglePointMethods:2:[org.junit.experimental.theories.ParameterSignature, java.util.List] Change Percentage: 0.3018867924528302
+Method: org.junit.internal.builders.AnnotatedBuilderTest$OuterClass$InnerClassWithoutOwnRunWith:test:0:[] Change Percentage: 0.99
+Method: org.junit.runners.BlockJUnit4ClassRunner:validateMethods:1:[java.util.List] Change Percentage: 0.25
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier$SimpleSupplier:getValueSources:1:[org.junit.experimental.theories.ParameterSignature] Change Percentage: 0.99
+Method: org.junit.runner.notification.SynchronizedRunListener:toString:0:[] Change Percentage: 0.99
+Method: org.junit.internal.matchers.ThrowableCauseMatcher:describeTo:1:[org.hamcrest.Description] Change Percentage: 0.10526315789473684
+Method: org.junit.internal.runners.rules.RuleMemberValidator$Builder:<init>:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator:validateTestClass:1:[org.junit.runners.model.TestClass] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResult$CommandLineParserError:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidatorTest$AnnotationValidatorClassTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields:dataPointFieldsMustBeStatic:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkFieldTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest:testAscendingMethodSorter:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$DeclaringClassMustBePublic:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.TextListener:testIgnored:1:[org.junit.runner.Description] Change Percentage: 0.13333333333333333
+Method: org.junit.rules.StopwatchTest:runtimeAfterTestShouldReturnRunDuration:0:[] Change Percentage: 0.99
+Method: org.junit.validator.AnnotationsValidator$AnnotatableValidator:<clinit>:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.RunnerBuilderStub:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeARule:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$MethodMustBeARule] Change Percentage: 0.99
+Method: org.junit.experimental.categories.ExcludeCategories:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.AllMembersSupplierTest:dataPointsCollectionMethodShouldBeRecognized:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:validate:0:[] Change Percentage: 0.09523809523809523
+Method: org.junit.experimental.theories.internal.Assignments:getAllArguments:0:[] Change Percentage: 0.99
+Method: junit.tests.framework.TestListenerTest:addError:2:[junit.framework.Test, java.lang.Throwable] Change Percentage: 0.2857142857142857
+Method: org.junit.runners.model.TestClass:collectValues:1:[java.util.Map] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner:<init>:1:[java.lang.Class] Change Percentage: 0.425
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest:test:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.classes.ParentRunnerTest$NonPublicTestClass:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.validator.PublicClassValidatorTest:rejectsNonPublicClass:0:[] Change Percentage: 0.99
+Method: org.junit.internal.MethodSorterTest$Super:superMario:0:[] Change Percentage: 0.99
+Method: org.junit.runners.ParentRunner$4:<init>:1:[org.junit.runners.ParentRunner] Change Percentage: 0.99
+Method: org.junit.internal.matchers.ThrowableCauseMatcherTest:<init>:0:[] Change Percentage: 0.99
+Method: org.junit.experimental.theories.ParameterSignature:isAssignableViaTypeConversion:2:[java.lang.Class, java.lang.Class] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest:methodWantingNamedFieldString:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest$TimeoutSubclass:<init>:2:[long, java.util.concurrent.TimeUnit] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactories:createFilterFactory:1:[java.lang.String] Change Percentage: 0.99
+Method: org.junit.runners.parameterized.TestWithParameters:<init>:3:[java.lang.String, org.junit.runners.model.TestClass, java.util.List] Change Percentage: 0.99
+Method: org.junit.runner.FilterFactoriesTest$NonInstantiableFilterFactory:createFilter:1:[org.junit.runner.FilterFactoryParams] Change Percentage: 0.99
+Method: org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest:<init>:2:[org.junit.runner.notification.ConcurrentRunNotifierTest, org.junit.runner.notification.ConcurrentRunNotifierTest$AbstractConcurrentFailuresTest] Change Percentage: 0.99
+Method: org.junit.internal.runners.JUnit4ClassRunner:runMethods:1:[org.junit.runner.notification.RunNotifier] Change Percentage: 0.06451612903225806
+Method: org.junit.runners.model.TestClassTest$OuterClass$NonStaticInnerClass:<init>:1:[org.junit.runners.model.TestClassTest$OuterClass] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest$1:<init>:1:[org.junit.tests.experimental.theories.PotentialAssignmentTest] Change Percentage: 0.99
+Method: org.junit.runner.JUnitCommandLineParseResultTest:shouldStopParsingOptionsUponDoubleHyphenArg:0:[] Change Percentage: 0.99
+Method: org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeStatic:<init>:1:[org.junit.internal.runners.rules.RuleMemberValidator$MemberMustBeStatic] Change Percentage: 0.99
+Method: org.junit.rules.Stopwatch:finished:2:[long, org.junit.runner.Description] Change Percentage: 0.99
+Method: org.junit.rules.ExpectedException:handleAssumptionViolatedExceptions:0:[] Change Percentage: 0.2727272727272727
+Method: org.junit.tests.experimental.theories.PotentialAssignmentTest$1:toString:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.CategoryValidatorTest:testAndAssertErrorMessage:2:[org.junit.runners.model.FrameworkMethod, java.lang.String] Change Percentage: 0.99
+Method: org.junit.tests.experimental.rules.RuleMemberValidatorTest:rejectClassRuleThatIsImplemetationOfMethodRule:0:[] Change Percentage: 0.99
+Method: org.junit.runner.Result$SerializedForm:access$3:1:[org.junit.runner.Result$SerializedForm] Change Percentage: 0.99
+Method: org.junit.tests.experimental.theories.runner.WithNamedDataPoints:<init>:0:[] Change Percentage: 0.99
+Method: junit.runner.BaseTestRunner:addError:2:[junit.framework.Test, java.lang.Throwable] Change Percentage: 0.38095238095238093
+Method: org.junit.internal.builders.AnnotatedBuilderTest:memberClassInsideAnnotatedTopLevelClass_isRunWithTopLevelRunner:0:[] Change Percentage: 0.99
+Method: org.junit.tests.experimental.categories.MultiCategoryTest:runSuite:0:[] Change Percentage: 0.99
+Method: org.junit.runners.model.FrameworkField:getAnnotations:0:[] Change Percentage: 0.2
+Method: org.junit.tests.experimental.theories.runner.WithParameterSupplier:shouldPickUpDataPointsFromParameterSupplier:0:[] Change Percentage: 0.99
+Method: junit.tests.framework.ComparisonCompactorTest:testComparisonErrorOverlappingMatches2:0:[] Change Percentage: 0.99
+Method: org.junit.tests.running.methods.TimeoutTest:stalledThreadAppearsInStackTrace:0:[] Change Percentage: 0.29577464788732394
+Method: org.junit.runners.Suite:<init>:2:[java.lang.Class, java.util.List] Change Percentage: 0.15

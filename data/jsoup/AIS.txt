@@ -1,0 +1,585 @@
+Method: org.jsoup.nodes.DataNode:attr:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:equals:1:[java.lang.Object] Change Percentage: 0.38636363636363635
+Method: org.jsoup.nodes.AttributesTest:removeCaseSensitive:0:[] Change Percentage: 0.22058823529411764
+Method: org.jsoup.select.TraversorTest:filterRemove:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:attr:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.select.Collector:collect:2:[org.jsoup.select.Evaluator, org.jsoup.nodes.Element] Change Percentage: 0.1724137931034483
+Method: org.jsoup.select.SelectorTest:selectFirst:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest:filterSkipChildren:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeTagName:0:[] Change Percentage: 0.4214876033057851
+Method: org.jsoup.nodes.DocumentType:hasAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.Parser:parseInput:2:[java.io.Reader, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:setOutputContentType:1:[org.jsoup.Connection$Request] Change Percentage: 0.04081632653061224
+Method: org.jsoup.nodes.Element:prependText:1:[java.lang.String] Change Percentage: 0.14814814814814814
+Method: org.jsoup.nodes.Attributes:hasKey:1:[java.lang.String] Change Percentage: 0.46153846153846156
+Method: org.jsoup.nodes.DocumentType:childNodeSize:0:[] Change Percentage: 0.99
+Method: org.jsoup.UncheckedIOException:ioException:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.XmlDeclaration:getWholeDeclaration:0:[] Change Percentage: 0.7894736842105263
+Method: org.jsoup.helper.HttpConnection$Request:removeHeader:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection:access$2:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:hasAttributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:insertEmpty:1:[org.jsoup.parser.Token$StartTag] Change Percentage: 0.203125
+Method: org.jsoup.parser.CharacterReader:rangeEquals:3:[int, int, java.lang.String] Change Percentage: 0.6111111111111112
+Method: org.jsoup.nodes.Element:doSetBaseUri:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:cacheString:2:[int, int] Change Percentage: 0.99
+Method: org.jsoup.nodes.BuildEntities:main:1:[java.lang.String[]] Change Percentage: 0.01818181818181818
+Method: org.jsoup.nodes.XmlDeclaration:absUrl:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:access$23:1:[org.jsoup.helper.HttpConnection$Request] Change Percentage: 0.99
+Method: org.jsoup.nodes.Entities:escape:6:[java.lang.Appendable, java.lang.String, org.jsoup.nodes.Document$OutputSettings, boolean, boolean, boolean] Change Percentage: 0.26334519572953735
+Method: org.jsoup.TextUtil:stripNewlines:1:[java.lang.String] Change Percentage: 0.15384615384615385
+Method: org.jsoup.helper.HttpConnection$Response:removeCookie:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.StringUtil$1:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:access$9:2:[java.lang.StringBuilder, org.jsoup.nodes.TextNode] Change Percentage: 0.99
+Method: org.jsoup.parser.Tokeniser:acknowledgeSelfClosingFlag:0:[] Change Percentage: 0.99
+Method: org.jsoup.Connection$KeyVal:contentType:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:selfClosingVoidIsNotAnError:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:handlesKnownEmptyNoFrames:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$1:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:header:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:method:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:insert:1:[org.jsoup.parser.Token$Comment] Change Percentage: 0.16666666666666666
+Method: org.jsoup.nodes.Comment:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.integration.ConnectTest$1:run:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.HelloServlet:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$1:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.nodes.DataNode:hasAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Document$OutputSettings:<init>:0:[] Change Percentage: 0.16129032258064516
+Method: org.jsoup.nodes.Node:doClone:1:[org.jsoup.nodes.Node] Change Percentage: 0.5
+Method: org.jsoup.nodes.Node:reparentChild:1:[org.jsoup.nodes.Node] Change Percentage: 0.4
+Method: org.jsoup.helper.HttpConnection$Response:hasHeaderWithValue:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:access$2:1:[org.jsoup.nodes.Attributes] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:setPubSysKey:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.integration.ConnectTest$2:<init>:2:[org.jsoup.integration.ConnectTest, java.lang.String[]] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:ensureChildNodes:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$8:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderStateTest:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:shouldCollapseAttribute:1:[org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.5454545454545454
+Method: org.jsoup.nodes.Comment:baseUri:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReaderTest:empty:0:[] Change Percentage: 0.99
+Method: org.jsoup.internal.ConstrainableInputStream:wrap:3:[java.io.InputStream, int, int] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest:filterVisit:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:removeCookie:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:selfClosingOnNonvoidIsError:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.Parser:parseInput:2:[java.lang.String, java.lang.String] Change Percentage: 0.027777777777777776
+Method: org.jsoup.parser.Parser:parse:2:[java.lang.String, java.lang.String] Change Percentage: 0.18518518518518517
+Method: org.jsoup.select.NodeTraversor:traverse:2:[org.jsoup.select.NodeVisitor, org.jsoup.select.Elements] Change Percentage: 0.99
+Method: org.jsoup.internal.ConstrainableInputStream:timeout:2:[long, long] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtil:crossStreams:2:[java.io.InputStream, java.io.OutputStream] Change Percentage: 0.05405405405405406
+Method: org.jsoup.parser.HtmlTreeBuilder:popStackToClose:1:[java.lang.String[]] Change Percentage: 0.0425531914893617
+Method: org.jsoup.nodes.DataNode:createFromEncoded:2:[java.lang.String, java.lang.String] Change Percentage: 0.14285714285714285
+Method: org.jsoup.helper.HttpConnection$Base:hasHeaderWithValue:2:[java.lang.String, java.lang.String] Change Percentage: 0.6037735849056604
+Method: org.jsoup.nodes.Node:traverse:1:[org.jsoup.select.NodeVisitor] Change Percentage: 0.16666666666666666
+Method: org.jsoup.helper.HttpConnection$Request:multiHeaders:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:access$1:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:absUrl:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeLetterSequence:0:[] Change Percentage: 0.4457831325301205
+Method: org.jsoup.integration.servlets.EchoServlet:doIt:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:attr:1:[java.lang.String] Change Percentage: 0.7777777777777778
+Method: org.jsoup.select.TraversorTest:filterSkipEntirely:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReaderTest:matches:0:[] Change Percentage: 0.03389830508474576
+Method: org.jsoup.integration.servlets.BaseServlet:doGet:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element$NodeList:onContentsChanged:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.EchoServlet:main:1:[java.lang.String[]] Change Percentage: 0.99
+Method: org.jsoup.safety.Cleaner$CleaningVisitor:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.15483870967741936
+Method: org.jsoup.select.Elements:filter:1:[org.jsoup.select.NodeFilter] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:html:0:[] Change Percentage: 0.25806451612903225
+Method: org.jsoup.examples.HtmlToPlainText:getPlainText:1:[org.jsoup.nodes.Element] Change Percentage: 0.3125
+Method: org.jsoup.select.CombiningEvaluator$Or:toString:0:[] Change Percentage: 0.5294117647058824
+Method: org.jsoup.nodes.Element:dataset:0:[] Change Percentage: 0.2
+Method: org.jsoup.parser.CharacterReader:matchConsumeIgnoreCase:1:[java.lang.String] Change Percentage: 0.15384615384615385
+Method: org.jsoup.nodes.AttributesTest:testIteratorHasNext:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Base:hasHeader:1:[java.lang.String] Change Percentage: 0.2916666666666667
+Method: org.jsoup.helper.HttpConnection$Base:headers:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Document$OutputSettings:prepareEncoder:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.AttributesTest:testSetKeyConsistency:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$6:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:hasParent:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:url:1:[java.net.URL] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:classNames:1:[java.util.Set] Change Percentage: 0.46875
+Method: org.jsoup.helper.HttpConnection$Response:cookies:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:ensureAttributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:appendTo:1:[org.jsoup.nodes.Element] Change Percentage: 0.99
+Method: org.jsoup.parser.XmlTreeBuilder:insert:1:[org.jsoup.parser.Token$Comment] Change Percentage: 0.14678899082568808
+Method: org.jsoup.nodes.DataNode:setWholeData:1:[java.lang.String] Change Percentage: 0.25
+Method: org.jsoup.parser.HtmlTreeBuilderTest:ensureSearchArraysAreSorted:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:checkNotNull:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.TreeBuilder:initialiseParse:4:[java.io.Reader, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.Connection$Response:bufferUp:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:method:1:[org.jsoup.Connection$Method] Change Percentage: 0.99
+Method: org.jsoup.nodes.EntitiesData:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:html:2:[java.lang.Appendable, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.4722222222222222
+Method: org.jsoup.internal.ConstrainableInputStream:expired:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:parse:0:[] Change Percentage: 0.4918032786885246
+Method: org.jsoup.nodes.Attributes$Dataset:put:2:[java.lang.String, java.lang.String] Change Percentage: 0.484375
+Method: org.jsoup.select.SelectorTest:selectFirstWithAnd:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.XmlDeclaration:hasAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:handlesMisnestedAInDivs:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:bodyStream:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.XmlTreeBuilder:initialiseParse:4:[java.io.Reader, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:hasHeader:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.XmlDeclaration:<init>:3:[java.lang.String, java.lang.String, boolean] Change Percentage: 0.32142857142857145
+Method: org.jsoup.nodes.DocumentTest$1:run:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.Selector:select:2:[java.lang.String, org.jsoup.nodes.Element] Change Percentage: 0.42105263157894735
+Method: org.jsoup.nodes.Node:childNodesCopy:0:[] Change Percentage: 0.5614035087719298
+Method: org.jsoup.helper.HttpConnection$Request:addHeader:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$4:tail:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:header:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNodeTest:testBlank:0:[] Change Percentage: 0.20833333333333334
+Method: org.jsoup.helper.DataUtil:<clinit>:0:[] Change Percentage: 0.2
+Method: org.jsoup.parser.CharacterReader:consumeHexSequence:0:[] Change Percentage: 0.4431818181818182
+Method: org.jsoup.nodes.Entities:escape:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:addChildren:2:[int, org.jsoup.nodes.Node[]] Change Percentage: 0.5147058823529411
+Method: org.jsoup.helper.StringUtil:stringBuilder:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.EchoServlet:doPost:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection:access$1:1:[org.jsoup.Connection$Request] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection:encodeUrl:1:[java.net.URL] Change Percentage: 0.5217391304347826
+Method: org.jsoup.parser.HtmlTreeBuilder:clearStackToTableBodyContext:0:[] Change Percentage: 0.2222222222222222
+Method: org.jsoup.helper.StringUtil:isActuallyWhitespace:1:[int] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.SlowRider:doGet:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:<init>:2:[org.jsoup.parser.Tag, java.lang.String] Change Percentage: 0.2
+Method: org.jsoup.nodes.Attributes:clone:0:[] Change Percentage: 0.6666666666666666
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$12:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:html:4:[java.lang.String, java.lang.String, java.lang.Appendable, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:getWholeText:0:[] Change Percentage: 0.42857142857142855
+Method: org.jsoup.helper.DataUtilTest:discardsSpuriousByteOrderMarkWhenNoCharsetSet:0:[] Change Percentage: 0.425531914893617
+Method: org.jsoup.helper.HttpConnection$Base:headers:0:[] Change Percentage: 0.7868852459016393
+Method: org.jsoup.nodes.DataNode:absUrl:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:hasClass:1:[java.lang.String] Change Percentage: 0.016129032258064516
+Method: org.jsoup.nodes.DataNode:removeAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Base:header:1:[java.lang.String] Change Percentage: 0.47368421052631576
+Method: org.jsoup.helper.StringUtilTest:padding:0:[] Change Percentage: 0.14814814814814814
+Method: org.jsoup.nodes.DataNode:getWholeData:0:[] Change Percentage: 0.36363636363636365
+Method: org.jsoup.helper.HttpConnection$Base:addHeader:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:headers:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:shallowClone:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:clearStackToTableRowContext:0:[] Change Percentage: 0.3157894736842105
+Method: org.jsoup.nodes.LeafNode:coreValue:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$12:process:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.2823529411764706
+Method: org.jsoup.nodes.Node$OuterHtmlVisitor:<init>:2:[java.lang.Appendable, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.13043478260869565
+Method: org.jsoup.nodes.XmlDeclaration:attr:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$4:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:access$2:2:[org.jsoup.nodes.Attributes, java.util.LinkedHashMap] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:inSpecificScope:3:[java.lang.String[], java.lang.String[], java.lang.String[]] Change Percentage: 0.4803921568627451
+Method: org.jsoup.helper.HttpConnection$Response:method:1:[org.jsoup.Connection$Method] Change Percentage: 0.99
+Method: org.jsoup.Connection$Response:bodyStream:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$15:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:<init>:3:[org.jsoup.parser.Tag, java.lang.String, org.jsoup.nodes.Attributes] Change Percentage: 0.4166666666666667
+Method: org.jsoup.nodes.XmlDeclaration:outerHtmlHead:3:[java.lang.Appendable, int, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.16981132075471697
+Method: org.jsoup.parser.HtmlTreeBuilder:parse:4:[java.lang.String, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:initialiseParse:4:[java.io.Reader, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.SlowRider:pause:1:[int] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:access$3:2:[org.jsoup.nodes.Attributes, int] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:hasKeyIgnoreCase:1:[java.lang.String] Change Percentage: 0.6888888888888889
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$16:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:matches:1:[java.lang.String] Change Percentage: 0.2903225806451613
+Method: org.jsoup.nodes.Attributes:get:1:[java.lang.String] Change Percentage: 0.3170731707317073
+Method: org.jsoup.internal.ConstrainableInputStream:read:3:[byte[], int, int] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.HelloServlet:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:normalize:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:<init>:1:[java.io.Reader] Change Percentage: 0.99
+Method: org.jsoup.nodes.Document:findFirstElementByTagName:2:[java.lang.String, org.jsoup.nodes.Node] Change Percentage: 0.5138888888888888
+Method: org.jsoup.nodes.Attribute:isDataAttribute:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes$Dataset$DatasetIterator:remove:0:[] Change Percentage: 0.35294117647058826
+Method: org.jsoup.select.Collector$FirstFinder:access$0:1:[org.jsoup.select.Collector$FirstFinder] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:rangeEquals:4:[char[], int, int, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.SlowRider:main:1:[java.lang.String[]] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:removeAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:outerHtmlTail:3:[java.lang.Appendable, int, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.0759493670886076
+Method: org.jsoup.helper.StringUtil:appendNormalisedWhitespace:3:[java.lang.StringBuilder, java.lang.String, boolean] Change Percentage: 0.024096385542168676
+Method: org.jsoup.select.NodeTraversor:traverse:2:[org.jsoup.select.NodeVisitor, org.jsoup.nodes.Node] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$16:process:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.1967654986522911
+Method: org.jsoup.nodes.LeafNode:ensureChildNodes:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:toString:0:[] Change Percentage: 0.36363636363636365
+Method: org.jsoup.nodes.Node:filter:1:[org.jsoup.select.NodeFilter] Change Percentage: 0.99
+Method: org.jsoup.select.Collector:findFirst:2:[org.jsoup.select.Evaluator, org.jsoup.nodes.Element] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:html:2:[java.lang.Appendable, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.6576576576576577
+Method: org.jsoup.select.NodeFilter:tail:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:bufferUp:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:childNodes:0:[] Change Percentage: 0.2
+Method: org.jsoup.parser.HtmlTreeBuilderState$7:process:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.20936768149882903
+Method: org.jsoup.nodes.TextNode:baseUri:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.XmlTreeBuilder:insert:1:[org.jsoup.parser.Token$Doctype] Change Percentage: 0.2702702702702703
+Method: org.jsoup.helper.HttpConnection$Response:serialiseRequestUrl:1:[org.jsoup.Connection$Request] Change Percentage: 0.12389380530973451
+Method: org.jsoup.select.NodeFilter$FilterResult:valueOf:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Document$OutputSettings:encoder:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtilTest:discardsSpuriousByteOrderMark:0:[] Change Percentage: 0.45
+Method: org.jsoup.nodes.XmlDeclaration:attr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Entities$EscapeMode:<clinit>:0:[] Change Percentage: 0.13333333333333333
+Method: org.jsoup.nodes.TextNode:isBlank:0:[] Change Percentage: 0.2
+Method: org.jsoup.nodes.Element:baseUri:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.StringUtil$1:initialValue:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes$Dataset:access$1:1:[org.jsoup.nodes.Attributes$Dataset] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtilTest:wrongMetaCharsetFallback:0:[] Change Percentage: 0.6774193548387096
+Method: org.jsoup.nodes.Node$1:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.11764705882352941
+Method: org.jsoup.parser.XmlTreeBuilder:parse:2:[java.io.Reader, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$KeyVal:contentType:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:nextIndexOf:1:[char] Change Percentage: 0.35555555555555557
+Method: org.jsoup.parser.CharacterReader:consumeToAnySorted:1:[char[]] Change Percentage: 0.43023255813953487
+Method: org.jsoup.parser.CharacterReader:matchesAny:1:[char[]] Change Percentage: 0.2033898305084746
+Method: org.jsoup.nodes.Attribute:getValue:0:[] Change Percentage: 0.1111111111111111
+Method: org.jsoup.parser.HtmlTreeBuilderState$19:process:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.375
+Method: org.jsoup.select.Collector$FirstFinder:tail:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.BaseServlet:doPut:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:handlesKnownEmptyTitle:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:copyOf:2:[java.lang.String[], int] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:multiHeaders:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Base:multiHeaders:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$10:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.EchoServlet:maybeEnableMultipart:1:[javax.servlet.http.HttpServletRequest] Change Percentage: 0.99
+Method: org.jsoup.helper.StringUtilTest:paddingInACan:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtilTest:stream:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:access$11:2:[java.lang.StringBuilder, org.jsoup.nodes.TextNode] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:safeClose:0:[] Change Percentage: 0.99
+Method: org.jsoup.internal.ConstrainableInputStreamTest:noLimitAfterFirstRead:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:execute:2:[org.jsoup.Connection$Request, org.jsoup.helper.HttpConnection$Response] Change Percentage: 0.38445807770961143
+Method: org.jsoup.helper.DataUtil:load:3:[java.io.File, java.lang.String, java.lang.String] Change Percentage: 0.4074074074074074
+Method: org.jsoup.nodes.XmlDeclaration:getWholeDeclaration:2:[java.lang.Appendable, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:method:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNodeTest:testTextBean:0:[] Change Percentage: 0.036585365853658534
+Method: org.jsoup.parser.XmlTreeBuilder:parseFragment:4:[java.lang.String, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.03125
+Method: org.jsoup.nodes.Element:access$10:1:[org.jsoup.nodes.Element] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes$Dataset$DatasetIterator:<init>:1:[org.jsoup.nodes.Attributes$Dataset] Change Percentage: 0.3
+Method: org.jsoup.select.Selector:selectFirst:2:[java.lang.String, org.jsoup.nodes.Element] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:coreValue:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:appendText:1:[java.lang.String] Change Percentage: 0.14814814814814814
+Method: org.jsoup.integration.TestServer:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$1:tail:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:bodyAsBytes:0:[] Change Percentage: 0.2857142857142857
+Method: org.jsoup.select.TraversorTest$5:tail:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:processResponseHeaders:1:[java.util.Map] Change Percentage: 0.425531914893617
+Method: org.jsoup.nodes.Comment:attr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeDigitSequence:0:[] Change Percentage: 0.45588235294117646
+Method: org.jsoup.nodes.Node:hasAttributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.TestServer:start:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:<init>:5:[java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String] Change Percentage: 0.08
+Method: org.jsoup.nodes.LeafNode:attributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:ensureChildNodes:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:isSpecial:1:[org.jsoup.nodes.Element] Change Percentage: 0.10526315789473684
+Method: org.jsoup.helper.HttpConnection$Response:initUnSecureTSL:0:[] Change Percentage: 0.23809523809523808
+Method: org.jsoup.nodes.LeafNode:baseUri:0:[] Change Percentage: 0.99
+Method: org.jsoup.TextUtil:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:removeHeader:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReaderTest:rangeEquals:0:[] Change Percentage: 0.04285714285714286
+Method: org.jsoup.integration.servlets.EchoServlet:doGet:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.Connection$Base:headers:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:text:1:[java.lang.String] Change Percentage: 0.4782608695652174
+Method: org.jsoup.parser.Tokeniser:emit:1:[org.jsoup.parser.Token] Change Percentage: 0.203125
+Method: org.jsoup.integration.servlets.EchoServlet:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtil:detectCharsetFromBom:2:[java.nio.ByteBuffer, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:attributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:absUrl:1:[java.lang.String] Change Percentage: 0.5384615384615384
+Method: org.jsoup.nodes.LeafNode:attr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:attr:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.select.Selector:<init>:2:[java.lang.String, org.jsoup.nodes.Element] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:setValue:1:[java.lang.String] Change Percentage: 0.7719298245614035
+Method: org.jsoup.select.Collector$FirstFinder:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.nodes.Document:ensureMetaCharsetElement:0:[] Change Percentage: 0.12154696132596685
+Method: org.jsoup.parser.CharacterReader:matchesDigit:0:[] Change Percentage: 0.11764705882352941
+Method: org.jsoup.select.TraversorTest$1:<init>:2:[org.jsoup.select.TraversorTest, java.lang.StringBuilder] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$KeyVal:contentType:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.XmlDeclaration:removeAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.HelloServlet:doGet:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:equals:1:[java.lang.Object] Change Percentage: 0.4857142857142857
+Method: org.jsoup.helper.HttpConnection$Request:headers:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$7:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.NodeFilter$FilterResult:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$14:process:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.13513513513513514
+Method: org.jsoup.nodes.Attributes$1:remove:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:removeAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:hasCookie:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:hasCookie:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.XmlTreeBuilder:insert:1:[org.jsoup.parser.Token$StartTag] Change Percentage: 0.14754098360655737
+Method: org.jsoup.select.NodeFilter:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.integration.TestServer:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$5:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentTest:parseAndHtmlOnDifferentThreads:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:<init>:0:[] Change Percentage: 0.6923076923076923
+Method: org.jsoup.nodes.Element:appendChild:1:[org.jsoup.nodes.Node] Change Percentage: 0.0967741935483871
+Method: org.jsoup.nodes.DataNode:<init>:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.safety.Cleaner:createSafeElement:1:[org.jsoup.nodes.Element] Change Percentage: 0.09375
+Method: org.jsoup.nodes.NodeTest:singletonAttributes:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:putIgnoreCase:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:isBooleanAttribute:0:[] Change Percentage: 0.5
+Method: org.jsoup.Connection:data:4:[java.lang.String, java.lang.String, java.io.InputStream, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:access$12:1:[org.jsoup.nodes.Element] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$0:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Comment:getData:0:[] Change Percentage: 0.36363636363636365
+Method: org.jsoup.nodes.Comment:childNodeSize:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.Selector:<init>:2:[org.jsoup.select.Evaluator, org.jsoup.nodes.Element] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:replaceChild:2:[org.jsoup.nodes.Node, org.jsoup.nodes.Node] Change Percentage: 0.037037037037037035
+Method: org.jsoup.nodes.Node:unwrap:0:[] Change Percentage: 0.2765957446808511
+Method: org.jsoup.nodes.TextNode:ensureAttributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:attr:1:[java.lang.String] Change Percentage: 0.11363636363636363
+Method: org.jsoup.helper.HttpConnection$Response:<init>:0:[] Change Percentage: 0.16666666666666666
+Method: org.jsoup.select.TraversorTest$3:<init>:2:[org.jsoup.select.TraversorTest, java.lang.StringBuilder] Change Percentage: 0.99
+Method: org.jsoup.Connection$KeyVal:contentType:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeTo:1:[char] Change Percentage: 0.2765957446808511
+Method: org.jsoup.select.TraversorTest$5:<init>:2:[org.jsoup.select.TraversorTest, java.lang.StringBuilder] Change Percentage: 0.99
+Method: org.jsoup.select.Evaluator$IndexLessThan:matches:2:[org.jsoup.nodes.Element, org.jsoup.nodes.Element] Change Percentage: 0.23076923076923078
+Method: org.jsoup.helper.W3CDomTest:simpleConversion:0:[] Change Percentage: 0.5757575757575758
+Method: org.jsoup.helper.DataUtil:parseInputStream:4:[java.io.InputStream, java.lang.String, java.lang.String, org.jsoup.parser.Parser] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element$1:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.11764705882352941
+Method: org.jsoup.helper.HttpConnection$Response:headers:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:hasAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Entities:<clinit>:0:[] Change Percentage: 0.46153846153846156
+Method: org.jsoup.nodes.Attributes:add:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.W3CDom$W3CBuilder:copyAttributes:2:[org.jsoup.nodes.Node, org.w3c.dom.Element] Change Percentage: 0.04081632653061224
+Method: org.jsoup.helper.DataUtilTest:stream:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.StringUtil:normaliseWhitespace:1:[java.lang.String] Change Percentage: 0.05555555555555555
+Method: org.jsoup.nodes.Attribute:<init>:2:[java.lang.String, java.lang.String] Change Percentage: 0.4827586206896552
+Method: org.jsoup.helper.HttpConnection:<init>:0:[] Change Percentage: 0.15
+Method: org.jsoup.internal.ConstrainableInputStream:reset:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.W3CDomTest:convertsGoogleLocation:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.AttributesTest:html:0:[] Change Percentage: 0.18095238095238095
+Method: org.jsoup.helper.HttpConnection:data:4:[java.lang.String, java.lang.String, java.io.InputStream, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$3:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:handlesDeepStack:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtil$BomCharset:<init>:2:[java.lang.String, int] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:matchConsume:1:[java.lang.String] Change Percentage: 0.27586206896551724
+Method: org.jsoup.parser.HtmlTreeBuilder:generateImpliedEndTags:1:[java.lang.String] Change Percentage: 0.0625
+Method: org.jsoup.helper.HttpConnection$Request:cookies:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:put:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:addHeader:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.NodeTest:handlesBaseUri:0:[] Change Percentage: 0.061855670103092786
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$11:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.SlowRider:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.NodeTraversor:filter:2:[org.jsoup.select.NodeFilter, org.jsoup.nodes.Node] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:<init>:2:[java.lang.String, org.jsoup.nodes.Attributes] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeData:0:[] Change Percentage: 0.2222222222222222
+Method: org.jsoup.nodes.Attributes:access$1:1:[org.jsoup.nodes.Attributes] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:cacheString:4:[char[], java.lang.String[], int, int] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:matchesIgnoreCase:1:[java.lang.String] Change Percentage: 0.24324324324324326
+Method: org.jsoup.nodes.AttributesTest:testIteratorUpdateable:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:addAll:1:[org.jsoup.nodes.Attributes] Change Percentage: 0.18181818181818182
+Method: org.jsoup.parser.CharacterReader:current:0:[] Change Percentage: 0.2
+Method: org.jsoup.select.TraversorTest:filterStop:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$13:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Comment:removeAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:cookie:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.Tokeniser:error:1:[java.lang.String] Change Percentage: 0.07692307692307693
+Method: org.jsoup.nodes.BuildEntities:persist:2:[java.lang.String, java.util.ArrayList] Change Percentage: 0.6530612244897959
+Method: org.jsoup.parser.ParserSettingsTest:attributesCaseNormalization:0:[] Change Percentage: 0.06666666666666667
+Method: org.jsoup.helper.HttpConnection$Response:url:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:processStartTag:2:[java.lang.String, org.jsoup.nodes.Attributes] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:shouldCollapseAttribute:3:[java.lang.String, java.lang.String, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.99
+Method: org.jsoup.select.Selector:select:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:attributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.AttributesTest:testIterator:0:[] Change Percentage: 0.06164383561643835
+Method: org.jsoup.nodes.DocumentTest$1:<init>:4:[org.jsoup.nodes.DocumentTest, java.lang.String[], org.jsoup.select.Elements, org.jsoup.nodes.Document] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:isEmpty:0:[] Change Percentage: 0.23529411764705882
+Method: org.jsoup.helper.HttpConnection$Base:getHeadersCaseInsensitive:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$2:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:hasHeaderWithValue:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtil:parseByteData:4:[java.nio.ByteBuffer, java.lang.String, java.lang.String, org.jsoup.parser.Parser] Change Percentage: 0.99
+Method: org.jsoup.nodes.AttributesTest:testIteratorRemovable:0:[] Change Percentage: 0.5465116279069767
+Method: org.jsoup.parser.HtmlParserTest:handlesKnownEmptyIframe:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:matches:1:[char] Change Percentage: 0.15384615384615385
+Method: org.jsoup.nodes.Entities:unescape:1:[java.lang.String] Change Percentage: 0.1111111111111111
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:<clinit>:0:[] Change Percentage: 0.01384083044982699
+Method: org.jsoup.helper.DataUtil:load:4:[java.io.InputStream, java.lang.String, java.lang.String, org.jsoup.parser.Parser] Change Percentage: 0.2962962962962963
+Method: org.jsoup.nodes.DataNode:baseUri:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.Tokeniser:consumeCharacterReference:2:[java.lang.Character, boolean] Change Percentage: 0.16770186335403728
+Method: org.jsoup.nodes.TextNode:attr:2:[java.lang.String, java.lang.String] Change Percentage: 0.6111111111111112
+Method: org.jsoup.parser.HtmlTreeBuilderTest:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:<init>:3:[java.lang.String, java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:doSetBaseUri:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtil$BomCharset:access$1:1:[org.jsoup.helper.DataUtil$BomCharset] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtilTest:secondMetaElementWithContentTypeContainsCharsetParameter:0:[] Change Percentage: 0.43243243243243246
+Method: org.jsoup.parser.TokenQueueTest:consumeToIgnoreSecondCallTest:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Comment:attr:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:createFromEncoded:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeLetterThenDigitSequence:0:[] Change Percentage: 0.44166666666666665
+Method: org.jsoup.select.TraversorTest$4:<init>:1:[org.jsoup.select.TraversorTest] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection:access$0:1:[org.jsoup.Connection$Request] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$2:tail:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.helper.StringUtil:join:2:[java.lang.String[], java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:header:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:hashCode:0:[] Change Percentage: 0.05263157894736842
+Method: org.jsoup.parser.CharacterReader:matchesAnySorted:1:[char[]] Change Percentage: 0.3225806451612903
+Method: org.jsoup.select.Elements:traverse:1:[org.jsoup.select.NodeVisitor] Change Percentage: 0.6666666666666666
+Method: org.jsoup.nodes.Attributes$1:next:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:doSetBaseUri:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:<init>:1:[org.jsoup.helper.HttpConnection$Response] Change Percentage: 0.14
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$5:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:text:1:[java.lang.String] Change Percentage: 0.13333333333333333
+Method: org.jsoup.nodes.Element:childNodeSize:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:removeChild:1:[org.jsoup.nodes.Node] Change Percentage: 0.05405405405405406
+Method: org.jsoup.parser.CharacterReader:consumeToAny:1:[char[]] Change Percentage: 0.37962962962962965
+Method: org.jsoup.nodes.Node:hasAttr:1:[java.lang.String] Change Percentage: 0.08888888888888889
+Method: org.jsoup.nodes.Element:id:0:[] Change Percentage: 0.18181818181818182
+Method: org.jsoup.nodes.Attributes:put:1:[org.jsoup.nodes.Attribute] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:inSelectScope:1:[java.lang.String] Change Percentage: 0.03508771929824561
+Method: org.jsoup.nodes.Element:shallowClone:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.LeafNode:absUrl:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:iterator:0:[] Change Percentage: 0.72
+Method: org.jsoup.nodes.DataNode:childNodeSize:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$4:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.helper.StringUtil:in:2:[java.lang.String, java.lang.String[]] Change Percentage: 0.40425531914893614
+Method: org.jsoup.helper.W3CDom:convert:2:[org.jsoup.nodes.Document, org.w3c.dom.Document] Change Percentage: 0.23255813953488372
+Method: org.jsoup.helper.HttpConnection$Response:hasHeader:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:createFromEncoded:2:[java.lang.String, java.lang.String] Change Percentage: 0.13043478260869565
+Method: org.jsoup.nodes.Attribute:setKey:1:[java.lang.String] Change Percentage: 0.42857142857142855
+Method: org.jsoup.select.NodeTraversor:traverse:1:[org.jsoup.nodes.Node] Change Percentage: 0.8194444444444444
+Method: org.jsoup.parser.Tokeniser:<init>:2:[org.jsoup.parser.CharacterReader, org.jsoup.parser.ParseErrorList] Change Percentage: 0.03896103896103896
+Method: org.jsoup.parser.CharacterReader:matchesLetter:0:[] Change Percentage: 0.08695652173913043
+Method: org.jsoup.integration.TestServer:map:1:[java.lang.Class] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeTo:1:[java.lang.String] Change Percentage: 0.2765957446808511
+Method: org.jsoup.parser.HtmlTreeBuilderState$7:anyOtherEndTag:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.16483516483516483
+Method: org.jsoup.nodes.Element:attr:2:[java.lang.String, boolean] Change Percentage: 0.23809523809523808
+Method: org.jsoup.helper.HttpConnection$Response:url:1:[java.net.URL] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:baseUri:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.StringUtil:<clinit>:0:[] Change Percentage: 0.42105263157894735
+Method: org.jsoup.helper.HttpConnection$Response:createConnection:1:[org.jsoup.Connection$Request] Change Percentage: 0.2900763358778626
+Method: org.jsoup.nodes.Element:<clinit>:0:[] Change Percentage: 0.25
+Method: org.jsoup.nodes.Document:normaliseTextNodes:1:[org.jsoup.nodes.Element] Change Percentage: 0.05434782608695652
+Method: org.jsoup.nodes.DocumentTest:createXmlDocument:3:[java.lang.String, java.lang.String, boolean] Change Percentage: 0.078125
+Method: org.jsoup.nodes.Element:selectFirst:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:<init>:1:[java.lang.String] Change Percentage: 0.45161290322580644
+Method: org.jsoup.nodes.Attribute:isBooleanAttribute:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderStateTest:ensureArraysAreSorted:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:testTemplateInsideTable:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.NodeTest:changingAttributeValueShouldReplaceExistingAttributeCaseInsensitive:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:<init>:4:[java.lang.String, java.lang.String, java.lang.String, java.lang.String] Change Percentage: 0.02127659574468085
+Method: org.jsoup.nodes.Element:doClone:1:[org.jsoup.nodes.Node] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$9:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.SelectorTest:selectFirstWithOr:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.NodeFilter$FilterResult:values:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:childNodeSize:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState:handleRawtext:2:[org.jsoup.parser.Token$StartTag, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.3076923076923077
+Method: org.jsoup.nodes.Attributes:checkCapacity:1:[int] Change Percentage: 0.99
+Method: org.jsoup.nodes.Entities:load:3:[org.jsoup.nodes.Entities$EscapeMode, java.lang.String, int] Change Percentage: 0.6097560975609756
+Method: org.jsoup.parser.TokenQueue:chompBalanced:2:[char, char] Change Percentage: 0.038461538461538464
+Method: org.jsoup.nodes.TextNode:splitText:1:[int] Change Percentage: 0.30526315789473685
+Method: org.jsoup.nodes.DataNode:<init>:2:[java.lang.String, java.lang.String] Change Percentage: 0.3181818181818182
+Method: org.jsoup.select.NodeFilter$FilterResult:<init>:2:[java.lang.String, int] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$1:process:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.19148936170212766
+Method: org.jsoup.helper.HttpConnection$Request:access$5:1:[org.jsoup.helper.HttpConnection$Request] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:removeAttr:1:[java.lang.String] Change Percentage: 0.8333333333333334
+Method: org.jsoup.helper.HttpConnection$Request:cookie:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.TreeBuilder:initialiseParse:4:[java.lang.String, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.UncheckedIOException:<init>:1:[java.io.IOException] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:insert:1:[org.jsoup.parser.Token$Character] Change Percentage: 0.1206896551724138
+Method: org.jsoup.parser.CharacterReader:nextIndexOf:1:[java.lang.CharSequence] Change Percentage: 0.32061068702290074
+Method: org.jsoup.nodes.Node:reindexChildren:1:[int] Change Percentage: 0.5111111111111111
+Method: org.jsoup.parser.TreeBuilder:parse:4:[java.io.Reader, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:indexOfKeyIgnoreCase:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:caseInsensitiveParseTree:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.Tokeniser:appropriateEndTagName:0:[] Change Percentage: 0.42857142857142855
+Method: org.jsoup.parser.XmlTreeBuilder:processStartTag:2:[java.lang.String, org.jsoup.nodes.Attributes] Change Percentage: 0.99
+Method: org.jsoup.parser.Tokeniser:unescapeEntities:1:[boolean] Change Percentage: 0.20454545454545456
+Method: org.jsoup.integration.servlets.EchoServlet:write:3:[java.io.PrintWriter, java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.BaseServlet:doPost:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.parser.Tokeniser:read:0:[] Change Percentage: 0.21686746987951808
+Method: org.jsoup.parser.Token$Tag:newAttribute:0:[] Change Percentage: 0.45081967213114754
+Method: org.jsoup.helper.HttpConnection$Request:<init>:0:[] Change Percentage: 0.12903225806451613
+Method: org.jsoup.nodes.NodeTest:getAttributesCaseInsensitive:2:[org.jsoup.nodes.Element, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.internal.ConstrainableInputStreamTest:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:<init>:1:[org.jsoup.helper.HttpConnection$Request] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element$NodeList:<init>:2:[org.jsoup.nodes.Element, int] Change Percentage: 0.99
+Method: org.jsoup.safety.Whitelist:getEnforcedAttributes:1:[java.lang.String] Change Percentage: 0.10144927536231885
+Method: org.jsoup.nodes.Attributes:asList:0:[] Change Percentage: 0.5301204819277109
+Method: org.jsoup.nodes.Document:normaliseStructure:2:[java.lang.String, org.jsoup.nodes.Element] Change Percentage: 0.2689075630252101
+Method: org.jsoup.select.Collector$FirstFinder:<init>:2:[org.jsoup.nodes.Element, org.jsoup.select.Evaluator] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$3:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.Selector:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.DataNode:attr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.select.NodeTraversor:filter:2:[org.jsoup.select.NodeFilter, org.jsoup.select.Elements] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:prepareByteData:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.ParseSettings:normalizeAttributes:1:[org.jsoup.nodes.Attributes] Change Percentage: 0.6216216216216216
+Method: org.jsoup.safety.Cleaner:copySafeNodes:2:[org.jsoup.nodes.Element, org.jsoup.nodes.Element] Change Percentage: 0.2702702702702703
+Method: org.jsoup.helper.HttpConnection:access$1:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:<init>:2:[java.io.Reader, int] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:getIgnoreCase:1:[java.lang.String] Change Percentage: 0.8076923076923077
+Method: org.jsoup.nodes.BooleanAttribute:<init>:1:[java.lang.String] Change Percentage: 0.14285714285714285
+Method: org.jsoup.nodes.Attribute:<init>:3:[java.lang.String, java.lang.String, org.jsoup.nodes.Attributes] Change Percentage: 0.99
+Method: org.jsoup.nodes.TextNode:hasAttr:1:[java.lang.String] Change Percentage: 0.6470588235294118
+Method: org.jsoup.nodes.Comment:absUrl:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$13:process:2:[org.jsoup.parser.Token, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.11693548387096774
+Method: org.jsoup.parser.CharacterReader:advance:0:[] Change Percentage: 0.14285714285714285
+Method: org.jsoup.Connection$Base:multiHeaders:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.EchoServlet:doPut:2:[javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:indexOfKey:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Entities:escape:2:[java.lang.String, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.14583333333333334
+Method: org.jsoup.nodes.XmlDeclaration:baseUri:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:headers:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes$Dataset:access$2:1:[org.jsoup.nodes.Attributes$Dataset] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$2:head:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:baseUri:0:[] Change Percentage: 1.0
+Method: org.jsoup.helper.DataUtil$BomCharset:access$0:1:[org.jsoup.helper.DataUtil$BomCharset] Change Percentage: 0.99
+Method: org.jsoup.nodes.Element:hasAttributes:0:[] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.SlowRider:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.XmlTreeBuilder:parse:2:[java.lang.String, java.lang.String] Change Percentage: 0.047619047619047616
+Method: org.jsoup.nodes.Attributes$Dataset:<init>:1:[org.jsoup.nodes.Attributes] Change Percentage: 0.5833333333333334
+Method: org.jsoup.internal.ConstrainableInputStream:readToByteBuffer:1:[int] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:access$3:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtilTest:firstMetaElementWithCharsetShouldBeUsedForDecoding:0:[] Change Percentage: 0.43243243243243246
+Method: org.jsoup.helper.HttpConnection$Response:writePost:3:[org.jsoup.Connection$Request, java.io.OutputStream, java.lang.String] Change Percentage: 0.2048780487804878
+Method: org.jsoup.helper.DataUtil:detectCharsetFromBom:1:[java.nio.ByteBuffer] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:clearAttributes:0:[] Change Percentage: 0.07692307692307693
+Method: org.jsoup.nodes.Comment:<init>:2:[java.lang.String, java.lang.String] Change Percentage: 0.3181818181818182
+Method: org.jsoup.parser.XmlTreeBuilder:insert:1:[org.jsoup.parser.Token$Character] Change Percentage: 0.08695652173913043
+Method: org.jsoup.nodes.Attributes:remove:1:[int] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Base:getHeaderCaseInsensitive:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtil:readFileToByteBuffer:1:[java.io.File] Change Percentage: 0.04081632653061224
+Method: org.jsoup.integration.ConnectTest$2:run:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Node:<clinit>:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:access$14:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:hashCode:0:[] Change Percentage: 0.10344827586206896
+Method: org.jsoup.parser.HtmlTreeBuilderState:handleRcData:2:[org.jsoup.parser.Token$StartTag, org.jsoup.parser.HtmlTreeBuilder] Change Percentage: 0.3076923076923077
+Method: org.jsoup.integration.servlets.BaseServlet:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consume:0:[] Change Percentage: 0.18421052631578946
+Method: org.jsoup.integration.TestServer:stop:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeToEnd:0:[] Change Percentage: 0.4857142857142857
+Method: org.jsoup.nodes.Entities$CoreCharset:access$2:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.XmlDeclaration:<init>:2:[java.lang.String, boolean] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:consumeAsString:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.DocumentType:attr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.integration.ConnectTest$1:<init>:2:[org.jsoup.integration.ConnectTest, java.lang.String[]] Change Percentage: 0.99
+Method: org.jsoup.integration.ParseTest:testLowercaseUtf8Charset:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.DataUtil:load:3:[java.io.InputStream, java.lang.String, java.lang.String] Change Percentage: 0.3333333333333333
+Method: org.jsoup.helper.DataUtil:readToByteBuffer:2:[java.io.InputStream, int] Change Percentage: 0.8389830508474576
+Method: org.jsoup.nodes.Element:outerHtmlHead:3:[java.lang.Appendable, int, org.jsoup.nodes.Document$OutputSettings] Change Percentage: 0.19834710743801653
+Method: org.jsoup.parser.HtmlTreeBuilderState$Constants:<init>:0:[] Change Percentage: 0.2222222222222222
+Method: org.jsoup.parser.XmlTreeBuilder:initialiseParse:4:[java.lang.String, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.integration.servlets.EchoServlet:<init>:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.CharacterReader:pos:0:[] Change Percentage: 0.4166666666666667
+Method: org.jsoup.select.Selector:select:2:[org.jsoup.select.Evaluator, org.jsoup.nodes.Element] Change Percentage: 0.45
+Method: org.jsoup.helper.HttpConnection$Response:bufferUp:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:header:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.parser.TokenQueue:unescape:1:[java.lang.String] Change Percentage: 0.2222222222222222
+Method: org.jsoup.nodes.Node:addChildren:1:[org.jsoup.nodes.Node[]] Change Percentage: 0.5882352941176471
+Method: org.jsoup.nodes.Node:clone:0:[] Change Percentage: 0.41237113402061853
+Method: org.jsoup.nodes.Attributes:removeIgnoreCase:1:[java.lang.String] Change Percentage: 0.6964285714285714
+Method: org.jsoup.helper.HttpConnection$Response:body:0:[] Change Percentage: 0.21739130434782608
+Method: org.jsoup.nodes.Element:text:0:[] Change Percentage: 0.18518518518518517
+Method: org.jsoup.nodes.XmlDeclaration:name:0:[] Change Percentage: 0.2222222222222222
+Method: org.jsoup.helper.HttpConnection:access$0:1:[java.net.URL] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Request:cookie:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:put:2:[java.lang.String, boolean] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Base:header:2:[java.lang.String, java.lang.String] Change Percentage: 0.13793103448275862
+Method: org.jsoup.internal.ConstrainableInputStream:<init>:3:[java.io.InputStream, int, int] Change Percentage: 0.99
+Method: org.jsoup.parser.TreeBuilder:parse:4:[java.lang.String, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attribute:isDataAttribute:0:[] Change Percentage: 0.5263157894736842
+Method: org.jsoup.nodes.TextNode:<init>:2:[java.lang.String, java.lang.String] Change Percentage: 0.058823529411764705
+Method: org.jsoup.helper.HttpConnection$Request:url:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Comment:hasAttr:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.internal.ConstrainableInputStreamTest:remainingAfterFirstRead:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$3:tail:2:[org.jsoup.nodes.Node, int] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:<clinit>:0:[] Change Percentage: 0.03125
+Method: org.jsoup.nodes.LeafNode:childNodeSize:0:[] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlParserTest:handlesKnownEmptyStyle:0:[] Change Percentage: 0.99
+Method: org.jsoup.helper.HttpConnection$Response:cookie:1:[java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.select.QueryParser:<clinit>:0:[] Change Percentage: 0.06451612903225806
+Method: org.jsoup.nodes.Attributes$1:hasNext:0:[] Change Percentage: 0.99
+Method: org.jsoup.select.TraversorTest$2:<init>:2:[org.jsoup.select.TraversorTest, java.lang.StringBuilder] Change Percentage: 0.99
+Method: org.jsoup.parser.HtmlTreeBuilder:parseFragment:5:[java.lang.String, org.jsoup.nodes.Element, java.lang.String, org.jsoup.parser.ParseErrorList, org.jsoup.parser.ParseSettings] Change Percentage: 0.15416666666666667
+Method: org.jsoup.nodes.XmlDeclaration:childNodeSize:0:[] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes:remove:1:[java.lang.String] Change Percentage: 0.041666666666666664
+Method: org.jsoup.helper.HttpConnection$Response:getRequestCookieString:1:[org.jsoup.Connection$Request] Change Percentage: 0.18181818181818182
+Method: org.jsoup.Connection$Base:addHeader:2:[java.lang.String, java.lang.String] Change Percentage: 0.99
+Method: org.jsoup.nodes.Attributes$1:<init>:1:[org.jsoup.nodes.Attributes] Change Percentage: 0.99

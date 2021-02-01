@@ -1,0 +1,1321 @@
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseWithExpiredJwtNotWithinAllowedClockSkew:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwt:0:[] Change Percentage: 0.18421052631578946
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:testSignSuccessful:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeader:setCompressionAlgorithm:1:[java.lang.String] Change Percentage: 0.13333333333333333
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseWithPrematureJwtNotWithinAllowedClockSkew:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClockManipulationWithDefaultClock:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:setProperty:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$3$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:this$dist$get$3:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_invalidDERSignatureToJoseFormatTest_closure2:$getStaticMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:<init>:4:[io.jsonwebtoken.impl.crypto.RsaSignerTest, groovy.lang.Reference, java.lang.Object, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireIssuer_Success:0:[] Change Percentage: 0.18571428571428572
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:<clinit>:0:[] Change Percentage: 0.6756756756756757
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:verifySwarmTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwtWithPrematureJwt:0:[] Change Percentage: 0.1984732824427481
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$3$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_invalidDERSignatureToJoseFormatTest_closure2:$getCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwt:0:[] Change Percentage: 0.19753086419753085
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:getMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:super$4$doSign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwsWithSigningKeyResolverInvalidKey:0:[] Change Percentage: 0.14814814814814814
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$4$sign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:testDoVerifyWithInvalidKeyException:0:[] Change Percentage: 0.16483516483516483
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:<clinit>:0:[] Change Percentage: 0.6756756756756757
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:setMetaClass:1:[groovy.lang.MetaClass] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:<init>:1:[io.jsonwebtoken.impl.crypto.RsaSignerTest] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.3893805309734513
+Method: io.jsonwebtoken.impl.JwtMapTest:testEquals:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setHeaderParams:1:[java.util.Map] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireExpiration_Missing_Fail:0:[] Change Percentage: 0.1958762886597938
+Method: io.jsonwebtoken.impl.JwtMapTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwtWithClaimsJwt:0:[] Change Percentage: 0.17391304347826086
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetIssuerWithNull:0:[] Change Percentage: 0.19047619047619047
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClockManipulationWithNullClock:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireNotBefore_Incorrect_Fail:0:[] Change Percentage: 0.2
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_ecdsaSignatureComplianceTest_closure1:$createCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:setProperty:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireId_Incorrect_Fail:0:[] Change Percentage: 0.17391304347826086
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:testConstructorWithoutRSAKey:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireId_Missing_Fail:0:[] Change Percentage: 0.18181818181818182
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:testDoSignWithJoseSignatureFormatException:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:this$dist$set$3:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.CompressionCodecs:<clinit>:0:[] Change Percentage: 0.4117647058823529
+Method: io.jsonwebtoken.impl.FixedClockTest:getMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireGeneric_Success:0:[] Change Percentage: 0.17333333333333334
+Method: io.jsonwebtoken.JwtParserTest$3:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setId:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwtWithPlaintextJws:0:[] Change Percentage: 0.1927710843373494
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireSubject_Incorrect_Fail:0:[] Change Percentage: 0.17391304347826086
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setHeader:1:[io.jsonwebtoken.Header] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidator:isValid:2:[byte[], byte[]] Change Percentage: 0.3793103448275862
+Method: io.jsonwebtoken.JwtParserTest:testParseWithExpiredJwt:0:[] Change Percentage: 0.2
+Method: io.jsonwebtoken.JwtParserTest:testParseClockManipulationWithFixedClock:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setSubject:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.08888888888888889
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwtWithExpiredJwt:0:[] Change Percentage: 0.1564245810055866
+Method: io.jsonwebtoken.JwtParserTest$1:super$2$resolveSigningKeyBytes:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsWithSigningKeyResolverAndKey:0:[] Change Percentage: 0.16216216216216217
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:toJson:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireCustomDate_Incorrect_Fail:0:[] Change Percentage: 0.19047619047619047
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwtWithPlaintextJwt:0:[] Change Percentage: 0.16161616161616163
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:setProperty:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtParser:setClock:1:[io.jsonwebtoken.Clock] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireSubject_Success:0:[] Change Percentage: 0.18571428571428572
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:invokeMethod:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMap:equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireedGeneric_Missing_Fail:0:[] Change Percentage: 0.16042780748663102
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.12179487179487179
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwsWithPlaintextJwt:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.lang.StringsTest:setMetaClass:1:[groovy.lang.MetaClass] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setPayload:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetNullExpirationWithNullClaims:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$2$resolveSigningKeyBytes:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeader:getCompressionAlgorithm:0:[] Change Percentage: 0.5909090909090909
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.UnknownClassException:<init>:2:[java.lang.String, java.lang.Throwable] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProvider:getSignatureByteArrayLength:1:[io.jsonwebtoken.SignatureAlgorithm] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$2$compress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:getEncoded:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParser:setClock:1:[io.jsonwebtoken.Clock] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:doSign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:$getCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireAudience_Success:0:[] Change Percentage: 0.18571428571428572
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireIssuer_Missing_Fail:0:[] Change Percentage: 0.18181818181818182
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:getProperty:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_ecdsaSignatureComplianceTest_closure1:$getCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$2$getTextCodec:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseWithExpiredJwtWithinAllowedClockSkew:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_invalidDERSignatureToJoseFormatTest_closure2:doCall:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Strings:clean:1:[java.lang.String] Change Percentage: 0.6428571428571429
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSigner:doSign:1:[byte[]] Change Percentage: 0.11764705882352941
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:testDoSignWithJdkSignatureException:0:[] Change Percentage: 0.16243654822335024
+Method: io.jsonwebtoken.JwtParserTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.390625
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:$getStaticMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$3$doCompress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:getMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:testHashcode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:invokeMethod:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:testValues:0:[] Change Percentage: 0.3684210526315789
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$signWith:2:[io.jsonwebtoken.SignatureAlgorithm, byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClock:now:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.17073170731707318
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setClaims:1:[java.util.Map] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwsWithClaimsJws:0:[] Change Percentage: 0.15789473684210525
+Method: io.jsonwebtoken.JwtsTest$2:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsWithInvalidSigningKeyResolverAdapter:0:[] Change Percentage: 0.17045454545454544
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.3898305084745763
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.3888888888888889
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setHeaderParam:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSignWithBytesWithoutHmac:0:[] Change Percentage: 0.14814814814814814
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.3898305084745763
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:testBackwardsCompatibleCompressionHeader:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$2$decompress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:$getStaticMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$3$doCompress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setExpiration:1:[java.util.Date] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_ecdsaSignatureComplianceTest_closure1:getV:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_invalidDERSignatureToJoseFormatTest_closure2:<init>:2:[java.lang.Object, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:testTrimWhitespace:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$3$doSetParameter:2:[java.security.Signature, java.security.spec.PSSParameterSpec] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireExpirationAt_Incorrect_Fail:0:[] Change Percentage: 0.2
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:testDoSignWithJdkSignatureException:0:[] Change Percentage: 0.15668202764976957
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:propertyMissing:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtParser:parse:1:[java.lang.String] Change Percentage: 0.36806342015855037
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:invalidDERSignatureToJoseFormatTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testCompactCompressionCodecJsonProcessingException:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwsWithSigningKeyResolverAdapter:0:[] Change Percentage: 0.14473684210526316
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setIssuedAt:1:[java.util.Date] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:<init>:1:[io.jsonwebtoken.impl.DefaultJwtBuilderTest] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$4$doSign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:propertyMissing:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireCustomDate_Success:0:[] Change Percentage: 0.1935483870967742
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetNullNotBeforeWithNullClaims:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_ecdsaSignatureComplianceTest_closure1:<init>:3:[java.lang.Object, java.lang.Object, groovy.lang.Reference] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:super$4$doSign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSigner:<init>:2:[io.jsonwebtoken.SignatureAlgorithm, java.security.Key] Change Percentage: 0.24489795918367346
+Method: io.jsonwebtoken.lang.Strings:trimWhitespace:1:[java.lang.String] Change Percentage: 0.8870967741935484
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:doSign:1:[byte[]] Change Percentage: 0.1111111111111111
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.17073170731707318
+Method: io.jsonwebtoken.JwtsTest$3:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProvider:transcodeSignatureToDER:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSigner:sign:1:[byte[]] Change Percentage: 0.28
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$createSigner:2:[io.jsonwebtoken.SignatureAlgorithm, java.security.Key] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$4$sign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:this$dist$set$3:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:ecdsaSignatureComplianceTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.Clock:now:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.JwtsTest$2:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:testConstructorWithoutRsaPrivateKey:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseWithPrematureJwt:0:[] Change Percentage: 0.35294117647058826
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$2$resolveSigningKeyBytes:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.UnknownClassException:<init>:1:[java.lang.Throwable] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:propertyMissing:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.37681713848508036
+Method: io.jsonwebtoken.JwtParserTest$6:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:methodMissing:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$4$isValid:2:[byte[], byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setNotBefore:1:[java.util.Date] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testClaimNullValue:0:[] Change Percentage: 0.18604651162790697
+Method: io.jsonwebtoken.JwtParserTest$2:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Classes:<clinit>:0:[] Change Percentage: 0.21052631578947367
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$3$doSetParameter:2:[java.security.Signature, java.security.spec.PSSParameterSpec] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$4$sign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:setMetaClass:1:[groovy.lang.MetaClass] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setAudience:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:getAlgorithm:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:$createCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:$getCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireNotBefore_Success:0:[] Change Percentage: 0.2908366533864542
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:testSetCompressionAlgorithm:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetAudienceWithNull:0:[] Change Percentage: 0.19047619047619047
+Method: io.jsonwebtoken.JwtsTest$1:super$2$decompress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:$getCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:invalidAlgorithmTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.25
+Method: io.jsonwebtoken.impl.FixedClockTest:testFixedClockDefaultConstructor:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:methodMissing:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$compressWith:1:[io.jsonwebtoken.CompressionCodec] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.RuntimeEnvironment:<init>:0:[] Change Percentage: 0.2222222222222222
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClock:<init>:1:[java.util.Date] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtParser:<init>:0:[] Change Percentage: 0.20689655172413793
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwtWithClaimsJws:0:[] Change Percentage: 0.20125786163522014
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:edgeCaseSignatureToConcatLengthTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:<init>:4:[io.jsonwebtoken.impl.crypto.RsaSignerTest, groovy.lang.Reference, java.lang.Object, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireDontAllowEmptyClaimName:0:[] Change Percentage: 0.15568862275449102
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParser:setAllowedClockSkewSeconds:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwsWithInvalidSigningKeyResolverAdapter:0:[] Change Percentage: 0.17045454545454544
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetIdWithNull:0:[] Change Percentage: 0.19047619047619047
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:doSign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJws:0:[] Change Percentage: 0.1791044776119403
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsWithSigningKeyResolverInvalidKey:0:[] Change Percentage: 0.14814814814814814
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.2044334975369458
+Method: io.jsonwebtoken.JwtParserTest$5:super$2$resolveSigningKeyBytes:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.5070422535211268
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.25
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireCustomDate_Missing_Fail:0:[] Change Percentage: 0.18579234972677597
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Arrays:<init>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.1188118811881188
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireAudience_Missing_Fail:0:[] Change Percentage: 0.18181818181818182
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$2$getTextCodec:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$2$compress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:testDoSignWithInvalidKeyException:0:[] Change Percentage: 0.15668202764976957
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setIssuer:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireIssuedAt_Success:0:[] Change Percentage: 0.29098360655737704
+Method: io.jsonwebtoken.CompressionExceptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireSubject_Missing_Fail:0:[] Change Percentage: 0.18181818181818182
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Assert:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$4$getMacInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setClaims:1:[io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsWithSigningKeyResolverAndKeyBytes:0:[] Change Percentage: 0.15476190476190477
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:<init>:4:[io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest, groovy.lang.Reference, java.lang.Object, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:this$dist$get$3:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$2$isAndroid:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProvider$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.047058823529411764
+Method: io.jsonwebtoken.impl.DefaultClock:<init>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwtWithPlaintextJws:0:[] Change Percentage: 0.1927710843373494
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:getFormat:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:invokeMethod:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$3$doSetParameter:2:[java.security.Signature, java.security.spec.PSSParameterSpec] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:<clinit>:0:[] Change Percentage: 0.7435897435897436
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwsWithIncorrectAlg:0:[] Change Percentage: 0.19689119170984457
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.17073170731707318
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:propertyMissing:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:<init>:3:[io.jsonwebtoken.impl.crypto.MacSignerTest, java.lang.Object, java.lang.Object] Change Percentage: 0.09523809523809523
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$signWith:2:[io.jsonwebtoken.SignatureAlgorithm, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.RuntimeEnvironment:<clinit>:0:[] Change Percentage: 0.25
+Method: io.jsonwebtoken.lang.Strings:<init>:0:[] Change Percentage: 0.2222222222222222
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetHeaderParamsWithEmptyMap:0:[] Change Percentage: 0.18181818181818182
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:$getStaticMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.3942307692307692
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.45307443365695793
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireIssuer_Incorrect_Fail:0:[] Change Percentage: 0.17391304347826086
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwsWithExpiredJws:0:[] Change Percentage: 0.17328519855595667
+Method: io.jsonwebtoken.JwtsTest$2:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:setMetaClass:1:[groovy.lang.MetaClass] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:edgeCaseSignatureToConcatInvalidSignatureTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:setMetaClass:1:[groovy.lang.MetaClass] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireIssuedAt_Incorrect_Fail:0:[] Change Percentage: 0.19718309859154928
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireDontAllowNullClaimName:0:[] Change Percentage: 0.15568862275449102
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Classes:<init>:0:[] Change Percentage: 0.2222222222222222
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwsWithPlaintextJwt:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$3$setParameter:2:[java.security.Signature, java.security.spec.PSSParameterSpec] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:testHasText:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwsWithClaimsJwt:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:methodMissing:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:getProperty:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJwsWithClaimsJwt:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:getMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClock:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$compact:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_ecdsaSignatureComplianceTest_closure1:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:doSign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.8794326241134752
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.25
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$2$isAndroid:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClock:now:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:edgeCaseSignatureToConcatInvalidSignatureBranchTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$claim:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParsePlaintextJws:0:[] Change Percentage: 0.17054263565891473
+Method: io.jsonwebtoken.JwtsTest$2:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.DefaultJwsTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSignWithBase64EncodedBytesWithoutHmac:0:[] Change Percentage: 0.1643835616438356
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.InvalidClaimExceptionTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwsWithPrematureJws:0:[] Change Percentage: 0.20087336244541484
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:<init>:3:[io.jsonwebtoken.impl.crypto.MacSignerTest, java.lang.Object, java.lang.Object] Change Percentage: 0.09523809523809523
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.MissingClaimExceptionTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:propertyMissing:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:<init>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireNotBefore_Missing_Fail:0:[] Change Percentage: 0.1958762886597938
+Method: io.jsonwebtoken.lang.StringsTest:getProperty:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$3$doDecompress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:this$dist$invoke$3:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.10256410256410256
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:this$dist$invoke$3:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$4$getMacInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:testCleanCharSequence:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireAudience_Incorrect_Fail:0:[] Change Percentage: 0.17391304347826086
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetHeaderParamsWithNullMap:0:[] Change Percentage: 0.19047619047619047
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:$createCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$2$compress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:$getStaticMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetNullIssuedAtWithNullClaims:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:super$2$toJson:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.lang.StringsTest:getMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Arrays:length:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClock:<init>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:edgeCaseSignatureToConcatInvalidSignatureBranch2Test:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$2$resolveSigningKey:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$2$isBouncyCastleAvailable:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Assert:<init>:0:[] Change Percentage: 0.2222222222222222
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$3$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$2$decompress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:$getCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.JwtsTest$2:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$base64UrlEncode:2:[java.lang.Object, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsWithNullSigningKeyResolver:0:[] Change Percentage: 0.15789473684210525
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:this$dist$set$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$3$setParameter:2:[java.security.Signature, java.security.spec.PSSParameterSpec] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:setProperty:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_ecdsaSignatureComplianceTest_closure1:doCall:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:this$dist$invoke$4:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$3$setParameter:2:[java.security.Signature, java.security.spec.PSSParameterSpec] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireGeneric_Incorrect_Fail:0:[] Change Percentage: 0.1595744680851064
+Method: io.jsonwebtoken.JwtsTest$2:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$2$resolveSigningKeyBytes:2:[io.jsonwebtoken.JwsHeader, io.jsonwebtoken.Claims] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:this$dist$get$3:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_invalidDERSignatureToJoseFormatTest_closure2:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:getSystemProperty:1:[java.lang.String] Change Percentage: 0.5217391304347826
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$ensureClaims:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$3:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireId_Success:0:[] Change Percentage: 0.18571428571428572
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Collections:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:<init>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$2$getSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireDontAllowNullClaimValue:0:[] Change Percentage: 0.16184971098265896
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionCodecs:<init>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Strings:<clinit>:0:[] Change Percentage: 0.4
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.3870967741935484
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$signWith:2:[io.jsonwebtoken.SignatureAlgorithm, java.security.Key] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.StringsTest:$createCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:this$dist$invoke$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$4$sign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Arrays:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$ensureHeader:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionCodecs:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_ecdsaSignatureComplianceTest_closure1:$getStaticMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$2$setHeader:1:[java.util.Map] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$_invalidDERSignatureToJoseFormatTest_closure2:$createCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.SigningKeyResolverAdapterTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.lang.Strings:trimWhitespace:1:[java.lang.CharSequence] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$2:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:invokeMethod:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.Base64UrlCodecTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:$createCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:<clinit>:0:[] Change Percentage: 0.8666666666666667
+Method: io.jsonwebtoken.lang.StringsTest:testClean:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:this$dist$set$3:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseWithPrematureJwtWithinAllowedClockSkew:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.07017543859649122
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:legacySignatureCompatTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:propertyMissing:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.PrematureJwtExceptionTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtParser:setAllowedClockSkewSeconds:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultHeaderTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$2:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:getProperty:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:$getCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$2:super$2$resolveSigningKeyBytes:2:[io.jsonwebtoken.JwsHeader, java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$3:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$4:this$dist$get$2:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$4$sign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.MissingClaimExceptionTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Strings:clean:1:[java.lang.CharSequence] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testBase64UrlEncodeError:0:[] Change Percentage: 0.29213483146067415
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.compression.AbstractCompressionCodecTest$ExceptionThrowingCodec:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Arrays:clean:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$1:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.Objects:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest:$createCallSiteArray_1:1:[java.lang.String[]] Change Percentage: 0.23430962343096234
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwsWithPlaintextJws:0:[] Change Percentage: 0.15789473684210525
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$1:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:super$4$sign:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMapTest$1:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:this$dist$set$2:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.JwtMap:hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$2:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtHandlerAdapterTest:super$1$wait:2:[long, int] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.FixedClockTest:getProperty:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:invalidECDSASignatureFormatTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$1:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsTest:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProviderTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$5:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$2$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$1$notifyAll:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:edgeCaseSignatureLengthTest:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$2$getTextCodec:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest$1:super$4$isValid:2:[byte[], byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest:testConstructorWithoutPrivateKey:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$1:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireExpiration_Success:0:[] Change Percentage: 0.2908366533864542
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignatureValidatorFactoryTest:super$1$getClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsJwtWithClaimsJws:0:[] Change Percentage: 0.20125786163522014
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.MissingClaimExceptionTest:$createCallSiteArray:0:[] Change Percentage: 0.14285714285714285
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:this$dist$get$1:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseRequireIssuedAt_Missing_Fail:0:[] Change Percentage: 0.1958762886597938
+Method: io.jsonwebtoken.impl.crypto.RsaProviderTest$1:this$dist$invoke$3:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$3$createSignatureInstance:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.ExpiredJwtExceptionTest:__$swapInit:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest$2:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.IncorrectClaimExceptionTest:super$1$clone:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest$1:super$3$setParameter:2:[java.security.Signature, java.security.spec.PSSParameterSpec] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest:<clinit>:0:[] Change Percentage: 0.6388888888888888
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.SignatureProviderTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignerTest$3:$getStaticMetaClass:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest$2:setProperty:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignatureValidatorTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.lang.UnknownClassException:<init>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultTextCodecFactoryTest$3:super$2$isAndroid:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.DefaultSignerFactoryTest:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest$6:super$1$equals:1:[java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:invokeMethod:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtParserTest:testParseClaimsWithSigningKeyResolver:0:[] Change Percentage: 0.15286624203821655
+Method: io.jsonwebtoken.impl.DefaultClaimsTest:this$dist$set$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$3$doDecompress:1:[byte[]] Change Percentage: 0.99
+Method: io.jsonwebtoken.CompressionExceptionTest:super$1$wait:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$2:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveProvider:transcodeSignatureToConcat:2:[byte[], int] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.RsaSignerTest$3:$createCallSiteArray:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwsHeaderTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacProviderTest:<clinit>:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$2:super$1$toString:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.JwtsTest$3:super$1$finalize:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$hashCode:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidatorTest:super$1$wait:1:[long] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtBuilderTest:testSetSubjectWithNull:0:[] Change Percentage: 0.19047619047619047
+Method: io.jsonwebtoken.JwtParserTest$2:class$:1:[java.lang.String] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.DefaultJwtTest:super$1$notify:0:[] Change Percentage: 0.99
+Method: io.jsonwebtoken.RequiredTypeExceptionTest:this$dist$invoke$1:2:[java.lang.String, java.lang.Object] Change Percentage: 0.99
+Method: io.jsonwebtoken.impl.crypto.MacSignerTest$1:this$dist$get$4:1:[java.lang.String] Change Percentage: 0.99
