@@ -1,6 +1,8 @@
 # Code Change Sniffer (CCS)
 This is a study on predicting code changes with Markov Chains for Java projects based on their commits.
 
+![](/figures/junit4_prediction_example.png)
+
 ## How to Run CCS
 CCS runs by the class `MainCCS.java`, and requires two arguments:
 * **First argument:** Directory to last commit
