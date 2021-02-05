@@ -1,5 +1,9 @@
 [Link to Commits](https://github.com/junit-team/junit4/compare/r4.11...r4.12)
 
+![](charts/junit4_precision.png)
+![](charts/junit4_recall.png)
+![](charts/junit4_fmeasure.png)
+
 | Commit ID | SHA                                      | Type of Change                                                               | MC_CG_Precision | MC_CG_Recall | MC_CG_F-Measure | MC_CG_Precision_0.1 | MC_CG_Recall_0.1 | MC_CG_F-Measure_0.1 | MC_CG_Precision_0.2 | MC_CG_Recall_0.2 | MC_CG_F-Measure_0.2 | MC_EG_Precision | MC_EG_Recall | MC_EG_F-Measure | MC_EG_Precision_0.1 | MC_EG_Recall_0.1 | MC_EG_F-Measure_0.1 | MC_EG_Precision_0.2 | MC_EG_Recall_0.2 | MC_EG_F-Measure_0.2 |
 |-----------|------------------------------------------|------------------------------------------------------------------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|
 | 1         | e792dc49f28bdd4cdc3bcc9898bbb9d49f25e0d3 | DM, CNF, CM, AC, APC, AFC, CNC                                               | 0.9151          | 1.0000       | 0.9556          | 0.9177              | 0.9409           | 0.9292              | 0.9167              | 0.8819           | 0.8989              | 0.7343          | 1.0000       | 0.8468          | 0.8863              | 0.9397           | 0.9122              | 0.8821              | 0.8643           | 0.8731              |
