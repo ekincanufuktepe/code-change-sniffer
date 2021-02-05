@@ -1,5 +1,9 @@
 [Link to Commits](https://github.com/apache/commons-codec/compare/commons-codec-1.14...rel/commons-codec-1.15)
 
+![](charts/commons-codec_precision.png)
+![](charts/commons-codec_recall.png)
+![](charts/commons-codec_fmeasure.png)
+
 | Commit ID | SHA                                      | Type of Change                              | MC_CG_Precision | MC_CG_Recall | MC_CG_F-Measure | MC_CG_Precision_0.1 | MC_CG_Recall_0.1 | MC_CG_F-Measure_0.1 | MC_CG_Precision_0.2 | MC_CG_Recall_0.2 | MC_CG_F-Measure_0.2 | MC_EG_Precision | MC_EG_Recall | MC_EG_F-Measure | MC_EG_Precision_0.1 | MC_EG_Recall_0.1 | MC_EG_F-Measure_0.1 | MC_EG_Precision_0.2 | MC_EG_Recall_0.2 | MC_EG_F-Measure_0.2 |
 |-----------|------------------------------------------|---------------------------------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|
 | 1         | f5a61f0cd029f18666163f414f848ba0e1b39976 | AM, CM, CNM                                 | 0.0746          | 1.0000       | 0.1389          | 0.0762              | 0.8500           | 0.1399              | 0.0542              | 0.4500           | 0.0968              | 0.051194539     | 1            | 0.097402597     | 0.0697              | 0.9333           | 0.1296              | 0.0329              | 0.3333           | 0.0599              |
