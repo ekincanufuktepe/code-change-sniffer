@@ -1,5 +1,9 @@
 [Link to Commits](https://github.com/jhy/jsoup/compare/jsoup-1.10.3...jsoup-1.11.1)
 
+![](charts/jsoup_precision.png)
+![](charts/jsoup_recall.png)
+![](charts/jsoup_fmeasure.png)
+
 | Commit ID | SHA                                      | Type of Change                                    | MC_CG_Precision | MC_CG_Recall | MC_CG_F-Measure | MC_CG_Precision_0.1 | MC_CG_Recall_0.1 | MC_CG_F-Measure_0.1 | MC_CG_Precision_0.2 | MC_CG_Recall_0.2 | MC_CG_F-Measure_0.2 | MC_EG_Precision | MC_EG_Recall | MC_EG_F-Measure | MC_EG_Precision_0.1 | MC_EG_Recall_0.1 | MC_EG_F-Measure_0.1 | MC_EG_Precision_0.2 | MC_EG_Recall_0.2 | MC_EG_F-Measure_0.2 |
 |-----------|------------------------------------------|---------------------------------------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|
 | 1         | 8e7dd7073fb3bced0c49c5e65416436359390197 | AM                                                | 0.2069          | 0.6429       | 0.3130          | 0.2475              | 0.4464           | 0.3185              | 0.3137              | 0.2857           | 0.2991              | 0.2021          | 0.6610       | 0.3095          | 0.2673              | 0.4576           | 0.3375              | 0.3333              | 0.2881           | 0.3091              |
