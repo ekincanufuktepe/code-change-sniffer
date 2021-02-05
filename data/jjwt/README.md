@@ -1,5 +1,8 @@
 [Link to Commits](https://github.com/jwtk/jjwt/compare/0.6.0...0.7.0)
 
+![](charts/jjwt_precision.png)
+![](charts/jjwt_recall.png)
+![](charts/jjwt_fmeasure.png)
 
 | Commit ID | SHA                                      | Type of Change            | MC_CG_Precision | MC_CG_Recall | MC_CG_F-Measure | MC_CG_Precision_0.1 | MC_CG_Recall_0.1 | MC_CG_F-Measure_0.1 | MC_CG_Precision_0.2 | MC_CG_Recall_0.2 | MC_CG_F-Measure_0.2 | MC_EG_Precision | MC_EG_Recall | MC_EG_F-Measure | MC_EG_Precision_0.1 | MC_EG_Recall_0.1 | MC_EG_F-Measure_0.1 | MC_EG_Precision_0.2 | MC_EG_Recall_0.2 | MC_EG_F-Measure_0.2 |
 |-----------|------------------------------------------|---------------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|-----------------|--------------|-----------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|
