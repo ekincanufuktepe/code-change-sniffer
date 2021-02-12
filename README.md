@@ -48,3 +48,6 @@ data
 ```
 
 ## How to Generate Ground Truth
+To generate ground truth, you need to run the `ccs.markov.change.TestNumberOfChanges.java` file. The `TestNumberOfChanges.java` class requires two arguments. The first argument must be the last version of the project, and the second argument must be the previous version of the project. For example, for the versions *0.6.0* and *0.7.0* of project *JJWT*, the `TestNumberOfChanges.java` class should be run as below:
+
+`"../jjwt-0.7.0" "../jjwt-0.6.0"`
