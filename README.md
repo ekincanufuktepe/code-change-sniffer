@@ -1,5 +1,5 @@
 # Code Change Sniffer (CCS)
-This is a study on predicting code changes with Markov Chains for Java projects based on their commits.
+This is a study on predicting code changes with Markov Chains for Java projects based on their commits. To have a better understanding how Markov Chains is used in CCS, please check the [Running Example Supplementary Material](/docs/Supplementary_Material__Running_Example_of_Code_Change_Sniffer_Method.pdf)
 
 ![](/figures/junit4_prediction_example.png)
 
