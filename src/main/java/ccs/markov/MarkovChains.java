@@ -336,11 +336,14 @@ public class MarkovChains {
 
 		try {
 			BufferedWriter bw = new BufferedWriter(new FileWriter(projectReportDirectory+commitNum+reportName));
-			
 			for(int i=0; i<methodList.size(); i++) {
+				
 				if(change.getMethodChangeProb().containsKey(methodList.get(i))) {
 					if(change.getMethodChangeProb().get(methodList.get(i)) > 0.0 && normalizedImpactResults[0][i] == 0) {
 						bw.write(methodList.get(i)+" = "+change.getMethodChangeProb().get(methodList.get(i))+", Parents; -2\n");
+					}
+					else if(change.getMethodChangeProb().get(methodList.get(i)) > 0.0 && normalizedImpactResults[0][i] != 0) {
+						bw.write(methodList.get(i)+" = "+normalizedImpactResults[0][i]+", Parents; -2\n");
 					}
 				}
 				else {
