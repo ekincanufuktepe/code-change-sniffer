@@ -1,5 +1,5 @@
 # Code Change Sniffer (CCS)
-This is a study on predicting code changes with Markov Chains for Java projects based on their commits.
+This is a study on predicting code changes with Markov Chains for Java projects based on their commits. To have a better understanding how Markov Chains is used in CCS, please check the [Running Example Supplementary Material](/docs/Supplementary_Material__Running_Example_of_Code_Change_Sniffer_Method.pdf)
 
 ![](/figures/junit4_prediction_example.png)
 
@@ -51,3 +51,14 @@ data
 To generate ground truth, you need to run the `ccs.markov.change.TestNumberOfChanges.java` file. The `TestNumberOfChanges.java` class requires two arguments. The first argument must be the last version of the project, and the second argument must be the previous version of the project. For example, for the versions *0.6.0* and *0.7.0* of project *JJWT*, the `TestNumberOfChanges.java` class should be run as below:
 
 `"../jjwt-0.7.0" "../jjwt-0.6.0"`
+
+## Citing
+If you have used our work please cite us
+```tex
+@inproceedings{ufuktepe2021ccs,
+  title={Code Change Sniffer: Predicting Future Code Changes with Markov Chain},
+  author={Ufuktepe, Ekincan and Tuglular, Tugkan},
+  booktitle={IEEE Computer Software and Applications Conference},
+  year={2021},
+}
+```
