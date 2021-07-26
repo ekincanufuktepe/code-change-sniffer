@@ -185,8 +185,10 @@ public class RegexRulesForForwardSlicingTransitionRules {
 		
 		for(int i=0; i<ruleSet.length; i++)
 		{
-			if(variable.contains("$"))
+			if(variable.startsWith("$"))
 				ruleSet[i] = rulesDirectLeft[i]+"\\"+variable+rulesDirectRight[i];
+			else if(variable.contains("$"))
+				ruleSet[i] = rulesDirectLeft[i]+variable+rulesDirectRight[i];
 			else
 				ruleSet[i] = rulesDirectLeft[i]+variable+rulesDirectRight[i];
 		}
