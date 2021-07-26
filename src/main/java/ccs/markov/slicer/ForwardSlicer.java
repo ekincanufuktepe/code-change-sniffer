@@ -231,6 +231,10 @@ public class ForwardSlicer extends ProgramSlicer implements ISliceAlgorithm{
 		Set<Variables> extendSetOfVars = new HashSet<>();
 		for(Statement findStatement : cfg.keySet())
 		{
+			// If starting statement is unavailable move forward
+			if(startingStatement == null) {
+				continue;
+			}
 			if(findStatement.getId() == startingStatement.getId())
 			{
 				if(findStatement.isFlag() == false)
